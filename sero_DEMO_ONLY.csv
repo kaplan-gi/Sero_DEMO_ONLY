@@ -1,0 +1,1214 @@
+index,PatientID,Sex,IBD_Type,Biologic_Type,Steroid_Medication,ASA,Immunomodulators,NC_Value,NC_Seroconversion,RBD_Value,RBD_Seroconversion,Age_COVIDpos,Age_Group,DX_sero_days,DX_secsero_days,Vaccine_Status,Serology_Date,Group,Days_since_pv1,Days_since_pv2,Days_since_pv3,pv4,pv1,pv2,pv3,dbv1v2,dbv2v3
+1,,Female,CD,Adalimumab,none,none,none,0.64,Negative,96,Positive,,Adult,,,Post-1st,01-Jun-21,baseline,53,,,,09-Apr-21,18-Jun-21,14-Oct-21,70,118
+2,,Female,CD,Adalimumab,none,none,none,0.7,Negative,5465,Positive,,Adult,,,Post-3rd,12-Nov-21,baseline,,,29,,09-Apr-21,18-Jun-21,14-Oct-21,70,118
+3,,Female,UC,Remicade,none,none,Azathioprine/Immuran,0.02,Negative,64,Positive,,Adult,,,Post-1st,13-May-21,baseline,45,,,,29-Mar-21,01-Jun-21,23-Sep-21,64,114
+4,,Female,UC,Remicade,none,none,Azathioprine/Immuran,0.02,Negative,3374,Positive,,Adult,,,Post-2nd,24-Jun-21,baseline,,23,,,29-Mar-21,01-Jun-21,23-Sep-21,64,114
+5,,Female,UC,Remicade,none,none,Azathioprine/Immuran,0.01,Negative,2332,Positive,,Adult,,,Post-3rd,27-Oct-21,baseline,,,34,,29-Mar-21,01-Jun-21,23-Sep-21,64,114
+6,,Male,UC,Ustekinumab,none,Oral 5ASA,none,0.02,Negative,2021,Positive,,Adult,,,Post-1st,30-Apr-21,baseline,25,,,,05-Apr-21,22-May-21,01-Oct-21,47,132
+7,,Male,UC,Ustekinumab,none,Oral 5ASA,none,,,16932,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,44,,,05-Apr-21,22-May-21,01-Oct-21,47,132
+8,,Male,UC,Ustekinumab,none,Oral 5ASA,none,0.66,Negative,5131,Positive,,Adult,,,Post-2nd,30-Sep-21,baseline,,131,,,05-Apr-21,22-May-21,01-Oct-21,47,132
+9,,Male,UC,Ustekinumab,none,Oral 5ASA,none,0.37,Negative,40000,Positive,,Adult,,,Post-3rd,26-Oct-21,baseline,,,25,,05-Apr-21,22-May-21,01-Oct-21,47,132
+10,,Female,CD,none,Oral budesonide/Cortiment/Entocort,none,none,0.04,Negative,713,Positive,,Elderly,,,Post-2nd,20-May-21,baseline,,29,,,13-Mar-21,21-Apr-21,18-Oct-21,39,180
+11,,Female,CD,none,Oral budesonide/Cortiment/Entocort,none,none,0.04,Negative,162,Positive,,Elderly,,,Post-2nd,14-Oct-21,baseline,,176,,,13-Mar-21,21-Apr-21,18-Oct-21,39,180
+12,,Female,CD,none,Oral budesonide/Cortiment/Entocort,none,none,0.05,Negative,1873,Positive,,Elderly,,,Post-3rd,09-Dec-21,baseline,,,52,,13-Mar-21,21-Apr-21,18-Oct-21,39,180
+13,,Female,CD,none,none,none,none,0.18,Negative,1689,Positive,,Adult,,,Post-1st,19-May-21,baseline,40,,,,09-Apr-21,11-Jun-21,,63,
+14,,Female,CD,none,none,none,none,,,14975,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,47,,,09-Apr-21,11-Jun-21,,63,
+15,,Female,CD,none,none,none,none,0.09,Negative,3751,Positive,,Adult,,,Post-2nd,09-Nov-21,baseline,,151,,,09-Apr-21,11-Jun-21,,63,
+16,,Male,UC,none,none,Oral 5ASA,none,0.03,Negative,963,Positive,,Elderly,205,,Post-1st,30-Apr-21,covid,31,,,,30-Mar-21,09-Jun-21,,71,
+17,,Male,UC,none,none,Oral 5ASA,none,,,2403,Positive,,Elderly,268,,Post-2nd,02-Jul-21,covid,,23,,,30-Mar-21,09-Jun-21,,71,
+18,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,431,Positive,,Adult,,,Post-1st,28-May-21,baseline,53,,,,05-Apr-21,30-May-21,,55,
+19,,Female,UC,Inflectra,none,none,none,0.06,Negative,83,Positive,,Adult,,,Post-1st,06-May-21,baseline,34,,,,02-Apr-21,13-May-21,06-Oct-21,41,146
+20,,Female,UC,Inflectra,none,none,none,,,1723,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,53,,,02-Apr-21,13-May-21,06-Oct-21,41,146
+21,,Female,UC,Inflectra,none,none,none,0.08,Negative,274,Positive,,Adult,,,Post-2nd,01-Oct-21,baseline,,141,,,02-Apr-21,13-May-21,06-Oct-21,41,146
+22,,Female,UC,Inflectra,none,none,none,0.05,Negative,5799,Positive,,Adult,,,Post-3rd,05-Nov-21,baseline,,,30,,02-Apr-21,13-May-21,06-Oct-21,41,146
+23,,Male,UC,Remicade,none,none,Azathioprine/Immuran,0.04,Negative,105,Positive,,Adult,,,Post-1st,26-May-21,baseline,50,,,,06-Apr-21,23-Jun-21,23-Nov-21,78,153
+24,,Male,UC,Remicade,none,none,Azathioprine/Immuran,,,,,,Adult,,,Post-2nd,11-Aug-21,baseline,,49,,,06-Apr-21,23-Jun-21,23-Nov-21,78,153
+25,,Male,UC,Remicade,none,none,Azathioprine/Immuran,0.04,Negative,307,Positive,,Adult,,,Post-2nd,03-Nov-21,baseline,,133,,,06-Apr-21,23-Jun-21,23-Nov-21,78,153
+26,,Male,CD,Adalimumab,none,none,none,0.51,Negative,1163,Positive,,Adult,,,Post-2nd,24-Apr-21,baseline,,61,,,14-Jan-21,22-Feb-21,08-Oct-21,39,228
+27,,Female,CD,none,none,none,none,0.02,Negative,347,Positive,,Adult,,,Post-1st,10-May-21,baseline,54,,,,17-Mar-21,05-Jun-21,10-Sep-21,80,97
+28,,Female,CD,none,none,none,none,,,2448,Positive,,Adult,,,Post-2nd,02-Jul-21,baseline,,27,,,17-Mar-21,05-Jun-21,10-Sep-21,80,97
+29,,Female,CD,none,none,none,none,0.02,Negative,16850,Positive,,Adult,,,Post-3rd,01-Oct-21,baseline,,,21,,17-Mar-21,05-Jun-21,10-Sep-21,80,97
+30,,Female,CD,Infliximab,none,none,Methotrexate,0.04,Negative,336,Positive,,Adult,-90,,Post-2nd,31-May-21,Post Vaccine covid,,34,,,01-Apr-21,27-Apr-21,22-Sep-21,26,148
+31,,Female,CD,Infliximab,none,none,Methotrexate,0.03,Negative,39,Negative,,Adult,-5,,Post-2nd,24-Aug-21,Post Vaccine covid,,119,,,01-Apr-21,27-Apr-21,22-Sep-21,26,148
+32,,Female,CD,Infliximab,none,none,Methotrexate,0.48,Negative,39669,Positive,,Adult,38,,Post-3rd,06-Oct-21,Post Vaccine covid,,,14,,01-Apr-21,27-Apr-21,22-Sep-21,26,148
+33,,Male,UC,none,none,none,none,0.02,Negative,1004,Positive,,Adult,,,Post-1st,05-May-21,baseline,30,,,,05-Apr-21,03-Jun-21,,59,
+34,,Male,UC,none,none,none,none,0.03,Negative,11254,Positive,,Adult,,,Post-2nd,14-Jun-21,baseline,,11,,,05-Apr-21,03-Jun-21,,59,
+35,,Male,UC,none,none,none,none,0.06,Negative,2568,Positive,,Adult,,,Post-2nd,18-Oct-21,baseline,,137,,,05-Apr-21,03-Jun-21,,59,
+36,,Male,UC,Renflexis/IFX,none,none,none,0.06,Negative,57,Positive,,Elderly,,,Post-1st,29-Apr-21,baseline,48,,,,12-Mar-21,03-Jun-21,11-Nov-21,83,161
+37,,Male,UC,Renflexis/IFX,none,none,none,,,,,,Elderly,,,Post-2nd,19-Jul-21,baseline,,46,,,12-Mar-21,03-Jun-21,11-Nov-21,83,161
+38,,Male,UC,Renflexis/IFX,none,none,none,0.69,Negative,4141,Positive,,Elderly,,,Post-3rd,23-Nov-21,baseline,,,12,,12-Mar-21,03-Jun-21,11-Nov-21,83,161
+39,,Female,UC,none,none,none,none,0.01,Negative,2803,Positive,,Adult,,,Post-1st,11-May-21,baseline,19,,,,22-Apr-21,20-May-21,,28,
+40,,Female,UC,none,none,none,none,,,51805,Positive,,Adult,,,Post-2nd,09-Jun-21,baseline,,20,,,22-Apr-21,20-May-21,,28,
+41,,Female,UC,none,none,none,none,0.01,Negative,3123,Positive,,Adult,,,Post-2nd,22-Sep-21,baseline,,125,,,22-Apr-21,20-May-21,,28,
+42,,Female,IBD-U,none,none,Oral 5ASA,none,0.03,Negative,330,Positive,,Adult,,,Post-1st,21-May-21,baseline,34,,,,17-Apr-21,05-Jun-21,,49,
+43,,Female,IBD-U,none,none,Oral 5ASA,none,,,5380,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,55,,,17-Apr-21,05-Jun-21,,49,
+44,,Female,UC,none,none,Both oral/Rectal,none,0.02,Negative,458,Positive,,Adult,,,Post-1st,17-May-21,baseline,31,,,,16-Apr-21,13-Jun-21,,58,
+45,,Female,UC,none,none,Both oral/Rectal,none,,,17788,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,17,,,16-Apr-21,13-Jun-21,,58,
+46,,Female,UC,none,none,Both oral/Rectal,none,0.03,Negative,1224,Positive,,Adult,,,Post-2nd,18-Nov-21,baseline,,158,,,16-Apr-21,13-Jun-21,,58,
+47,,Male,UC,Vedolizumab,none,none,none,0.01,Negative,1553,Positive,,Adult,,,Post-1st,19-May-21,baseline,28,,,,21-Apr-21,16-Jun-21,,56,
+48,,Male,UC,Vedolizumab,none,none,none,,,31026,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,23,,,21-Apr-21,16-Jun-21,,56,
+49,,Male,UC,Vedolizumab,none,none,none,0.16,Negative,9806,Positive,,Adult,,,Post-2nd,26-Nov-21,baseline,,163,,,21-Apr-21,16-Jun-21,,56,
+50,,Female,CD,Ustekinumab,none,none,none,0.37,Negative,1582,Positive,,Adult,,,Post-1st,30-May-21,baseline,43,,,,17-Apr-21,12-Jun-21,,56,
+51,,Female,CD,Ustekinumab,none,none,none,,,19787,Positive,,Adult,,,Post-2nd,08-Jul-21,baseline,,26,,,17-Apr-21,12-Jun-21,,56,
+52,,Male,CD,Adalimumab,none,none,Methotrexate,0.02,Negative,31,Negative,,Adult,,,Post-1st,06-May-21,baseline,33,,,,03-Apr-21,25-Jun-21,01-Oct-21,83,98
+53,,Male,CD,Adalimumab,none,none,Methotrexate,,,,,,Adult,,,Post-2nd,21-Jul-21,baseline,,26,,,03-Apr-21,25-Jun-21,01-Oct-21,83,98
+54,,Male,CD,Adalimumab,none,none,Methotrexate,0.09,Negative,19640,Positive,,Adult,,,Post-3rd,14-Oct-21,baseline,,,13,,03-Apr-21,25-Jun-21,01-Oct-21,83,98
+55,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.1,Negative,63,Positive,,Adult,,,Post-1st,11-May-21,baseline,28,,,,13-Apr-21,27-May-21,,44,
+56,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,,,1447,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,43,,,13-Apr-21,27-May-21,,44,
+57,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.17,Negative,293,Positive,,Adult,,,Post-2nd,03-Oct-21,baseline,,129,,,13-Apr-21,27-May-21,,44,
+58,,Male,CD,Adalimumab,Oral Prednisone,none,Azathioprine/Immuran,0.04,Negative,6,Negative,,Elderly,,,Post-1st,31-May-21,baseline,55,,,,06-Apr-21,28-Jun-21,02-Nov-21,83,127
+59,,Male,CD,Adalimumab,Oral Prednisone,none,Azathioprine/Immuran,0.05,Negative,16,Negative,,Elderly,,,Post-2nd,25-Aug-21,baseline,,58,,,06-Apr-21,28-Jun-21,02-Nov-21,83,127
+60,,Male,CD,Adalimumab,Oral Prednisone,none,Azathioprine/Immuran,0.03,Negative,183,Positive,,Elderly,,,Post-3rd,02-Dec-21,baseline,,,30,,06-Apr-21,28-Jun-21,02-Nov-21,83,127
+61,,Female,CD,Adalimumab,none,none,none,0.02,Negative,28,Negative,,Elderly,-112,,Post-1st,27-Apr-21,Post Vaccine covid,40,,,,18-Mar-21,30-May-21,,73,
+62,,Female,CD,Adalimumab,none,none,none,0.02,Negative,592,Positive,,Elderly,-26,,Post-2nd,22-Jul-21,Post Vaccine covid,,53,,,18-Mar-21,30-May-21,,73,
+63,,Female,CD,Adalimumab,none,none,none,0.02,Negative,200,Positive,,Elderly,48,,Post-2nd,04-Oct-21,Post Vaccine covid,,127,,,18-Mar-21,30-May-21,,73,
+64,,Female,UC,Adalimumab,none,none,none,0.02,Negative,394,Positive,,Adult,,,Post-1st,10-May-21,baseline,37,,,,03-Apr-21,07-May-21,03-Sep-21,34,119
+65,,Male,UC,none,none,Oral 5ASA,none,0.07,Negative,9370,Positive,,Elderly,,,Post-2nd,17-May-21,baseline,,17,,,07-Apr-21,30-Apr-21,21-Oct-21,23,174
+66,,Male,UC,none,none,Oral 5ASA,none,0.07,Negative,1885,Positive,,Elderly,,,Post-2nd,09-Sep-21,baseline,,132,,,07-Apr-21,30-Apr-21,21-Oct-21,23,174
+67,,Female,CD,none,none,Oral 5ASA,none,0.01,Negative,613,Positive,,Elderly,,,Post-1st,18-May-21,Suspected COVID-19/Symptomatic,53,,,,26-Mar-21,14-Jun-21,14-Dec-21,80,183
+68,,Female,CD,none,none,Oral 5ASA,none,,,3709,Positive,,Elderly,,,Post-2nd,02-Jul-21,Suspected COVID-19/Symptomatic,,18,,,26-Mar-21,14-Jun-21,14-Dec-21,80,183
+69,,Female,CD,none,none,Oral 5ASA,none,0.03,Negative,1342,Positive,,Elderly,,,Post-2nd,17-Nov-21,Suspected COVID-19/Symptomatic,,156,,,26-Mar-21,14-Jun-21,14-Dec-21,80,183
+70,,Female,UC,Remicade,none,none,none,,,,,,Adult,,,Post-1st,12-May-21,baseline,34,,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+71,,Female,UC,Remicade,none,none,none,,,5757,Positive,,Adult,,,Post-2nd,07-Jul-21,baseline,,26,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+72,,Female,UC,Remicade,none,none,none,0.03,Negative,21080,Positive,,Adult,,,Post-3rd,29-Sep-21,baseline,,,12,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+73,,Female,CD,Inflectra,none,none,none,,,18891,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,25,,,24-Apr-21,10-Jun-21,22-Sep-21,47,104
+74,,Female,CD,Inflectra,none,none,none,0.07,Negative,16622,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,36,,24-Apr-21,10-Jun-21,22-Sep-21,47,104
+75,,Female,CD,Ustekinumab,none,none,none,0.06,Negative,252,Positive,,Adult,,,Post-1st,21-May-21,baseline,39,,,,12-Apr-21,20-Jul-21,,99,
+76,,Female,CD,Ustekinumab,none,none,none,,,61,Positive,,Adult,,,Post-1st,14-Jul-21,baseline,93,,,,12-Apr-21,20-Jul-21,,99,
+77,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,13-Aug-21,baseline,,24,,,12-Apr-21,20-Jul-21,,99,
+78,,Male,CD,Inflectra,none,none,none,,,1044,Positive,,Adult,,,Post-1st,07-May-21,baseline,26,,,,11-Apr-21,24-May-21,09-Oct-21,43,138
+79,,Male,CD,Inflectra,none,none,none,0.47,Negative,3761,Positive,,Adult,,,Post-2nd,27-Aug-21,baseline,,95,,,11-Apr-21,24-May-21,09-Oct-21,43,138
+80,,Male,CD,Inflectra,none,none,none,0.38,Negative,19063,Positive,,Adult,,,Post-3rd,22-Oct-21,baseline,,,13,,11-Apr-21,24-May-21,09-Oct-21,43,138
+81,,Male,CD,Vedolizumab,Oral Prednisone,none,none,,,18,Negative,,Adult,,,Post-1st,04-May-21,baseline,24,,,,10-Apr-21,26-Jun-21,23-Sep-21,77,89
+82,,Male,CD,Vedolizumab,Oral Prednisone,none,none,,,,,,Adult,,,Post-2nd,09-Aug-21,baseline,,44,,,10-Apr-21,26-Jun-21,23-Sep-21,77,89
+83,,Male,CD,Vedolizumab,Oral Prednisone,none,none,0.01,Negative,8460,Positive,,Adult,,,Post-3rd,14-Oct-21,baseline,,,21,,10-Apr-21,26-Jun-21,23-Sep-21,77,89
+84,,Male,CD,none,none,none,none,0.18,Negative,1579,Positive,,Adult,,,Post-1st,25-May-21,baseline,32,,,,23-Apr-21,25-Jun-21,,63,
+85,,Male,CD,none,none,none,none,0.04,Negative,29201,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,21,,,23-Apr-21,25-Jun-21,,63,
+86,,Female,CD,none,none,none,none,0.04,Negative,445,Positive,,Adult,,,Post-1st,06-May-21,baseline,56,,,,11-Mar-21,16-Jun-21,,97,
+87,,Female,CD,none,none,none,none,,,4130,Positive,,Elderly,,,Post-2nd,26-Jul-21,baseline,,40,,,11-Mar-21,16-Jun-21,,97,
+88,,Female,CD,none,none,none,none,0.05,Negative,463,Positive,,Elderly,,,Post-2nd,10-Nov-21,baseline,,147,,,11-Mar-21,16-Jun-21,,97,
+89,,Male,UC,Ustekinumab,none,none,none,0.35,Negative,404,Positive,,Adult,,,Post-1st,24-Apr-21,baseline,25,,,,30-Mar-21,20-May-21,10-Sep-21,51,113
+90,,Male,UC,Ustekinumab,none,none,none,0.26,Negative,4866,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,64,,,30-Mar-21,20-May-21,10-Sep-21,51,113
+91,,Male,UC,Ustekinumab,none,none,none,0.43,Negative,19643,Positive,,Adult,,,Post-3rd,15-Nov-21,baseline,,,66,,30-Mar-21,20-May-21,10-Sep-21,51,113
+92,,Female,CD,Vedolizumab,none,Oral 5ASA,none,0.05,Negative,74,Positive,,Elderly,,,Post-1st,29-Apr-21,baseline,46,,,,14-Mar-21,10-Jun-21,,88,
+93,,Female,CD,Vedolizumab,none,Oral 5ASA,none,0.12,Negative,4997,Positive,,Elderly,,,Post-2nd,12-Nov-21,baseline,,155,,,14-Mar-21,10-Jun-21,,88,
+94,,Female,UC,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,Azathioprine/Immuran,0.02,Negative,1296,Positive,,Adult,,,Post-1st,07-May-21,baseline,28,,,,09-Apr-21,02-Jun-21,13-Oct-21,54,133
+95,,Female,UC,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,Azathioprine/Immuran,0.01,Negative,2520,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,49,,,09-Apr-21,02-Jun-21,13-Oct-21,54,133
+96,,Female,UC,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,Azathioprine/Immuran,0.02,Negative,6967,Positive,,Adult,,,Post-3rd,10-Nov-21,baseline,,,28,,09-Apr-21,02-Jun-21,13-Oct-21,54,133
+97,,Female,UC,Adalimumab,none,none,Methotrexate,0.06,Negative,13,Negative,,Elderly,,,Post-1st,08-Jun-21,baseline,62,,,,07-Apr-21,28-Jun-21,,82,
+98,,Female,UC,Adalimumab,none,none,Methotrexate,,,,,,Elderly,,,Post-2nd,26-Jul-21,baseline,,28,,,07-Apr-21,28-Jun-21,,82,
+99,,Female,UC,Adalimumab,none,none,Methotrexate,0.05,Negative,82,Positive,,Elderly,,,Post-2nd,08-Dec-21,baseline,,163,,,07-Apr-21,28-Jun-21,,82,
+100,,Female,UC,Inflectra,none,none,none,0.02,Negative,17,Negative,,Adult,,,Post-1st,16-Jun-21,baseline,74,,,,03-Apr-21,18-Jun-21,,76,
+101,,Female,UC,Inflectra,none,none,none,,,,,,Adult,,,Post-2nd,11-Aug-21,baseline,,54,,,03-Apr-21,18-Jun-21,,76,
+102,,Male,CD,Adalimumab,none,none,none,0.09,Negative,282,Positive,,Adult,,,Post-1st,29-Apr-21,baseline,24,,,,05-Apr-21,26-May-21,23-Sep-21,51,120
+103,,Male,CD,Adalimumab,none,none,none,0.11,Negative,7424,Positive,,Adult,,,Post-2nd,11-Jun-21,baseline,,16,,,05-Apr-21,26-May-21,23-Sep-21,51,120
+104,,Male,CD,Adalimumab,none,none,none,0.17,Negative,12395,Positive,,Adult,,,Post-3rd,04-Oct-21,baseline,,,11,,05-Apr-21,26-May-21,23-Sep-21,51,120
+105,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,126,Positive,,Adult,,,Post-1st,11-May-21,baseline,15,,,,26-Apr-21,23-Jun-21,,58,
+106,,Male,IBD-U,none,Oral budesonide/Cortiment/Entocort,Both oral/Rectal,none,,,,,,Adult,,,Post-1st,28-Apr-21,baseline,42,,,,17-Mar-21,02-Jun-21,,77,
+107,,Male,IBD-U,none,Oral budesonide/Cortiment/Entocort,Both oral/Rectal,none,,,,,,Adult,,,Post-2nd,10-Aug-21,baseline,,69,,,17-Mar-21,02-Jun-21,,77,
+108,,Female,CD,Adalimumab,none,none,none,0.03,Negative,3185,Positive,,Elderly,,,Post-2nd,10-May-21,baseline,,28,,,02-Mar-21,12-Apr-21,,41,
+109,,Female,CD,Adalimumab,none,none,none,0.04,Negative,1081,Positive,,Elderly,,,Post-2nd,01-Sep-21,baseline,,142,,,02-Mar-21,12-Apr-21,,41,
+110,,Male,UC,Vedolizumab,Oral Prednisone,Oral 5ASA,none,6.63,Positive,4771,Positive,,Elderly,23,,Post-1st,10-May-21,Post Vaccine covid,46,,,,25-Mar-21,05-May-21,,41,
+111,,Male,UC,Vedolizumab,Oral Prednisone,Oral 5ASA,none,,,,,,Elderly,108,,Post-2nd,03-Aug-21,Post Vaccine covid,,90,,,25-Mar-21,05-May-21,,41,
+112,,Female,UC,Adalimumab,none,none,none,0.02,Negative,516,Positive,,Elderly,,,Post-1st,06-May-21,baseline,22,,,,14-Apr-21,09-Jun-21,24-Sep-21,56,107
+113,,Female,UC,Adalimumab,none,none,none,0.02,Negative,482,Positive,,Elderly,,,Post-2nd,09-Aug-21,baseline,,61,,,14-Apr-21,09-Jun-21,24-Sep-21,56,107
+114,,Female,UC,Adalimumab,none,none,none,,,,,,Elderly,,,Post-3rd,21-Oct-21,baseline,,,27,,14-Apr-21,09-Jun-21,24-Sep-21,56,107
+115,,Female,CD,none,none,none,Methotrexate,0.02,Negative,114,Positive,,Adult,,,Post-1st,29-Apr-21,baseline,26,,,,03-Apr-21,03-Jun-21,30-Sep-21,61,119
+116,,Female,CD,none,none,none,Methotrexate,0.02,Negative,316,Positive,,Adult,,,Post-2nd,22-Jun-21,baseline,,19,,,03-Apr-21,03-Jun-21,30-Sep-21,61,119
+117,,Female,CD,none,none,none,Methotrexate,0.02,Negative,805,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,29,,03-Apr-21,03-Jun-21,30-Sep-21,61,119
+118,,Male,CD,Adalimumab,none,none,none,,,7418,Positive,,Adult,,,Post-2nd,07-Jul-21,baseline,,21,,,19-Apr-21,16-Jun-21,,58,
+119,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,164,Positive,,Adult,,,Post-1st,01-Jun-21,baseline,58,,,,04-Apr-21,09-Jun-21,,66,
+120,,Male,CD,none,none,yes ,none,0.01,Negative,477,Positive,,Elderly,,,Post-1st,23-Apr-21,baseline,28,,,,26-Mar-21,19-Jun-21,,85,
+121,,Male,CD,none,none,yes ,none,,,5664,Positive,,Elderly,,,Post-2nd,12-Jul-21,baseline,,23,,,26-Mar-21,19-Jun-21,,85,
+122,,Male,CD,none,none,yes ,none,0.15,Negative,2667,Positive,,Elderly,,,Post-2nd,05-Nov-21,baseline,,139,,,26-Mar-21,19-Jun-21,,85,
+123,,Female,CD,Vedolizumab,none,none,none,0.05,Negative,9120,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,32,,,05-Apr-21,20-Jun-21,22-Sep-21,76,94
+124,,Female,CD,Vedolizumab,none,none,none,0.04,Negative,10411,Positive,,Adult,,,Post-3rd,12-Nov-21,baseline,,,51,,05-Apr-21,20-Jun-21,22-Sep-21,76,94
+125,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,34,Negative,,Adult,,,Post-1st,04-May-21,baseline,34,,,,31-Mar-21,05-May-21,02-Sep-21,35,120
+126,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,136,Positive,,Adult,,,Post-2nd,28-Jun-21,baseline,,54,,,31-Mar-21,05-May-21,02-Sep-21,35,120
+127,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,87,Positive,,Adult,,,Post-2nd,01-Sep-21,baseline,,119,,,31-Mar-21,05-May-21,02-Sep-21,35,120
+128,,Female,CD,Ustekinumab,none,none,none,0.15,Negative,4893,Positive,,Adult,,,Post-3rd,20-Sep-21,baseline,,,18,,31-Mar-21,05-May-21,02-Sep-21,35,120
+129,,Female,CD,Vedolizumab,none,none,Azathioprine/Immuran,0.05,Negative,592,Positive,,Adult,,,Post-1st,07-Jun-21,baseline,34,,,,04-May-21,20-Jun-21,30-Sep-21,47,102
+130,,Female,CD,Vedolizumab,none,none,Azathioprine/Immuran,0.05,Negative,15571,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,34,,04-May-21,20-Jun-21,30-Sep-21,47,102
+131,,Male,CD,Infliximab,none,none,none,0.05,Negative,308,Positive,,Adult,,,Post-1st,15-May-21,baseline,36,,,,09-Apr-21,12-Jun-21,06-Sep-21,64,86
+132,,Male,CD,Infliximab,none,none,none,,,4990,Positive,,Adult,,,Post-2nd,06-Jul-21,baseline,,24,,,09-Apr-21,12-Jun-21,06-Sep-21,64,86
+133,,Female,CD,Ustekinumab,none,none,none,,,18225,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,16,,,25-Apr-21,30-Jun-21,,66,
+134,,Male,CD,none,none,Oral 5ASA,Methotrexate,0.01,Negative,273,Positive,,Adult,,,Post-1st,15-Jun-21,baseline,63,,,,13-Apr-21,29-Jun-21,26-Nov-21,77,150
+135,,Male,CD,none,none,Oral 5ASA,Methotrexate,,,,,,Adult,,,Post-2nd,23-Jul-21,baseline,,24,,,13-Apr-21,29-Jun-21,26-Nov-21,77,150
+136,,Female,UC,Vedolizumab,none,none,none,0.02,Negative,432,Positive,,Adult,,,Post-1st,25-May-21,baseline,41,,,,14-Apr-21,20-Jun-21,,67,
+137,,Male,UC,Inflectra,none,none,Methotrexate,0.02,Negative,2703,Positive,,Elderly,,,Post-1st,08-Jun-21,baseline,74,,,,26-Mar-21,05-Jun-21,23-Sep-21,71,110
+138,,Male,UC,Inflectra,none,none,Methotrexate,0.05,Negative,10676,Positive,,Elderly,,,Post-3rd,28-Oct-21,baseline,,,35,,26-Mar-21,05-Jun-21,23-Sep-21,71,110
+139,,Male,CD,Adalimumab,none,none,none,0.02,Negative,7692,Positive,,Adult,,,Post-2nd,17-Jun-21,baseline,,23,,,12-Apr-21,25-May-21,26-Sep-21,43,124
+140,,Male,CD,Adalimumab,none,none,none,0.09,Negative,13359,Positive,,Adult,,,Post-3rd,19-Oct-21,baseline,,,23,,12-Apr-21,25-May-21,26-Sep-21,43,124
+141,,Female,UC,Tofacitinib,none,Rectal 5ASA,none,0.03,Negative,85,Positive,,Adult,,,Post-1st,18-Jun-21,baseline,66,,,,13-Apr-21,18-Jun-21,10-Sep-21,66,84
+142,,Female,UC,Tofacitinib,none,Rectal 5ASA,none,,,1051,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,28,,,13-Apr-21,18-Jun-21,10-Sep-21,66,84
+143,,Female,UC,Tofacitinib,none,none,none,0.02,Negative,169,Positive,,Adult,,,Post-1st,12-May-21,baseline,29,,,,13-Apr-21,12-Jun-21,,60,
+144,,Female,UC,Tofacitinib,none,none,none,0.03,Negative,994,Positive,,Adult,,,Post-2nd,06-Aug-21,baseline,,55,,,13-Apr-21,12-Jun-21,,60,
+145,,Female,UC,Tofacitinib,none,none,none,0.02,Negative,488,Positive,,Adult,,,Post-2nd,24-Nov-21,baseline,,165,,,13-Apr-21,12-Jun-21,,60,
+146,,Female,IBD-U,Infliximab,none,none,none,,,3698,Positive,,Adult,,,Post-2nd,07-Jul-21,baseline,,25,,,03-May-21,12-Jun-21,24-Sep-21,40,104
+147,,Female,CD,Golimumab,none,none,none,0.03,Negative,4069,Positive,,Elderly,-44,,Post-2nd,24-Jun-21,Post Vaccine covid,,20,,,28-Mar-21,04-Jun-21,11-Sep-21,68,99
+148,,Male,CD,none,none,none,Azathioprine/Immuran,,,6583,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,22,,,10-Apr-21,17-Jun-21,05-Oct-21,68,110
+149,,Male,CD,none,none,none,Azathioprine/Immuran,0.04,Negative,9821,Positive,,Adult,,,Post-3rd,05-Nov-21,baseline,,,31,,10-Apr-21,17-Jun-21,05-Oct-21,68,110
+150,,Female,UC,Adalimumab,Oral Prednisone,Rectal 5ASA,none,0.02,Negative,350,Positive,,Adult,,,Post-2nd,22-Jun-21,baseline,,77,,,24-Feb-21,06-Apr-21,,41,
+151,,Female,UC,Adalimumab,Oral Prednisone,Rectal 5ASA,none,0.02,Negative,254,Positive,,Adult,,,Post-2nd,18-Aug-21,baseline,,134,,,24-Feb-21,06-Apr-21,,41,
+152,,Female,CD,none,none,none,none,0.02,Negative,626,Positive,,Adult,,,Post-1st,19-May-21,baseline,41,,,,08-Apr-21,26-Jun-21,,79,
+153,,Female,CD,none,none,none,none,,,,,,Adult,,,Post-2nd,07-Aug-21,baseline,,42,,,08-Apr-21,26-Jun-21,,79,
+154,,Female,CD,Ustekinumab,none,none,none,0.08,Negative,506,Positive,,Adult,,,Post-1st,18-May-21,baseline,40,,,,08-Apr-21,16-Jun-21,15-Sep-21,69,91
+155,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,04-Aug-21,baseline,,49,,,08-Apr-21,16-Jun-21,15-Sep-21,69,91
+156,,Female,CD,Ustekinumab,none,none,none,0.08,Negative,20289,Positive,,Adult,,,Post-3rd,29-Sep-21,baseline,,,14,,08-Apr-21,16-Jun-21,15-Sep-21,69,91
+157,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,47,Negative,,Elderly,,,Post-1st,17-Jun-21,baseline,71,,,,07-Apr-21,05-Jul-21,04-Nov-21,89,122
+158,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,31280,Positive,,Elderly,,,Post-2nd,19-Jul-21,baseline,,14,,,07-Apr-21,05-Jul-21,04-Nov-21,89,122
+159,,Female,CD,Ustekinumab,none,none,none,0.1,Negative,12014,Positive,,Elderly,,,Post-3rd,02-Dec-21,baseline,,,28,,07-Apr-21,05-Jul-21,04-Nov-21,89,122
+160,,Male,CD,none,none,Oral 5ASA,none,0.14,Negative,0,Negative,,Adult,,,Post-1st,03-May-21,baseline,30,,,,03-Apr-21,06-May-21,07-Sep-21,33,124
+161,,Male,CD,none,none,Oral 5ASA,none,0.14,Negative,131,Positive,,Adult,,,Post-2nd,21-May-21,baseline,,15,,,03-Apr-21,06-May-21,07-Sep-21,33,124
+162,,Male,CD,none,none,Oral 5ASA,none,0.33,Negative,5598,Positive,,Adult,,,Post-3rd,20-Sep-21,baseline,,,13,,03-Apr-21,06-May-21,07-Sep-21,33,124
+163,,Male,UC,Inflectra,none,none,none,0.02,Negative,20,Negative,,Elderly,,,Post-1st,20-May-21,baseline,44,,,,06-Apr-21,26-Jun-21,28-Sep-21,81,94
+164,,Male,UC,Inflectra,none,none,none,,,2338,Positive,,Elderly,,,Post-2nd,26-Jul-21,baseline,,30,,,06-Apr-21,26-Jun-21,28-Sep-21,81,94
+165,,Male,UC,Inflectra,none,none,none,0.02,Negative,1269,Positive,,Elderly,,,Post-3rd,08-Nov-21,baseline,,,41,,06-Apr-21,26-Jun-21,28-Sep-21,81,94
+166,,Male,CD,Vedolizumab,unknown,unknown,unkknown,,,70,Positive,,Elderly,,,Post-1st,12-Jun-21,baseline,47,,,,26-Apr-21,24-Jun-21,,59,
+167,,Female,UC,none,none,Both oral/Rectal,none,,,,,,Adult,,,Post-2nd,14-Aug-21,baseline,,56,,,14-Apr-21,19-Jun-21,,66,
+168,,Male,CD,Inflectra,none,unknown,unkknown,,,,,,Adult,,,Post-1st,25-May-21,baseline,52,,,,03-Apr-21,14-Jun-21,,72,
+169,,Male,CD,Inflectra,none,unknown,unkknown,0.2,Negative,2012,Positive,,Adult,,,Post-2nd,30-Aug-21,baseline,,77,,,03-Apr-21,14-Jun-21,,72,
+170,,Female,CD,Remicade,none,none,none,0.02,Negative,41,Negative,,Adult,,,Post-1st,10-Jun-21,baseline,45,,,,26-Apr-21,02-Jul-21,,67,
+171,,Female,CD,Remicade,none,none,none,,,6055,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,26,,,26-Apr-21,02-Jul-21,,67,
+172,,Female,CD,Remicade,none,none,none,0.01,Negative,198,Positive,,Adult,,,Post-2nd,06-Dec-21,baseline,,157,,,26-Apr-21,02-Jul-21,,67,
+173,,Male,CD,Inflectra,none,none,none,0.05,Negative,140,Positive,,Elderly,,,Post-1st,25-May-21,baseline,20,,,,05-May-21,22-Jun-21,,48,
+174,,Male,UC,Remicade,none,none,unkknown,,,,,,Adult,,,Post-2nd,26-May-21,baseline,,25,,,29-Mar-21,01-May-21,03-Sep-21,33,125
+175,,Male,CD,Renflexis/IFX,none,none,none,0.04,Negative,85,Positive,,Adult,,,Post-1st,20-May-21,baseline,36,,,,14-Apr-21,14-Jun-21,,61,
+176,,Male,CD,Renflexis/IFX,none,none,none,,,,,,Adult,,,Post-2nd,09-Aug-21,baseline,,56,,,14-Apr-21,14-Jun-21,,61,
+177,,Female,CD,Adalimumab,none,none,none,0.02,Negative,8076,Positive,,Adult,,,Post-2nd,27-May-21,baseline,,17,,,11-Apr-21,10-May-21,27-Sep-21,29,140
+178,,Female,CD,Adalimumab,none,none,none,0.02,Negative,317,Positive,,Adult,,,Post-2nd,15-Sep-21,baseline,,128,,,11-Apr-21,10-May-21,27-Sep-21,29,140
+179,,Female,CD,Adalimumab,none,none,none,0.02,Negative,15623,Positive,,Adult,,,Post-3rd,18-Oct-21,baseline,,,21,,11-Apr-21,10-May-21,27-Sep-21,29,140
+180,,Male,UC,none,none,Oral 5ASA,none,0.03,Negative,520,Positive,,Adult,,,Post-1st,08-Jun-21,baseline,46,,,,23-Apr-21,11-Jun-21,,49,
+181,,Male,UC,none,none,Oral 5ASA,none,0.02,Negative,7700,Positive,,Adult,,,Post-2nd,19-Jul-21,baseline,,38,,,23-Apr-21,11-Jun-21,,49,
+182,,Male,UC,Ustekinumab,none,none,none,0.02,Negative,190,Positive,,Adult,,,Post-1st,17-Jun-21,baseline,35,,,,13-May-21,03-Jul-21,,51,
+183,,Male,UC,Ustekinumab,none,none,none,0.03,Negative,16325,Positive,,Adult,,,Post-2nd,17-Jul-21,baseline,,14,,,13-May-21,03-Jul-21,,51,
+184,,Male,UC,Ustekinumab,none,none,none,0.03,Negative,827,Positive,,Adult,,,Post-2nd,30-Nov-21,baseline,,150,,,13-May-21,03-Jul-21,,51,
+185,,Male,CD,Inflectra,none,none,none,0.03,Negative,246,Positive,,Adult,,,Post-1st,26-May-21,baseline,43,,,,13-Apr-21,31-May-21,23-Sep-21,48,115
+186,,Male,CD,Inflectra,none,none,none,0.04,Negative,540,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,101,,,13-Apr-21,31-May-21,23-Sep-21,48,115
+187,,Female,CD,none,none,Rectal 5ASA,Azathioprine/Immuran,0.02,Negative,167,Positive,,Adult,,,Post-1st,10-Jun-21,baseline,33,,,,08-May-21,11-Jun-21,,34,
+188,,Female,CD,none,none,Rectal 5ASA,Azathioprine/Immuran,,,1993,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,28,,,08-May-21,11-Jun-21,,34,
+189,,Male,CD,Adalimumab,none,none,none,0.04,Negative,116,Positive,,Adult,,,Post-1st,08-Jun-21,baseline,60,,,,09-Apr-21,11-Jun-21,,63,
+190,,Male,CD,Adalimumab,none,none,none,0.05,Negative,6050,Positive,,Adult,,,Post-2nd,05-Aug-21,baseline,,55,,,09-Apr-21,11-Jun-21,,63,
+191,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,1061,Positive,,Adult,,,Post-1st,15-Jun-21,baseline,43,,,,03-May-21,02-Jul-21,,60,
+192,,Female,CD,Adalimumab,none,none,none,0.04,Negative,23599,Positive,,Adult,,,Post-2nd,18-May-21,baseline,,24,,,03-Apr-21,24-Apr-21,18-Sep-21,21,147
+193,,Female,CD,Adalimumab,none,none,none,0.03,Negative,4545,Positive,,Elderly,,,Post-2nd,16-Aug-21,baseline,,114,,,03-Apr-21,24-Apr-21,18-Sep-21,21,147
+194,,Female,CD,Adalimumab,none,none,none,0.03,Negative,80000,Positive,,Elderly,,,Post-3rd,01-Oct-21,baseline,,,13,,03-Apr-21,24-Apr-21,18-Sep-21,21,147
+195,,Female,CD,Ustekinumab,unknown,unknown,unkknown,0.02,Negative,965,Positive,,Adult,,,Post-1st,02-Jun-21,baseline,40,,,,23-Apr-21,18-Jun-21,,56,
+196,,Female,CD,Ustekinumab,unknown,unknown,unkknown,,,7097,Positive,,Adult,,,Post-2nd,12-Jul-21,baseline,,24,,,23-Apr-21,18-Jun-21,,56,
+197,,Male,CD,Adalimumab,none,none,none,0.02,Negative,1648,Positive,,Elderly,,,Post-2nd,22-Jun-21,baseline,,49,,,03-Mar-21,04-May-21,,62,
+198,,Male,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,4.97,Positive,12789,Positive,,Adult,39,,Pre-1st,26-May-21,covid,,,,,01-Jun-21,20-Jul-21,,49,
+199,,Female,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.04,Negative,2323,Positive,,Adult,,,Post-1st,09-Jun-21,baseline,43,,,,27-Apr-21,16-Jun-21,,50,
+200,,Male,CD,none,none,none,Azathioprine/Immuran,0.02,Negative,6,Negative,,Adult,,,Post-1st,21-May-21,baseline,35,,,,16-Apr-21,25-Jun-21,,70,
+201,,Male,CD,none,none,none,Azathioprine/Immuran,0.02,Negative,1961,Positive,,Adult,,,Post-2nd,19-Jul-21,baseline,,24,,,16-Apr-21,25-Jun-21,,70,
+202,,Male,UC,none,none,Both oral/Rectal,none,0.03,Negative,970,Positive,,Adult,,,Post-1st,31-May-21,baseline,36,,,,25-Apr-21,14-Jun-21,,50,
+203,,Male,UC,none,none,Both oral/Rectal,none,0.03,Negative,10164,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,38,,,25-Apr-21,14-Jun-21,,50,
+204,,Male,CD,Adalimumab,none,none,Azathioprine/Immuran,0.05,Negative,14,Negative,,Adult,,,Post-1st,29-May-21,baseline,42,,,,17-Apr-21,11-Jun-21,04-Sep-21,55,85
+205,,Male,CD,Adalimumab,none,none,Azathioprine/Immuran,,,,,,Adult,,,Post-2nd,25-Jun-21,baseline,,14,,,17-Apr-21,11-Jun-21,04-Sep-21,55,85
+206,,Male,CD,Adalimumab,none,none,Azathioprine/Immuran,0.04,Negative,1541,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,54,,17-Apr-21,11-Jun-21,04-Sep-21,55,85
+207,,Male,CD,none,Oral budesonide/Cortiment/Entocort,none,none,,,,,,Adult,,,Post-2nd,10-Aug-21,New biologic/Tofacitinib start,,61,,,20-Apr-21,10-Jun-21,,51,
+208,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,978,Positive,,Adult,,,Post-1st,25-May-21,baseline,40,,,,15-Apr-21,24-Jun-21,,70,
+209,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,11028,Positive,,Adult,,,Post-2nd,07-Aug-21,baseline,,44,,,15-Apr-21,24-Jun-21,,70,
+210,,Female,UC,Adalimumab,none,none,none,0.03,Negative,4070,Positive,,Adult,,,Post-2nd,14-Jun-21,baseline,,51,,,20-Mar-21,24-Apr-21,,35,
+211,,Female,UC,Adalimumab,none,none,none,0.04,Negative,558,Positive,,Adult,,,Post-2nd,25-Aug-21,baseline,,123,,,20-Mar-21,24-Apr-21,,35,
+212,,Male,UC,none,none,Both oral/Rectal,none,0.02,Negative,126,Positive,,Adult,,,Post-1st,02-Jun-21,baseline,41,,,,22-Apr-21,02-Jul-21,,71,
+213,,Male,UC,none,none,Both oral/Rectal,none,,,2689,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,26,,,22-Apr-21,02-Jul-21,,71,
+214,,Female,UC,none,none,yes ,none,0.02,Negative,120,Positive,,Adult,,,Post-1st,16-Jun-21,baseline,38,,,,09-May-21,07-Jul-21,,59,
+215,,Female,UC,none,none,yes ,none,0.02,Negative,3889,Positive,,Adult,,,Post-2nd,22-Sep-21,baseline,,77,,,09-May-21,07-Jul-21,,59,
+216,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,2186,Positive,,Adult,,,Post-2nd,31-Aug-21,baseline,,75,,,15-Apr-21,17-Jun-21,,63,
+217,,Female,UC,Vedolizumab,Oral Prednisone,none,Methotrexate,,,82,Positive,,Adult,,,Post-1st,02-Jun-21,baseline,35,,,,28-Apr-21,10-Jun-21,,43,
+218,,Female,UC,Vedolizumab,Oral Prednisone,none,Methotrexate,,,1856,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,25,,,28-Apr-21,10-Jun-21,,43,
+219,,Female,UC,Vedolizumab,Oral Prednisone,none,Methotrexate,,,,,,Adult,,,Post-2nd,09-Aug-21,baseline,,60,,,28-Apr-21,10-Jun-21,,43,
+220,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,2586,Positive,,Adult,,,Post-2nd,09-Jun-21,baseline,,11,,,01-May-21,29-May-21,10-Sep-21,28,104
+221,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,2836,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,96,,,01-May-21,29-May-21,10-Sep-21,28,104
+222,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,8790,Positive,,Adult,,,Post-3rd,24-Nov-21,baseline,,,75,,01-May-21,29-May-21,10-Sep-21,28,104
+223,,Male,CD,Adalimumab,none,none,none,0.02,Negative,86,Positive,,Adult,,,Post-1st,31-May-21,baseline,45,,,,16-Apr-21,20-Jun-21,14-Oct-21,65,116
+224,,Male,CD,Adalimumab,none,none,none,,,642,Positive,,Elderly,,,Post-2nd,29-Jul-21,baseline,,39,,,16-Apr-21,20-Jun-21,14-Oct-21,65,116
+225,,Male,CD,Adalimumab,none,none,none,0.02,Negative,2125,Positive,,Elderly,,,Post-3rd,12-Nov-21,baseline,,,29,,16-Apr-21,20-Jun-21,14-Oct-21,65,116
+226,,Female,UC,none,none,Oral 5ASA,none,7.63,Positive,6488,Positive,,Adult,28,,Pre-1st,27-May-21,covid,,,,,28-May-21,08-Jul-21,,41,
+227,,Female,UC,none,none,Oral 5ASA,none,,,25891,Positive,,Adult,69,,Post-1st,07-Jul-21,covid,40,,,,28-May-21,08-Jul-21,,41,
+228,,Female,UC,none,none,Oral 5ASA,none,5.22,Positive,51122,Positive,,Adult,84,,Post-2nd,22-Jul-21,covid,,14,,,28-May-21,08-Jul-21,,41,
+229,,Male,IBD-U,Vedolizumab,none,none,Azathioprine/Immuran,0.02,Negative,478,Positive,,Adult,,,Post-1st,03-Jun-21,baseline,36,,,,28-Apr-21,25-Jul-21,,88,
+230,,Male,UC,Remicade,none,none,none,0.07,Negative,7548,Positive,,Adult,-74,,Post-2nd,17-Jun-21,Post Vaccine covid,,35,,,01-Apr-21,13-May-21,,42,
+231,,Male,UC,Remicade,none,none,none,1.54,Negative,40000,Positive,,Adult,25,,Post-2nd,24-Sep-21,Post Vaccine covid,,134,,,01-Apr-21,13-May-21,,42,
+232,,Male,UC,Inflectra,none,none,none,,,3901,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,30,,,14-Apr-21,09-Jun-21,,56,
+233,,Male,CD,Remicade,Oral budesonide/Cortiment/Entocort,none,none,0.04,Negative,345,Positive,,Adult,,,Post-1st,08-Jun-21,baseline,19,,,,20-May-21,10-Jun-21,,21,
+234,,Male,CD,Remicade,Oral budesonide/Cortiment/Entocort,none,none,0.04,Negative,4403,Positive,,Adult,,,Post-2nd,28-Jun-21,baseline,,18,,,20-May-21,10-Jun-21,,21,
+235,,Female,CD,Adalimumab,none,none,Methotrexate,0.06,Negative,25,Negative,,Adult,,,Post-1st,15-Jun-21,baseline,45,,,,01-May-21,25-Jun-21,30-Oct-21,55,127
+236,,Female,CD,Adalimumab,none,none,Methotrexate,,,5556,Positive,,Adult,,,Post-2nd,29-Jul-21,baseline,,34,,,01-May-21,25-Jun-21,30-Oct-21,55,127
+237,,Female,CD,Adalimumab,none,none,Methotrexate,0.11,Negative,9128,Positive,,Adult,,,Post-3rd,17-Nov-21,baseline,,,18,,01-May-21,25-Jun-21,30-Oct-21,55,127
+238,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,2648,Positive,,Adult,,,Post-2nd,28-Jun-21,baseline,,37,,,11-Apr-21,22-May-21,23-Nov-21,41,185
+239,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,442,Positive,,Adult,,,Post-2nd,18-Nov-21,baseline,,180,,,11-Apr-21,22-May-21,23-Nov-21,41,185
+240,,Male,CD,Ustekinumab,none,none,Methotrexate,4.84,Positive,31010,Positive,,Adult,36,,Post-1st,10-Jun-21,Post Vaccine covid,63,,,,08-Apr-21,10-Jun-21,26-Sep-21,63,108
+241,,Male,CD,Ustekinumab,none,none,Methotrexate,,,,,,Adult,90,,Post-2nd,03-Aug-21,Post Vaccine covid,,54,,,08-Apr-21,10-Jun-21,26-Sep-21,63,108
+242,,Male,CD,Ustekinumab,none,none,Methotrexate,1.34,Negative,40000,Positive,,Adult,184,,Post-3rd,05-Nov-21,Post Vaccine covid,,,40,,08-Apr-21,10-Jun-21,26-Sep-21,63,108
+243,,Male,CD,Adalimumab,none,none,none,0.05,Negative,437,Positive,,Adult,,,Post-1st,03-Jun-21,baseline,42,,,,22-Apr-21,05-Jun-21,06-Oct-21,44,123
+244,,Male,CD,Adalimumab,none,none,none,0.04,Negative,13168,Positive,,Adult,,,Post-2nd,25-Jun-21,baseline,,20,,,22-Apr-21,05-Jun-21,06-Oct-21,44,123
+245,,Male,CD,Adalimumab,none,none,none,0.15,Negative,25019,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,23,,22-Apr-21,05-Jun-21,06-Oct-21,44,123
+246,,Female,UC,none,none,none,none,0.02,Negative,614,Positive,,Adult,,,Post-1st,15-Jun-21,baseline,39,,,,07-May-21,09-Jul-21,14-Sep-21,63,67
+247,,Female,UC,none,none,none,none,,,13848,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,21,,,07-May-21,09-Jul-21,14-Sep-21,63,67
+248,,Female,UC,none,none,none,none,0.11,Negative,7730,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,45,,07-May-21,09-Jul-21,14-Sep-21,63,67
+249,,Male,IBD-U,Ustekinumab,none,none,none,0.09,Negative,10395,Positive,,Adult,,,Post-2nd,02-Jun-21,baseline,,13,,,13-Apr-21,20-May-21,20-Nov-21,37,184
+250,,Male,IBD-U,Ustekinumab,none,none,none,0.1,Negative,917,Positive,,Adult,,,Post-2nd,29-Sep-21,baseline,,132,,,13-Apr-21,20-May-21,20-Nov-21,37,184
+251,,Male,IBD-U,Ustekinumab,none,none,none,0.07,Negative,23705,Positive,,Adult,,,Post-3rd,03-Dec-21,baseline,,,13,,13-Apr-21,20-May-21,20-Nov-21,37,184
+252,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.33,Negative,4902,Positive,,Adult,31,,Post-1st,08-Jun-21,covid,17,,,,22-May-21,25-Aug-21,,95,
+253,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-1st,07-Jul-21,baseline,48,,,,20-May-21,08-Jul-21,,49,
+254,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,6627,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,56,,,20-May-21,08-Jul-21,,49,
+255,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,120,Positive,,Adult,,,Post-1st,31-May-21,baseline,38,,,,23-Apr-21,14-Jun-21,07-Sep-21,52,85
+256,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,10851,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,39,,,23-Apr-21,14-Jun-21,07-Sep-21,52,85
+257,,Male,CD,Ustekinumab,none,none,none,0.04,Negative,12952,Positive,,Adult,,,Post-3rd,30-Sep-21,baseline,,,23,,23-Apr-21,14-Jun-21,07-Sep-21,52,85
+258,,Female,UC,Infliximab,none,none,none,0.02,Negative,522,Positive,,Adult,,,Post-2nd,20-May-21,baseline,,24,,,31-Mar-21,26-Apr-21,16-Nov-21,26,204
+259,,Female,UC,Infliximab,none,none,none,0.09,Negative,46,Negative,,Elderly,,,Post-2nd,07-Sep-21,baseline,,134,,,31-Mar-21,26-Apr-21,16-Nov-21,26,204
+260,,Female,UC,Infliximab,none,none,none,0.4,Negative,6932,Positive,,Elderly,,,Post-3rd,01-Dec-21,baseline,,,15,,31-Mar-21,26-Apr-21,16-Nov-21,26,204
+261,,Male,CD,Adalimumab,none,none,none,0.04,Negative,42,Negative,,Adult,,,Post-1st,28-Jun-21,baseline,46,,,,13-May-21,23-Jun-21,,41,
+262,,Male,CD,none,none,Oral 5ASA,none,0.03,Negative,16989,Positive,,Elderly,,,Post-2nd,16-Jun-21,baseline,,13,,,29-Mar-21,03-Jun-21,,66,
+263,,Male,CD,Vedolizumab,none,none,none,0.07,Negative,30,Negative,,Adult,,,Post-1st,17-May-21,baseline,24,,,,23-Apr-21,21-Jun-21,04-Sep-21,59,75
+264,,Male,CD,Vedolizumab,none,none,none,0.08,Negative,2598,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,31,,,23-Apr-21,21-Jun-21,04-Sep-21,59,75
+265,,Male,CD,Ustekinumab,none,none,none,,,14678,Positive,,Elderly,,,Post-2nd,29-Jul-21,baseline,,49,,,25-Mar-21,10-Jun-21,10-Dec-21,77,183
+266,,Male,CD,Adalimumab,none,none,none,0.39,Negative,11447,Positive,,Adult,66,,Post-2nd,21-Jul-21,Post Vaccine covid,,47,,,10-Apr-21,04-Jun-21,,55,
+267,,Female,CD,Adalimumab,none,none,none,,,430,Positive,,Adult,,,Post-2nd,25-May-21,baseline,,49,,,16-Mar-21,06-Apr-21,03-Sep-21,21,150
+268,,Female,CD,Adalimumab,none,none,none,,,112,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,101,,,16-Mar-21,06-Apr-21,03-Sep-21,21,150
+269,,Female,CD,Adalimumab,none,none,none,0.02,Negative,5952,Positive,,Adult,,,Post-3rd,20-Sep-21,baseline,,,17,,16-Mar-21,06-Apr-21,03-Sep-21,21,150
+270,,Male,CD,Adalimumab,none,none,none,,,1356,Positive,,Adult,,,Post-1st,13-Jul-21,baseline,40,,,,03-Jun-21,16-Aug-21,,74,
+271,,Male,CD,Adalimumab,none,none,none,0.04,Negative,5335,Positive,,Adult,,,Post-2nd,26-Oct-21,baseline,,71,,,03-Jun-21,16-Aug-21,,74,
+272,,Male,IBD-U,Adalimumab,none,none,none,0.03,Negative,546,Positive,,Adult,,,Post-1st,17-Jun-21,baseline,55,,,,23-Apr-21,22-Jun-21,,60,
+273,,Male,IBD-U,Adalimumab,none,none,none,0.32,Negative,3558,Positive,,Adult,,,Post-2nd,26-Aug-21,baseline,,65,,,23-Apr-21,22-Jun-21,,60,
+274,,Male,IBD-U,Adalimumab,none,none,none,0.4,Negative,895,Positive,,Adult,,,Post-2nd,19-Nov-21,baseline,,150,,,23-Apr-21,22-Jun-21,,60,
+275,,Male,CD,Inflectra,none,none,none,0.02,Negative,108,Positive,,Elderly,,,Post-2nd,07-Jun-21,baseline,,59,,,01-Mar-21,09-Apr-21,26-Aug-21,39,139
+276,,Male,CD,Inflectra,none,none,none,0.06,Negative,3119,Positive,,Elderly,,,Post-3rd,28-Sep-21,baseline,,,33,,01-Mar-21,09-Apr-21,26-Aug-21,39,139
+277,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.05,Negative,191,Positive,,Adult,,,Post-2nd,11-Sep-21,baseline,,71,,,16-May-21,02-Jul-21,,47,
+278,,Male,UC,none,none,Rectal 5ASA,none,0.03,Negative,75,Positive,,Adult,,,Post-1st,17-Jun-21,baseline,89,,,08-Dec-21,20-Mar-21,16-Jun-21,10-Nov-21,88,147
+279,,Male,UC,none,none,Rectal 5ASA,none,0.06,Negative,255,Positive,,Adult,,,Post-2nd,05-Aug-21,baseline,,50,,08-Dec-21,20-Mar-21,16-Jun-21,10-Nov-21,88,147
+280,,Male,UC,Inflectra,none,none,none,0.06,Negative,4224,Positive,,Adult,,,Post-2nd,11-Aug-21,baseline,,18,,,25-May-21,24-Jul-21,,60,
+281,,Male,UC,Remicade,none,none,none,0.92,Negative,2371,Positive,,Adult,52,,Post-2nd,17-Jun-21,Post Vaccine covid,,10,,,07-Apr-21,07-Jun-21,,61,
+282,,Male,UC,Remicade,none,none,none,0.02,Negative,246,Positive,,Adult,217,,Post-2nd,29-Nov-21,Post Vaccine covid,,175,,,07-Apr-21,07-Jun-21,,61,
+283,,Female,UC,none,none,Oral 5ASA,none,0.87,Negative,78,Positive,,Adult,38,,Pre-1st,15-Jun-21,covid,,,,,16-Jun-21,03-Sep-21,,79,
+284,,Female,UC,none,none,Oral 5ASA,none,0.43,Negative,6723,Positive,,Adult,117,,Post-1st,02-Sep-21,covid,78,,,,16-Jun-21,03-Sep-21,,79,
+285,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,441,Positive,,Adult,,,Post-1st,15-Jun-21,baseline,53,,,,23-Apr-21,23-Jun-21,,61,
+286,,Female,CD,Ustekinumab,none,none,none,,,80000,Positive,,Adult,,,Post-2nd,08-Jul-21,baseline,,15,,,23-Apr-21,23-Jun-21,,61,
+287,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,3552,Positive,,Adult,,,Post-2nd,01-Nov-21,baseline,,131,,,23-Apr-21,23-Jun-21,,61,
+288,,Male,CD,none,none,none,none,0.02,Negative,242,Positive,,Adult,,,Post-1st,30-Jun-21,baseline,32,,,,29-May-21,07-Jul-21,,39,
+289,,Male,CD,none,none,none,none,0.02,Negative,10835,Positive,,Adult,,,Post-2nd,05-Aug-21,baseline,,29,,,29-May-21,07-Jul-21,,39,
+290,,Male,CD,none,none,none,none,0.04,Negative,1191,Positive,,Adult,,,Post-2nd,17-Nov-21,baseline,,133,,,29-May-21,07-Jul-21,,39,
+291,,Male,UC,Infliximab,none,none,none,,,7789,Positive,,Adult,,,Post-2nd,06-Jul-21,baseline,,17,,,11-Apr-21,19-Jun-21,23-Sep-21,69,96
+292,,Female,CD,Adalimumab,none,none,none,0.03,Negative,6595,Positive,,Adult,,,Post-2nd,16-Jun-21,baseline,,19,,,21-Apr-21,28-May-21,,37,
+293,,Female,CD,Adalimumab,none,none,none,0.02,Negative,167,Positive,,Adult,,,Post-2nd,21-Sep-21,baseline,,116,,,21-Apr-21,28-May-21,,37,
+294,,Male,UC,none,none,yes ,none,0.11,Negative,11629,Positive,,Adult,,,Post-2nd,24-Jun-21,baseline,,17,,,10-Apr-21,07-Jun-21,,58,
+295,,Male,CD,Infliximab,none,none,Methotrexate,,,,,,Adult,,,Post-2nd,10-Aug-21,baseline,,68,,,30-Mar-21,03-Jun-21,,65,
+296,,Female,CD,Adalimumab,none,none,none,0.03,Negative,7572,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,19,,,07-Apr-21,11-Jun-21,03-Sep-21,65,84
+297,,Female,CD,Adalimumab,none,none,none,0.04,Negative,58071,Positive,,Adult,,,Post-3rd,24-Sep-21,baseline,,,21,,07-Apr-21,11-Jun-21,03-Sep-21,65,84
+298,,Male,CD,Adalimumab,none,none,none,0.02,Negative,2701,Positive,,Adult,,,Post-2nd,16-Aug-21,baseline,,60,,,21-Apr-21,17-Jun-21,,57,
+299,,Female,CD,Infliximab,none,none,none,0.08,Negative,807,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,70,,,02-Apr-21,14-May-21,17-Sep-21,42,126
+300,,Female,CD,Infliximab,none,none,none,0.08,Negative,358,Positive,,Adult,,,Post-2nd,03-Sep-21,baseline,,112,,,02-Apr-21,14-May-21,17-Sep-21,42,126
+301,,Female,CD,Infliximab,none,none,none,0.13,Negative,7236,Positive,,Adult,,,Post-3rd,30-Nov-21,baseline,,,74,,02-Apr-21,14-May-21,17-Sep-21,42,126
+302,,Male,UC,Tofacitinib,none,none,none,0.05,Negative,33873,Positive,,Elderly,,,Post-2nd,20-Jul-21,baseline,,20,,,02-May-21,30-Jun-21,,59,
+303,,Female,CD,Ustekinumab,none,none,none,,,8443,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,43,,,21-Apr-21,27-May-21,,36,
+304,,Male,UC,Vedolizumab,none,none,none,0.03,Negative,15164,Positive,,Adult,,,Post-2nd,04-Jun-21,baseline,,15,,,29-Mar-21,20-May-21,02-Sep-21,52,105
+305,,Male,UC,Vedolizumab,none,none,none,0.04,Negative,12333,Positive,,Adult,,,Post-3rd,25-Nov-21,baseline,,,84,,29-Mar-21,20-May-21,02-Sep-21,52,105
+306,,Female,CD,none,none,Oral 5ASA,none,0.03,Negative,3914,Positive,,Adult,,,Post-2nd,18-Jun-21,baseline,,20,,,19-Apr-21,29-May-21,01-Dec-21,40,186
+307,,Female,CD,none,none,Oral 5ASA,none,0.01,Negative,597,Positive,,Adult,,,Post-2nd,09-Nov-21,baseline,,164,,,19-Apr-21,29-May-21,01-Dec-21,40,186
+308,,Male,CD,none,none,Oral 5ASA,none,0.03,Negative,742,Positive,,Elderly,,,Post-2nd,20-Jul-21,baseline,,76,,,30-Mar-21,05-May-21,05-Nov-21,36,184
+309,,Male,CD,none,none,Oral 5ASA,none,0.03,Negative,361,Positive,,Elderly,,,Post-2nd,30-Sep-21,baseline,,148,,,30-Mar-21,05-May-21,05-Nov-21,36,184
+310,,Female,UC,none,none,Oral 5ASA,none,,,22184,Positive,,Adult,,,Post-2nd,03-Jul-21,baseline,,28,,,12-Apr-21,05-Jun-21,,54,
+311,,Female,UC,Vedolizumab,none,none,none,,,21016,Positive,,Adult,,,Post-2nd,14-Jul-21,baseline,,23,,,20-Apr-21,21-Jun-21,,62,
+312,,Male,CD,Infliximab,none,none,none,0.03,Negative,0,Negative,,Elderly,,,Post-2nd,22-Jun-21,baseline,,52,,,02-Apr-21,01-May-21,02-Sep-21,29,124
+313,,Male,CD,Infliximab,none,none,none,0.02,Negative,,,,Elderly,,,Post-3rd,17-Sep-21,baseline,,,15,,02-Apr-21,01-May-21,02-Sep-21,29,124
+314,,Male,CD,Inflectra,none,none,none,,,691,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,38,,,30-Mar-21,13-Jun-21,,75,
+315,,Male,CD,Inflectra,none,none,none,0.03,Negative,85,Positive,,Adult,,,Post-2nd,02-Dec-21,baseline,,172,,,30-Mar-21,13-Jun-21,,75,
+316,,Male,UC,none,none,Both oral/Rectal,none,0.05,Negative,7636,Positive,,Adult,,,Post-2nd,29-Jun-21,baseline,,19,,,22-Mar-21,10-Jun-21,,80,
+317,,Male,UC,none,none,Both oral/Rectal,none,0.05,Negative,1246,Positive,,Adult,,,Post-2nd,07-Dec-21,baseline,,180,,,22-Mar-21,10-Jun-21,,80,
+318,,Male,CD,Inflectra,none,Rectal 5ASA,none,0.02,Negative,2,Negative,,Elderly,,,Post-1st,15-Jun-21,baseline,31,,,,15-May-21,14-Jul-21,,60,
+319,,Male,CD,Inflectra,none,Rectal 5ASA,none,,,,,,Elderly,,,Post-2nd,10-Aug-21,baseline,,27,,,15-May-21,14-Jul-21,,60,
+320,,Male,CD,Inflectra,none,Rectal 5ASA,none,0.06,Negative,37,Negative,,Elderly,,,Post-2nd,30-Nov-21,baseline,,139,,,15-May-21,14-Jul-21,,60,
+321,,Female,UC,none,none,none,none,,,5580,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,19,,,12-Apr-21,16-Jun-21,,65,
+322,,Male,UC,Tofacitinib,none,Rectal 5ASA,none,0.05,Negative,4686,Positive,,Adult,,,Post-2nd,25-Jun-21,baseline,,22,,,20-Apr-21,03-Jun-21,20-Oct-21,44,139
+323,,Female,CD,Inflectra,none,none,none,0.02,Negative,108,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,60,,,02-Apr-21,01-May-21,02-Sep-21,29,124
+324,,Female,CD,Inflectra,none,none,none,0.02,Negative,1273,Positive,,Adult,,,Post-3rd,22-Sep-21,baseline,,,20,,02-Apr-21,01-May-21,02-Sep-21,29,124
+325,,Male,CD,Ustekinumab,none,none,none,,,27432,Positive,,Adult,,,Post-2nd,26-Jul-21,baseline,,14,,,02-May-21,12-Jul-21,,71,
+326,,Female,CD,Ustekinumab,none,none,none,,,2258,Positive,,Adult,,,Post-2nd,15-Jul-21,baseline,,60,,,07-Apr-21,16-May-21,01-Sep-21,39,108
+327,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,12198,Positive,,Adult,,,Post-3rd,15-Sep-21,baseline,,,14,,07-Apr-21,16-May-21,01-Sep-21,39,108
+328,,Male,UC,Inflectra,Oral Prednisone,Both oral/Rectal,Azathioprine/Immuran,0.31,Negative,6800,Positive,,Adult,,,Post-1st,23-Jul-21,baseline,92,,,,22-Apr-21,01-Aug-21,05-Oct-21,101,65
+329,,Male,UC,Inflectra,Oral Prednisone,Both oral/Rectal,Azathioprine/Immuran,0.21,Negative,7774,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,39,,,22-Apr-21,01-Aug-21,05-Oct-21,101,65
+330,,Male,UC,Inflectra,Oral Prednisone,Both oral/Rectal,Azathioprine/Immuran,0.18,Negative,12209,Positive,,Adult,,,Post-3rd,05-Nov-21,baseline,,,31,,22-Apr-21,01-Aug-21,05-Oct-21,101,65
+331,,Female,CD,none,none,none,Azathioprine/Immuran,0.01,Negative,2426,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,38,,,19-Apr-21,14-Jun-21,28-Sep-21,56,106
+332,,Female,CD,none,none,none,Azathioprine/Immuran,0.01,Negative,9724,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,31,,19-Apr-21,14-Jun-21,28-Sep-21,56,106
+333,,Female,CD,Adalimumab,none,none,none,0.02,Negative,,,,Adult,,,,24-Sep-21,baseline,,,,,,,,,
+334,,Male,CD,Ustekinumab,none,none,Methotrexate,0.02,Negative,1064,Positive,,Adult,,,Post-1st,19-Aug-21,baseline,23,,,,27-Jul-21,24-Aug-21,,28,
+335,,Male,CD,Ustekinumab,none,none,Methotrexate,0.02,Negative,40000,Positive,,Adult,,,Post-2nd,16-Sep-21,baseline,,23,,,27-Jul-21,24-Aug-21,,28,
+336,,Female,CD,Renflexis/IFX,none,none,none,0.08,Negative,883,Positive,,Adult,,,Post-2nd,14-Sep-21,baseline,,98,,,17-Mar-21,08-Jun-21,16-Oct-21,83,130
+337,,Female,CD,Renflexis/IFX,none,none,none,0.48,Negative,6233,Positive,,Adult,,,Post-3rd,04-Nov-21,baseline,,,19,,17-Mar-21,08-Jun-21,16-Oct-21,83,130
+338,,Male,CD,Adalimumab,none,none,none,0.03,Negative,2366,Positive,,Adult,,,Post-2nd,03-Sep-21,baseline,,68,,,06-May-21,27-Jun-21,,52,
+339,,Female,CD,Inflectra,none,none,Azathioprine/Immuran,0.02,Negative,4450,Positive,,Adult,,,Post-2nd,28-Sep-21,baseline,,66,,,12-May-21,24-Jul-21,19-Oct-21,73,87
+340,,Female,CD,Inflectra,none,none,Azathioprine/Immuran,0.06,Negative,6295,Positive,,Adult,,,Post-3rd,12-Nov-21,baseline,,,24,,12-May-21,24-Jul-21,19-Oct-21,73,87
+341,,Female,CD,Vedolizumab,none,none,none,0.01,Negative,7049,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,83,,,22-Apr-21,11-Jun-21,29-Sep-21,50,110
+342,,Female,CD,Vedolizumab,none,none,none,0.01,Negative,56345,Positive,,Adult,,,Post-3rd,19-Oct-21,baseline,,,20,,22-Apr-21,11-Jun-21,29-Sep-21,50,110
+343,,Female,CD,Ustekinumab,none,none,none,4.59,Negative,36168,Positive,,Adult,21,,Post-2nd,21-Sep-21,baseline,,107,,,28-Apr-21,06-Jun-21,30-Sep-21,39,116
+344,,Female,CD,Ustekinumab,none,none,none,4.61,Negative,40000,Positive,,Adult,62,,Post-3rd,01-Nov-21,baseline,,,32,,28-Apr-21,06-Jun-21,30-Sep-21,39,116
+345,,Female,CD,Inflectra,none,none,none,0.1,Negative,1864,Positive,,Elderly,,,Post-2nd,15-Sep-21,baseline,,63,,,26-Apr-21,14-Jul-21,,79,
+346,,Male,UC,none,none,Oral 5ASA,Azathioprine/Immuran,2.16,Negative,40000,Positive,,Adult,36,,Post-2nd,16-Nov-21,Post Vaccine covid,,157,,,09-Apr-21,12-Jun-21,,64,
+347,,Male,UC,Vedolizumab,none,none,none,0.03,Negative,368,Positive,,Elderly,,,Post-1st,11-May-21,baseline,38,,,,03-Apr-21,25-May-21,13-Sep-21,52,111
+348,,Male,UC,Vedolizumab,none,none,none,0.04,Negative,23927,Positive,,Elderly,,,Post-2nd,11-Jun-21,baseline,,17,,,03-Apr-21,25-May-21,13-Sep-21,52,111
+349,,Male,UC,Vedolizumab,none,none,none,0.58,Negative,37642,Positive,,Elderly,,,Post-3rd,29-Sep-21,baseline,,,16,,03-Apr-21,25-May-21,13-Sep-21,52,111
+350,,Female,UC,Adalimumab,none,none,Methotrexate,0.02,Negative,118,Positive,,Adult,,,Post-1st,04-May-21,baseline,29,,,,05-Apr-21,03-Jun-21,04-Sep-21,59,93
+351,,Female,UC,Adalimumab,none,none,Methotrexate,0.02,Negative,652,Positive,,Adult,,,Post-2nd,24-Jun-21,baseline,,21,,,05-Apr-21,03-Jun-21,04-Sep-21,59,93
+352,,Female,CD,Adalimumab,none,none,none,2.65,Positive,640,Positive,,Adult,30,,Pre-1st,06-Apr-21,Baseline to COVID,,,,,22-Apr-21,27-May-21,27-Sep-21,35,123
+353,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,971,Positive,,Adult,,,Post-1st,10-Sep-21,baseline,85,,,,17-Jun-21,29-Sep-21,,104,
+354,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,30146,Positive,,Adult,,,Post-2nd,08-Oct-21,baseline,,9,,,17-Jun-21,29-Sep-21,,104,
+355,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,11649,Positive,,Adult,,,Post-2nd,19-Jul-21,baseline,,30,,,23-Apr-21,19-Jun-21,,57,
+356,,Female,CD,Vedolizumab,none,none,none,0.01,Negative,681,Positive,,Adult,,,Post-1st,07-May-21,baseline,34,,,,03-Apr-21,08-May-21,19-Sep-21,35,134
+357,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,4255,Positive,,Adult,,,Post-2nd,23-Jun-21,baseline,,46,,,03-Apr-21,08-May-21,19-Sep-21,35,134
+358,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,3525,Positive,,Adult,,,Post-2nd,08-Sep-21,baseline,,123,,,03-Apr-21,08-May-21,19-Sep-21,35,134
+359,,Male,UC,Inflectra,none,none,none,0.03,Negative,0,Negative,,Adult,,,Pre-1st,09-Apr-21,baseline,,,,,22-Apr-21,17-Jun-21,15-Sep-21,56,90
+360,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,597,Positive,,Adult,,,Post-1st,07-Jun-21,baseline,55,,,,13-Apr-21,20-Jun-21,03-Dec-21,68,166
+361,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,21136,Positive,,Adult,,,Post-2nd,20-Aug-21,baseline,,61,,,13-Apr-21,20-Jun-21,03-Dec-21,68,166
+362,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,4646,Positive,,Adult,,,Post-2nd,01-Dec-21,baseline,,164,,,13-Apr-21,20-Jun-21,03-Dec-21,68,166
+363,,Male,UC,Remicade,none,none,none,,,6062,Positive,,Adult,,,Post-2nd,07-Jul-21,baseline,,22,,,19-Apr-21,15-Jun-21,,57,
+364,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,621,Positive,,Adult,,,Post-1st,30-Mar-21,baseline,35,,,,23-Feb-21,05-Apr-21,,41,
+365,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,4274,Positive,,Adult,,,Post-2nd,26-May-21,baseline,,51,,,23-Feb-21,05-Apr-21,,41,
+366,,Female,CD,Vedolizumab,none,none,none,0.05,Negative,747,Positive,,Adult,,,Post-2nd,15-Sep-21,baseline,,163,,,23-Feb-21,05-Apr-21,,41,
+367,,Female,CD,Inflectra,none,none,none,0.04,Negative,348,Positive,,Adult,,,Post-2nd,04-Sep-21,baseline,,46,,,18-Jun-21,20-Jul-21,,32,
+368,,Female,CD,Remicade,none,none,none,,,1056,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,18,,,22-Apr-21,17-Jun-21,12-Oct-21,56,117
+369,,Female,CD,Remicade,none,none,none,0.01,Negative,4282,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,22,,22-Apr-21,17-Jun-21,12-Oct-21,56,117
+370,,Female,CD,Vedolizumab,none,none,none,0.1,Negative,691,Positive,,Adult,,,Post-2nd,29-Nov-21,baseline,,244,,,20-Feb-21,30-Mar-21,,38,
+371,,Male,CD,Inflectra,none,none,none,0.03,Negative,702,Positive,,Adult,,,Post-2nd,22-Jun-21,baseline,,41,,,09-Apr-21,12-May-21,22-Sep-21,33,133
+372,,Male,CD,Inflectra,none,none,none,0.03,Negative,504,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,97,,,09-Apr-21,12-May-21,22-Sep-21,33,133
+373,,Male,CD,Inflectra,none,none,none,0.52,Negative,3880,Positive,,Adult,,,Post-3rd,07-Dec-21,baseline,,,76,,09-Apr-21,12-May-21,22-Sep-21,33,133
+374,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,211,Positive,,Elderly,,,Post-1st,03-May-21,baseline,37,,,,27-Mar-21,14-Jun-21,,79,
+375,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,9143,Positive,,Elderly,,,Post-2nd,28-Jun-21,baseline,,14,,,27-Mar-21,14-Jun-21,,79,
+376,,Male,IBD-U,Inflectra,none,none,none,,,5508,Positive,,Adult,-86,,Post-2nd,30-Jun-21,Post Vaccine covid,,15,,,08-Apr-21,15-Jun-21,,68,
+377,,Female,CD,Ustekinumab,none,none,none,0.04,Negative,9147,Positive,,Adult,,,Post-2nd,12-May-21,baseline,,11,,,07-Apr-21,01-May-21,30-Sep-21,24,152
+378,,Female,CD,Ustekinumab,none,none,none,0.04,Negative,2313,Positive,,Adult,,,Post-2nd,06-Aug-21,baseline,,97,,,07-Apr-21,01-May-21,30-Sep-21,24,152
+379,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,626,Positive,,Adult,,,Post-1st,18-May-21,baseline,27,,,,21-Apr-21,17-Jun-21,,57,
+380,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,28498,Positive,,Adult,,,Post-2nd,20-Jul-21,baseline,,33,,,21-Apr-21,17-Jun-21,,57,
+381,,Female,CD,Vedolizumab,none,none,none,0.04,Negative,17240,Positive,,Adult,,,Post-2nd,21-Jun-21,baseline,,24,,,14-Apr-21,28-May-21,21-Oct-21,44,146
+382,,Female,CD,Vedolizumab,none,none,none,0.05,Negative,40000,Positive,,Adult,,,Post-3rd,17-Nov-21,baseline,,,27,,14-Apr-21,28-May-21,21-Oct-21,44,146
+383,,Female,CD,Inflectra,Oral budesonide/Cortiment/Entocort,none,none,,,2455,Positive,,Elderly,,,Post-2nd,26-Jul-21,New biologic/Tofacitinib start,,30,,,13-Apr-21,26-Jun-21,26-Oct-21,74,122
+384,,Female,CD,Ustekinumab,none,none,none,4.11,Positive,74,Positive,,Adult,18,,Pre-1st,25-May-21,Baseline to COVID,,,,,26-May-21,05-Jul-21,,40,
+385,,Female,CD,Ustekinumab,none,none,none,,,10406,Positive,,Adult,59,,Post-1st,05-Jul-21,Baseline to COVID,40,,,,26-May-21,05-Jul-21,,40,
+386,,Female,CD,Ustekinumab,none,none,none,,,16757,Positive,,Adult,82,,Post-2nd,28-Jul-21,Baseline to COVID,,23,,,26-May-21,05-Jul-21,,40,
+387,,Female,CD,Remicade,none,none,Methotrexate,0.02,Negative,125,Positive,,Adult,,,Post-1st,20-May-21,baseline,41,,,,09-Apr-21,20-Jun-21,24-Sep-21,72,96
+388,,Female,CD,Remicade,none,none,Methotrexate,,,,,,Adult,,,Post-2nd,14-Jul-21,baseline,,24,,,09-Apr-21,20-Jun-21,24-Sep-21,72,96
+389,,Female,CD,Adalimumab,none,none,none,6.82,Positive,3430,Positive,,Elderly,40,,Pre-1st,18-Feb-21,Baseline to COVID,,,,,16-Sep-21,06-Nov-21,,51,
+390,,Female,CD,Adalimumab,none,none,none,0.14,Negative,80000,Positive,,Elderly,265,,Post-1st,01-Oct-21,Baseline to COVID,15,,,,16-Sep-21,06-Nov-21,,51,
+391,,Female,CD,Adalimumab,none,none,none,0.1,Negative,27335,Positive,,Elderly,331,,Post-2nd,06-Dec-21,Baseline to COVID,,30,,,16-Sep-21,06-Nov-21,,51,
+392,,Female,UC,Vedolizumab,none,none,none,0.11,Negative,10178,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,48,,,23-Apr-21,04-Jun-21,,42,
+393,,Female,CD,Ustekinumab,none,none,Methotrexate,0.02,Negative,6831,Positive,,Adult,,,Post-2nd,01-Sep-21,baseline,,88,,,08-Apr-21,05-Jun-21,09-Oct-21,58,126
+394,,Female,CD,Ustekinumab,none,none,Methotrexate,0.02,Negative,12399,Positive,,Adult,,,Post-3rd,23-Nov-21,baseline,,,45,,08-Apr-21,05-Jun-21,09-Oct-21,58,126
+395,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,13866,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,19,,,21-Apr-21,11-Jun-21,07-Sep-21,51,88
+396,,Male,CD,Vedolizumab,none,none,none,,,8761,Positive,,Adult,,,Post-2nd,07-Jul-21,baseline,,21,,,08-Apr-21,16-Jun-21,20-Sep-21,69,96
+397,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,14754,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,38,,08-Apr-21,16-Jun-21,20-Sep-21,69,96
+398,,Male,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-2nd,07-Aug-21,baseline,,34,,,08-May-21,04-Jul-21,24-Sep-21,57,82
+399,,Male,CD,Adalimumab,none,none,none,0.1,Negative,4548,Positive,,Adult,,,Post-3rd,03-Dec-21,baseline,,,70,,08-May-21,04-Jul-21,24-Sep-21,57,82
+400,,Female,CD,Inflectra,none,none,none,,,,,,Adult,,,Post-2nd,04-Aug-21,baseline,,49,,,09-Apr-21,16-Jun-21,,68,
+401,,Female,CD,Vedolizumab,none,none,none,,,21561,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,15,,,27-May-21,24-Jun-21,01-Oct-21,28,99
+402,,Female,CD,Vedolizumab,none,none,none,0.1,Negative,21697,Positive,,Adult,,,Post-3rd,27-Oct-21,baseline,,,26,,27-May-21,24-Jun-21,01-Oct-21,28,99
+403,,Female,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.05,Negative,22215,Positive,,Adult,,,Post-2nd,10-Aug-21,baseline,,56,,,29-Apr-21,15-Jun-21,28-Sep-21,47,105
+404,,Female,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.24,Negative,13806,Positive,,Adult,,,Post-3rd,09-Dec-21,baseline,,,72,,29-Apr-21,15-Jun-21,28-Sep-21,47,105
+405,,Female,UC,none,none,Both oral/Rectal,none,0.2,Negative,566,Positive,,Adult,203,,Pre-1st,15-Mar-21,covid,,,,,15-Apr-21,13-Jun-21,,59,
+406,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,2,Negative,,Adult,123,,Pre-1st,10-Feb-21,covid,,,,,31-Mar-21,11-Jun-21,02-Sep-21,72,83
+407,,Female,CD,Adalimumab,unknown,none,unkknown,0.4,Negative,34,Negative,,Adult,142,,Pre-1st,25-Feb-21,covid,,,,,16-Apr-21,06-Jun-21,,51,
+408,,Female,CD,Adalimumab,unknown,none,unkknown,0.22,Negative,3486,Positive,,Adult,225,,Post-1st,19-May-21,covid,33,,,,16-Apr-21,06-Jun-21,,51,
+409,,Female,CD,Adalimumab,unknown,none,unkknown,,,,,,Adult,282,,Post-2nd,15-Jul-21,covid,,39,,,16-Apr-21,06-Jun-21,,51,
+410,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,12249,Positive,,Adult,,,Post-2nd,24-Jul-21,baseline,,27,,,30-Apr-21,27-Jun-21,,58,
+411,,Female,CD,Adalimumab,none,none,none,0.03,Negative,124,Positive,,Adult,,,Post-1st,13-Apr-21,baseline,14,,,,30-Mar-21,06-May-21,19-Sep-21,37,136
+412,,Female,CD,Adalimumab,none,none,none,0.04,Negative,6698,Positive,,Adult,,,Post-3rd,07-Oct-21,baseline,,,18,,30-Mar-21,06-May-21,19-Sep-21,37,136
+413,,Female,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,Methotrexate,0.03,Negative,5778,Positive,,Adult,,,Post-2nd,24-Jun-21,baseline,,38,,,03-Apr-21,17-May-21,03-Sep-21,44,109
+414,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,1873,Positive,,Adult,,,Post-1st,12-Feb-21,baseline,40,,,,03-Jan-21,12-Feb-21,03-Dec-21,40,294
+415,,Female,CD,Vedolizumab,none,none,none,0.04,Negative,31538,Positive,,Adult,,,Post-2nd,19-Feb-21,baseline,,7,,,03-Jan-21,12-Feb-21,03-Dec-21,40,294
+416,,Female,CD,Vedolizumab,none,none,none,1.11,Negative,1655,Positive,,Adult,,,Post-2nd,03-Dec-21,baseline,,294,,,03-Jan-21,12-Feb-21,03-Dec-21,40,294
+417,,Female,CD,Vedolizumab,none,none,none,0.69,Negative,14403,Positive,,Adult,,,Post-2nd,08-Dec-21,baseline,,299,,,03-Jan-21,12-Feb-21,03-Dec-21,40,294
+418,,Female,CD,Infliximab,none,none,none,7.35,Positive,754,Positive,,Adult,25,,Pre-1st,09-Dec-20,covid,,,,,06-Jul-21,28-Sep-21,,84,
+419,,Female,CD,Infliximab,none,none,none,0.25,Negative,2448,Positive,,Adult,304,,Post-1st,14-Sep-21,covid,70,,,,06-Jul-21,28-Sep-21,,84,
+420,,Male,CD,Adalimumab,none,none,none,0.02,Negative,2,Negative,,Adult,238,,Pre-1st,18-Jan-21,covid,,,,,08-Apr-21,09-Jun-21,08-Dec-21,62,182
+421,,Male,CD,Adalimumab,none,none,none,,,929,Positive,,Adult,408,,Post-2nd,07-Jul-21,covid,,28,,,08-Apr-21,09-Jun-21,08-Dec-21,62,182
+422,,Female,CD,Adalimumab,none,none,none,2.02,Positive,243,Positive,,Adult,101,,Pre-1st,26-Feb-21,covid,,,,,22-Apr-21,20-Jun-21,,59,
+423,,Female,CD,Adalimumab,none,none,none,0.28,Negative,12233,Positive,,Adult,273,,Post-2nd,17-Aug-21,covid,,58,,,22-Apr-21,20-Jun-21,,59,
+424,,Male,UC,Vedolizumab,none,none,Methotrexate,0.83,Negative,983,Positive,,Adult,119,,Pre-1st,24-Mar-21,covid,,,,,23-May-21,03-Jul-21,,41,
+425,,Male,UC,Vedolizumab,none,none,Methotrexate,0.57,Negative,25010,Positive,,Adult,199,,Post-1st,12-Jun-21,covid,20,,,,23-May-21,03-Jul-21,,41,
+426,,Male,UC,Vedolizumab,none,none,Methotrexate,0.54,Negative,78173,Positive,,Adult,238,,Post-2nd,21-Jul-21,covid,,18,,,23-May-21,03-Jul-21,,41,
+427,,Male,UC,Vedolizumab,none,none,Methotrexate,0.46,Negative,12262,Positive,,Adult,378,,Post-2nd,08-Dec-21,covid,,158,,,23-May-21,03-Jul-21,,41,
+428,,Female,UC,Adalimumab,none,none,none,0.02,Negative,164,Positive,,Adult,,,Post-1st,12-May-21,baseline,32,,,,10-Apr-21,29-May-21,,49,
+429,,Female,UC,Adalimumab,none,none,none,0.01,Negative,1153,Positive,,Adult,,,Post-2nd,21-Jun-21,baseline,,23,,,10-Apr-21,29-May-21,,49,
+430,,Female,UC,Adalimumab,none,none,none,0.01,Negative,170,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,103,,,10-Apr-21,29-May-21,,49,
+431,,Female,CD,Adalimumab,none,none,Methotrexate,0.01,Negative,1980,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,40,,,16-Apr-21,12-Jun-21,18-Dec-21,57,189
+432,,Female,CD,Adalimumab,none,none,Methotrexate,0.01,Negative,143,Positive,,Adult,,,Post-2nd,07-Dec-21,baseline,,178,,,16-Apr-21,12-Jun-21,18-Dec-21,57,189
+433,,Female,CD,Adalimumab,none,none,none,0.03,Negative,3,Negative,,Adult,,,Pre-1st,01-Mar-21,baseline,,,,,13-Mar-21,23-May-21,25-Sep-21,71,125
+434,,Female,CD,Adalimumab,none,none,none,0.03,Negative,163,Positive,,Adult,,,Post-1st,03-May-21,baseline,51,,,,13-Mar-21,23-May-21,25-Sep-21,71,125
+435,,Female,CD,Adalimumab,none,none,none,,,1897,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,43,,,13-Mar-21,23-May-21,25-Sep-21,71,125
+436,,Female,CD,Adalimumab,none,none,none,0.04,Negative,795,Positive,,Adult,,,Post-2nd,03-Sep-21,baseline,,103,,,13-Mar-21,23-May-21,25-Sep-21,71,125
+437,,Female,CD,Adalimumab,none,none,none,0.03,Negative,40000,Positive,,Adult,,,Post-3rd,12-Oct-21,baseline,,,17,,13-Mar-21,23-May-21,25-Sep-21,71,125
+438,,Female,CD,Infliximab,none,none,none,0.02,Negative,2755,Positive,,Adult,,,Post-2nd,04-Aug-21,baseline,,35,,,20-Apr-21,30-Jun-21,,71,
+439,,Female,CD,Adalimumab,none,none,Methotrexate,,,240,Positive,,Adult,,,Post-2nd,08-Jul-21,baseline,,22,,,12-Apr-21,16-Jun-21,28-Sep-21,65,104
+440,,Female,CD,Adalimumab,none,none,Methotrexate,0.01,Negative,1911,Positive,,Adult,,,Post-3rd,08-Nov-21,baseline,,,41,,12-Apr-21,16-Jun-21,28-Sep-21,65,104
+441,,Male,UC,Adalimumab,none,none,none,2.88,Positive,7,Negative,,Adult,,,Pre-1st,14-Dec-20,baseline,,,,,16-Apr-21,15-Jun-21,28-Sep-21,60,105
+442,,Male,UC,Adalimumab,none,none,none,2.51,Negative,,,,Adult,,,Post-1st,12-May-21,baseline,26,,,,16-Apr-21,15-Jun-21,28-Sep-21,60,105
+443,,Male,UC,Adalimumab,none,none,none,1.75,Positive,1832,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,37,,,16-Apr-21,15-Jun-21,28-Sep-21,60,105
+444,,Male,UC,Adalimumab,none,none,none,2.38,Negative,6868,Positive,,Adult,,,Post-3rd,23-Oct-21,baseline,,,25,,16-Apr-21,15-Jun-21,28-Sep-21,60,105
+445,,Female,CD,Infliximab,none,none,none,2.93,Positive,195,Positive,,Adult,37,,Pre-1st,06-Jan-21,covid,,,,,18-Apr-21,21-May-21,30-Sep-21,33,132
+446,,Female,CD,Infliximab,none,none,none,1.37,Negative,117,Positive,,Adult,71,,Pre-1st,09-Feb-21,covid,,,,,18-Apr-21,21-May-21,30-Sep-21,33,132
+447,,Female,CD,Infliximab,none,none,none,,,,,,Adult,183,,Post-2nd,01-Jun-21,covid,,11,,,18-Apr-21,21-May-21,30-Sep-21,33,132
+448,,Female,CD,Infliximab,none,none,none,0.18,Negative,2094,Positive,,Adult,233,,Post-2nd,21-Jul-21,covid,,61,,,18-Apr-21,21-May-21,30-Sep-21,33,132
+449,,Female,CD,Infliximab,none,none,none,0.17,Negative,1293,Positive,,Adult,291,,Post-2nd,17-Sep-21,covid,,119,,,18-Apr-21,21-May-21,30-Sep-21,33,132
+450,,Female,CD,Inflectra,none,none,none,,,1613,Positive,,Elderly,,,Post-2nd,07-Jul-21,baseline,,27,,,27-Mar-21,10-Jun-21,07-Sep-21,75,89
+451,,Female,CD,Inflectra,none,none,none,0.09,Negative,365,Positive,,Elderly,,,Post-3rd,08-Nov-21,baseline,,,62,,27-Mar-21,10-Jun-21,07-Sep-21,75,89
+452,,Male,CD,Inflectra,none,none,Methotrexate,,,1,Negative,,Adult,,,Pre-1st,14-Jul-21,baseline,,,,,16-Sep-21,14-Oct-21,,28,
+453,,Male,CD,Vedolizumab,none,none,none,,,2914,Positive,,Adult,,,Post-2nd,12-Jul-21,baseline,,26,,,09-Apr-21,16-Jun-21,10-Sep-21,68,86
+454,,Male,CD,Vedolizumab,none,none,none,0.05,Negative,4543,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,54,,09-Apr-21,16-Jun-21,10-Sep-21,68,86
+455,,Female,CD,Adalimumab,none,none,none,0.04,Negative,135,Positive,,Elderly,,,Post-1st,24-Apr-21,baseline,30,,,,25-Mar-21,19-Jun-21,,86,
+456,,Female,CD,Adalimumab,none,none,none,,,3685,Positive,,Elderly,,,Post-2nd,10-Jul-21,baseline,,21,,,25-Mar-21,19-Jun-21,,86,
+457,,Female,CD,Adalimumab,none,none,none,0.05,Negative,544,Positive,,Elderly,,,Post-2nd,15-Nov-21,baseline,,149,,,25-Mar-21,19-Jun-21,,86,
+458,,Male,CD,Adalimumab,none,none,Methotrexate,0.09,Negative,1014,Positive,,Adult,,,Post-2nd,09-Aug-21,baseline,,52,,,09-Apr-21,18-Jun-21,,70,
+459,,Male,CD,Infliximab,none,none,Methotrexate,,,137,Positive,,Adult,,,Post-2nd,29-Jul-21,baseline,,52,,,23-Mar-21,07-Jun-21,04-Sep-21,76,89
+460,,Male,CD,Infliximab,none,none,Methotrexate,0.37,Negative,623,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,55,,23-Mar-21,07-Jun-21,04-Sep-21,76,89
+461,,Male,CD,Infliximab,none,none,none,0.02,Negative,3,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,23-Apr-21,19-Jun-21,27-Sep-21,57,100
+462,,Male,CD,Infliximab,none,none,none,0.02,Negative,6178,Positive,,Adult,,,Post-3rd,27-Oct-21,baseline,,,30,,23-Apr-21,19-Jun-21,27-Sep-21,57,100
+463,,Female,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-2nd,03-Aug-21,baseline,,89,,,30-Mar-21,06-May-21,25-Sep-21,37,142
+464,,Female,CD,Adalimumab,none,none,none,0.04,Negative,4679,Positive,,Adult,,,Post-3rd,17-Nov-21,baseline,,,53,,30-Mar-21,06-May-21,25-Sep-21,37,142
+465,,Female,CD,Adalimumab,none,none,none,0.58,Negative,23,Negative,,Adult,159,,Pre-1st,13-May-21,covid,,,,,04-Jun-21,03-Jul-21,,29,
+466,,Female,CD,Adalimumab,none,none,none,0.13,Negative,5836,Positive,,Adult,256,,Post-2nd,18-Aug-21,covid,,46,,,04-Jun-21,03-Jul-21,,29,
+467,,Female,CD,Infliximab,none,none,none,,,,,,Adult,,,Post-2nd,17-Jul-21,baseline,,19,,,30-Apr-21,28-Jun-21,,59,
+468,,Female,CD,Adalimumab,none,none,none,0.05,Negative,6888,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,32,,,22-Apr-21,21-Jun-21,25-Sep-21,60,96
+469,,Female,CD,Adalimumab,none,none,none,0.15,Negative,2329,Positive,,Adult,,,Post-3rd,11-Nov-21,baseline,,,47,,22-Apr-21,21-Jun-21,25-Sep-21,60,96
+470,,Male,CD,Adalimumab,none,none,none,0.03,Negative,3822,Positive,,Adult,,,Post-2nd,18-Jun-21,baseline,,47,,,15-Mar-21,02-May-21,05-Sep-21,48,126
+471,,Male,CD,Adalimumab,none,none,none,0.03,Negative,3273,Positive,,Adult,,,Post-2nd,04-Sep-21,baseline,,125,,,15-Mar-21,02-May-21,05-Sep-21,48,126
+472,,Male,CD,Adalimumab,none,none,none,0.04,Negative,5102,Positive,,Adult,,,Post-3rd,07-Nov-21,baseline,,,63,,15-Mar-21,02-May-21,05-Sep-21,48,126
+473,,Female,CD,Vedolizumab,none,none,none,,,,,,Adult,,,Post-1st,19-Jun-21,baseline,44,,,,06-May-21,08-Jul-21,09-Nov-21,63,124
+474,,Female,CD,Vedolizumab,none,none,none,0.45,Negative,18776,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,22,,,06-May-21,08-Jul-21,09-Nov-21,63,124
+475,,Female,CD,Vedolizumab,none,none,none,0.46,Negative,40000,Positive,,Adult,,,Post-3rd,25-Nov-21,baseline,,,16,,06-May-21,08-Jul-21,09-Nov-21,63,124
+476,,Female,UC,none,none,Both oral/Rectal,none,0.05,Negative,0,Negative,,Adult,83,,Pre-1st,18-Dec-20,covid,,,,,02-May-21,28-Jun-21,,57,
+477,,Female,UC,none,none,Both oral/Rectal,none,0.06,Negative,20683,Positive,,Adult,293,,Post-2nd,16-Jul-21,covid,,18,,,02-May-21,28-Jun-21,,57,
+478,,Male,CD,Infliximab,none,none,Methotrexate,0.22,Negative,148,Positive,,Adult,57,,Pre-1st,26-Jan-21,covid,,,,,21-Apr-21,11-Jun-21,08-Sep-21,51,89
+479,,Male,CD,Infliximab,none,none,Methotrexate,0.02,Negative,791,Positive,,Adult,226,,Post-2nd,14-Jul-21,covid,,33,,,21-Apr-21,11-Jun-21,08-Sep-21,51,89
+480,,Female,UC,Adalimumab,none,none,none,1.51,Positive,450,Positive,,Adult,73,,Pre-1st,04-Feb-21,covid,,,,,26-Apr-21,26-Jun-21,14-Dec-21,61,171
+481,,Female,UC,Adalimumab,none,none,none,0.13,Negative,7074,Positive,,Adult,217,,Post-1st,28-Jun-21,covid,63,,,,26-Apr-21,26-Jun-21,14-Dec-21,61,171
+482,,Female,UC,Adalimumab,none,none,none,0.1,Negative,5111,Positive,,Adult,240,,Post-2nd,21-Jul-21,covid,,25,,,26-Apr-21,26-Jun-21,14-Dec-21,61,171
+483,,Female,UC,Adalimumab,none,none,none,0.06,Negative,1150,Positive,,Adult,336,,Post-2nd,25-Oct-21,covid,,121,,,26-Apr-21,26-Jun-21,14-Dec-21,61,171
+484,,Female,UC,none,none,Oral 5ASA,none,4.65,Positive,1672,Positive,,Adult,78,,Pre-1st,01-Feb-21,covid,,,,,16-Apr-21,08-May-21,07-Oct-21,22,152
+485,,Female,UC,none,none,Oral 5ASA,none,,,6765,Positive,,Adult,257,,Post-2nd,30-Jul-21,covid,,83,,,16-Apr-21,08-May-21,07-Oct-21,22,152
+486,,Female,UC,none,none,Oral 5ASA,none,0.44,Negative,19615,Positive,,Adult,347,,Post-3rd,28-Oct-21,covid,,,21,,16-Apr-21,08-May-21,07-Oct-21,22,152
+487,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,199,Positive,,Adult,,,Post-2nd,14-Oct-21,baseline,,232,,,14-Jan-21,24-Feb-21,,41,
+488,,Female,CD,Vedolizumab,none,none,Methotrexate,0.03,Negative,7,Negative,,Adult,,,Pre-1st,30-Dec-20,baseline,,,,,10-Apr-21,13-Jun-21,,64,
+489,,Female,CD,Vedolizumab,none,none,Methotrexate,,,3665,Positive,,Adult,,,Post-2nd,14-Jul-21,baseline,,31,,,10-Apr-21,13-Jun-21,,64,
+490,,Female,IBD-U,Adalimumab,none,none,none,,,3706,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,45,,,19-Apr-21,15-Jun-21,,57,
+491,,Female,CD,Adalimumab,none,none,none,0.02,Negative,25,Negative,,Elderly,,,Post-1st,28-Apr-21,baseline,34,,,,25-Mar-21,14-Jun-21,30-Sep-21,81,108
+492,,Female,CD,Adalimumab,none,none,none,,,1291,Positive,,Elderly,,,Post-2nd,28-Jul-21,baseline,,44,,,25-Mar-21,14-Jun-21,30-Sep-21,81,108
+493,,Female,CD,Adalimumab,none,none,none,0.07,Negative,7864,Positive,,Elderly,,,Post-3rd,28-Oct-21,baseline,,,28,,25-Mar-21,14-Jun-21,30-Sep-21,81,108
+494,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.03,Negative,85,Positive,,Adult,,,Post-1st,18-Jun-21,baseline,55,,,,24-Apr-21,16-Jun-21,,53,
+495,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.04,Negative,1023,Positive,,Adult,,,Post-2nd,08-Oct-21,baseline,,114,,,24-Apr-21,16-Jun-21,,53,
+496,,Male,CD,Infliximab,none,none,none,0.01,Negative,1114,Positive,,Adult,,,Post-2nd,14-Jul-21,baseline,,29,,,14-Apr-21,15-Jun-21,29-Sep-21,62,106
+497,,Male,CD,Infliximab,none,none,none,0.01,Negative,3093,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,29,,14-Apr-21,15-Jun-21,29-Sep-21,62,106
+498,,Female,CD,Adalimumab,none,none,none,0.02,Negative,159,Positive,,Adult,,,Post-1st,14-Jun-21,baseline,46,,,,29-Apr-21,21-Jun-21,25-Nov-21,53,157
+499,,Female,CD,Adalimumab,none,none,none,,,5015,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,14,,,29-Apr-21,21-Jun-21,25-Nov-21,53,157
+500,,Female,CD,Adalimumab,none,none,none,0.02,Negative,625,Positive,,Adult,,,Post-2nd,19-Nov-21,baseline,,151,,,29-Apr-21,21-Jun-21,25-Nov-21,53,157
+501,,Male,UC,Remicade,none,none,unkknown,0.17,Negative,3210,Positive,,Adult,,,Post-2nd,11-Aug-21,baseline,,61,,,10-Apr-21,11-Jun-21,28-Sep-21,62,109
+502,,Male,UC,Remicade,none,none,unkknown,0.27,Negative,16613,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,36,,10-Apr-21,11-Jun-21,28-Sep-21,62,109
+503,,Female,CD,Adalimumab,none,none,none,0.05,Negative,1,Negative,,Adult,,,Pre-1st,23-Mar-21,baseline,,,,,17-Apr-21,27-Sep-21,,163,
+504,,Female,CD,Adalimumab,none,none,none,0.05,Negative,73,Positive,,Adult,,,Post-1st,17-May-21,baseline,30,,,,17-Apr-21,27-Sep-21,,163,
+505,,Male,CD,Vedolizumab,none,none,none,0.01,Negative,774,Positive,,Elderly,,,Post-1st,26-Apr-21,baseline,33,,,,24-Mar-21,13-May-21,15-Nov-21,50,186
+506,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,2690,Positive,,Elderly,,,Post-2nd,21-Jun-21,baseline,,39,,,24-Mar-21,13-May-21,15-Nov-21,50,186
+507,,Male,CD,Vedolizumab,none,none,none,0.4,Negative,1286,Positive,,Elderly,,,Post-2nd,13-Oct-21,baseline,,153,,,24-Mar-21,13-May-21,15-Nov-21,50,186
+508,,Female,CD,Adalimumab,Oral Prednisone,none,none,0.04,Negative,197,Positive,,Elderly,,,Post-1st,05-May-21,baseline,28,,,,07-Apr-21,16-Jun-21,,70,
+509,,Female,CD,Adalimumab,Oral Prednisone,none,none,,,7874,Positive,,Elderly,,,Post-2nd,09-Jul-21,baseline,,23,,,07-Apr-21,16-Jun-21,,70,
+510,,Female,CD,Inflectra,none,none,none,0.77,Negative,653,Positive,,Adult,,,Post-2nd,20-Jul-21,baseline,,25,,,17-Apr-21,25-Jun-21,15-Dec-21,69,173
+511,,Female,CD,Infliximab,none,none,none,1.83,Positive,10002,Positive,,Adult,68,,Post-1st,16-Feb-21,covid,30,,,,17-Jan-21,27-Feb-21,,41,
+512,,Female,CD,Infliximab,none,none,none,0.69,Negative,953,Positive,,Adult,214,,Post-2nd,12-Jul-21,covid,,135,,,17-Jan-21,27-Feb-21,,41,
+513,,Male,UC,Vedolizumab,none,none,none,0.02,Negative,1,Negative,,Adult,,,Pre-1st,07-Apr-21,baseline,,,,,16-May-21,30-Jun-21,,45,
+514,,Female,UC,Inflectra,none,none,Methotrexate,0.02,Negative,2,Negative,,Adult,,,Pre-1st,15-Apr-21,baseline,,,,,26-Apr-21,25-Jun-21,20-Dec-21,60,178
+515,,Female,UC,Inflectra,none,none,Methotrexate,,,10012,Positive,,Adult,,,Post-2nd,08-Jul-21,baseline,,13,,,26-Apr-21,25-Jun-21,20-Dec-21,60,178
+516,,Male,UC,Tofacitinib,none,none,none,,,,,,Adult,,,Post-2nd,14-Aug-21,baseline,,56,,,12-Apr-21,19-Jun-21,,68,
+517,,Female,UC,Adalimumab,none,none,none,6.66,Positive,1468,Positive,,Adult,31,,,16-Dec-20,covid,,,,,,,,,
+518,,Male,UC,Ustekinumab,none,none,none,,,2801,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,54,,,24-Apr-21,04-Jun-21,,41,
+519,,Male,CD,Ustekinumab,none,none,none,,,2879,Positive,,Elderly,,,Post-2nd,08-Jul-21,baseline,,7,,,12-Apr-21,01-Jul-21,10-Dec-21,80,162
+520,,Female,CD,Infliximab,none,none,none,0.52,Negative,485,Positive,,Adult,37,,,29-Dec-20,covid,,,,,,,,,
+521,,Female,CD,Infliximab,none,none,none,0.08,Negative,185,Positive,,Adult,268,,,17-Aug-21,covid,,,,,,,,,
+522,,Female,CD,Ustekinumab,none,none,Methotrexate,0.03,Negative,,,,Adult,,,,07-Oct-21,baseline,,,,,,,,,
+523,,Male,CD,Infliximab,none,none,none,0.28,Negative,5,Negative,,Adult,,,,05-Apr-21,baseline,,,,,,,,,
+524,,Male,CD,Infliximab,none,none,Methotrexate,0.04,Negative,2493,Positive,,Adult,,,Post-2nd,15-Jun-21,baseline,,25,,,22-Apr-21,21-May-21,,29,
+525,,Male,CD,Infliximab,none,none,Methotrexate,0.05,Negative,358,Positive,,Adult,,,Post-2nd,17-Sep-21,baseline,,119,,,22-Apr-21,21-May-21,,29,
+526,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,232,Positive,,Elderly,,,Post-1st,17-May-21,baseline,58,,,,20-Mar-21,11-Jun-21,,83,
+527,,Male,CD,Ustekinumab,none,none,none,,,11516,Positive,,Elderly,,,Post-2nd,27-Jul-21,baseline,,46,,,20-Mar-21,11-Jun-21,,83,
+528,,Male,CD,Ustekinumab,none,none,none,2.92,Positive,980,Positive,,Adult,60,,Pre-1st,08-Apr-21,covid,,,,,04-Apr-21,07-Jun-21,,64,
+529,,Male,CD,Ustekinumab,none,none,none,1.6,Positive,14007,Positive,,Adult,93,,Post-1st,11-May-21,covid,37,,,,04-Apr-21,07-Jun-21,,64,
+530,,Male,CD,Ustekinumab,none,none,none,0.56,Negative,21748,Positive,,Adult,166,,Post-2nd,23-Jul-21,covid,,46,,,04-Apr-21,07-Jun-21,,64,
+531,,Male,CD,Remicade,none,none,Methotrexate,0.02,Negative,4,Negative,,Adult,,,Pre-1st,23-Jul-21,baseline,,,,,28-Aug-21,20-Sep-21,,23,
+532,,Male,CD,Infliximab,none,none,none,,,,,,Adult,224,,Post-2nd,21-Jul-21,baseline,,38,,,26-Apr-21,13-Jun-21,,48,
+533,,Male,CD,Ustekinumab,none,Rectal 5ASA,none,0.01,Negative,186,Positive,,Elderly,,,Post-1st,14-Apr-21,baseline,36,,,,09-Mar-21,16-Apr-21,16-Oct-21,38,183
+534,,Male,CD,Ustekinumab,none,Rectal 5ASA,none,0.01,Negative,5019,Positive,,Elderly,,,Post-2nd,26-May-21,baseline,,40,,,09-Mar-21,16-Apr-21,16-Oct-21,38,183
+535,,Male,CD,Ustekinumab,none,Rectal 5ASA,none,0.06,Negative,593,Positive,,Elderly,,,Post-2nd,01-Sep-21,baseline,,138,,,09-Mar-21,16-Apr-21,16-Oct-21,38,183
+536,,Male,CD,Ustekinumab,none,none,none,0.11,Negative,597,Positive,,Elderly,,,Post-1st,05-Apr-21,baseline,39,,,,25-Feb-21,07-Apr-21,19-Oct-21,41,195
+537,,Male,CD,Ustekinumab,none,none,none,0.09,Negative,11702,Positive,,Elderly,,,Post-2nd,27-May-21,baseline,,50,,,25-Feb-21,07-Apr-21,19-Oct-21,41,195
+538,,Male,CD,Ustekinumab,none,none,none,0.09,Negative,1961,Positive,,Elderly,,,Post-2nd,30-Aug-21,baseline,,145,,,25-Feb-21,07-Apr-21,19-Oct-21,41,195
+539,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.04,Negative,456,Positive,,Adult,,,Post-2nd,10-Jun-21,baseline,,20,,,22-Apr-21,21-May-21,19-Oct-21,29,151
+540,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.04,Negative,84,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,104,,,22-Apr-21,21-May-21,19-Oct-21,29,151
+541,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.02,Negative,2164,Positive,,Adult,,,Post-3rd,02-Nov-21,baseline,,,14,,22-Apr-21,21-May-21,19-Oct-21,29,151
+542,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.39,Negative,1330,Positive,,Elderly,,,Post-2nd,26-May-21,baseline,,32,,,14-Mar-21,24-Apr-21,16-Oct-21,41,175
+543,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.24,Negative,206,Positive,,Elderly,,,Post-2nd,24-Aug-21,baseline,,122,,,14-Mar-21,24-Apr-21,16-Oct-21,41,175
+544,,Female,UC,none,none,Oral 5ASA,none,0.04,Negative,17,Negative,,Elderly,,,Post-1st,29-Apr-21,baseline,34,,,,26-Mar-21,08-Jun-21,07-Dec-21,74,182
+545,,Female,UC,none,none,Oral 5ASA,none,,,330,Positive,,Elderly,,,Post-2nd,15-Jul-21,baseline,,37,,,26-Mar-21,08-Jun-21,07-Dec-21,74,182
+546,,Male,CD,Ustekinumab,none,none,none,,,129,Positive,,Adult,,,Post-1st,12-Jul-21,baseline,46,,,,27-May-21,12-Jul-21,,46,
+547,,Female,CD,Ustekinumab,none,none,none,0.04,Negative,8229,Positive,,Elderly,,,Post-2nd,20-Jul-21,baseline,,38,,,12-Apr-21,12-Jun-21,27-Sep-21,61,107
+548,,Female,CD,Ustekinumab,none,none,none,0.12,Negative,28042,Positive,,Elderly,,,Post-3rd,27-Oct-21,baseline,,,30,,12-Apr-21,12-Jun-21,27-Sep-21,61,107
+549,,Female,CD,Golimumab,Oral Prednisone,none,none,0.05,Negative,276,Positive,,Adult,,,Post-2nd,23-Aug-21,baseline,,87,,,06-Apr-21,28-May-21,02-Sep-21,52,97
+550,,Female,CD,Golimumab,Oral Prednisone,none,none,0.05,Negative,5113,Positive,,Adult,,,Post-3rd,22-Sep-21,baseline,,,20,,06-Apr-21,28-May-21,02-Sep-21,52,97
+551,,Male,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,11-Aug-21,baseline,,66,,,11-Apr-21,06-Jun-21,,56,
+552,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,78052,Positive,,Adult,,,Post-2nd,14-Jul-21,baseline,,26,,,27-Apr-21,18-Jun-21,03-Sep-21,52,77
+553,,Female,UC,Infliximab,none,none,none,,,47,Negative,,Adult,,,Post-2nd,20-Jul-21,baseline,,194,,,17-Dec-20,07-Jan-21,22-Sep-21,21,258
+554,,Male,CD,Infliximab,none,none,none,0.03,Negative,4,Negative,,Adult,,,Pre-1st,19-Mar-21,baseline,,,,,11-Apr-21,27-Jun-21,28-Sep-21,77,93
+555,,Male,CD,Infliximab,none,none,none,0.02,Negative,121,Positive,,Adult,,,Post-1st,14-May-21,baseline,33,,,,11-Apr-21,27-Jun-21,28-Sep-21,77,93
+556,,Male,UC,Infliximab,none,none,none,,,2,Negative,,Adult,,,,12-Jul-21,baseline,,,,,,,,,
+557,,Male,CD,Vedolizumab,Oral Prednisone,none,none,0.29,Negative,5,Negative,,Elderly,,,Post-2nd,29-Apr-21,baseline,,12,,,11-Mar-21,17-Apr-21,11-Sep-21,37,147
+558,,Male,CD,Vedolizumab,Oral Prednisone,none,none,,,,,,Elderly,,,Post-2nd,27-May-21,baseline,,40,,,11-Mar-21,17-Apr-21,11-Sep-21,37,147
+559,,Male,CD,Vedolizumab,Oral Prednisone,none,none,0.16,Negative,2,Negative,,Elderly,,,Post-2nd,20-Aug-21,baseline,,125,,,11-Mar-21,17-Apr-21,11-Sep-21,37,147
+560,,Female,CD,Ustekinumab,none,none,none,0.28,Negative,415,Positive,,Elderly,,,Post-1st,16-Apr-21,baseline,29,,,,18-Mar-21,29-Apr-21,24-Nov-21,42,209
+561,,Female,CD,Ustekinumab,none,none,none,0.42,Negative,5937,Positive,,Elderly,,,Post-2nd,26-May-21,baseline,,27,,,18-Mar-21,29-Apr-21,24-Nov-21,42,209
+562,,Female,CD,Ustekinumab,none,none,none,0.08,Negative,770,Positive,,Elderly,,,Post-2nd,15-Sep-21,baseline,,139,,,18-Mar-21,29-Apr-21,24-Nov-21,42,209
+563,,Female,UC,Infliximab,none,Oral 5ASA,none,0.02,Negative,86,Positive,,Adult,,,Post-2nd,26-Aug-21,baseline,,189,,,10-Jan-21,18-Feb-21,15-Sep-21,39,209
+564,,Female,UC,Infliximab,none,Oral 5ASA,none,0.04,Negative,10986,Positive,,Adult,,,Post-3rd,21-Oct-21,baseline,,,36,,10-Jan-21,18-Feb-21,15-Sep-21,39,209
+565,,Male,CD,Infliximab,none,none,none,0.02,Negative,690,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,98,,,23-Apr-21,03-Jun-21,,41,
+566,,Male,CD,Infliximab,none,none,none,0.04,Negative,2004,Positive,,Adult,,,Post-2nd,18-Jun-21,baseline,,8,,,10-Apr-21,10-Jun-21,27-Sep-21,61,109
+567,,Male,CD,Infliximab,none,none,none,,,,,,Adult,,,Post-2nd,13-Aug-21,baseline,,64,,,10-Apr-21,10-Jun-21,27-Sep-21,61,109
+568,,Male,CD,Infliximab,none,none,none,0.02,Negative,6328,Positive,,Adult,,,Post-3rd,15-Nov-21,baseline,,,49,,10-Apr-21,10-Jun-21,27-Sep-21,61,109
+569,,Female,CD,Inflectra,none,none,Methotrexate,0.02,Negative,5,Negative,,Adult,,,Pre-1st,09-Mar-21,baseline,,,,,08-Apr-21,06-May-21,04-Sep-21,28,121
+570,,Female,CD,Inflectra,none,none,Methotrexate,0.02,Negative,108,Positive,,Adult,,,Post-1st,03-May-21,baseline,25,,,,08-Apr-21,06-May-21,04-Sep-21,28,121
+571,,Female,CD,Inflectra,none,none,Methotrexate,0.02,Negative,1909,Positive,,Adult,,,Post-2nd,01-Jun-21,baseline,,26,,,08-Apr-21,06-May-21,04-Sep-21,28,121
+572,,Male,CD,Golimumab,none,none,none,0.05,Negative,113,Positive,,Adult,,,Post-2nd,24-Aug-21,baseline,,107,,,15-Apr-21,09-May-21,23-Sep-21,24,137
+573,,Male,CD,Golimumab,none,none,none,0.05,Negative,5467,Positive,,Adult,,,Post-3rd,02-Nov-21,baseline,,,40,,15-Apr-21,09-May-21,23-Sep-21,24,137
+574,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,7,Negative,,Adult,,,Pre-1st,15-Apr-21,baseline,,,,,21-Apr-21,24-Jun-21,01-Oct-21,64,99
+575,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,2310,Positive,,Adult,,,Post-1st,26-May-21,baseline,35,,,,21-Apr-21,24-Jun-21,01-Oct-21,64,99
+576,,Male,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,21-Jul-21,baseline,,27,,,21-Apr-21,24-Jun-21,01-Oct-21,64,99
+577,,Male,CD,Ustekinumab,none,none,none,0.1,Negative,40000,Positive,,Adult,,,Post-3rd,22-Oct-21,baseline,,,21,,21-Apr-21,24-Jun-21,01-Oct-21,64,99
+578,,Male,CD,Remicade,none,Oral 5ASA,Azathioprine/Immuran,0.76,Negative,1,Negative,,Adult,,,Pre-1st,12-Mar-21,baseline,,,,,10-Apr-21,11-Jun-21,19-Nov-21,62,161
+579,,Male,CD,Remicade,none,Oral 5ASA,Azathioprine/Immuran,,,797,Positive,,Adult,,,Post-2nd,29-Jul-21,baseline,,48,,,10-Apr-21,11-Jun-21,19-Nov-21,62,161
+580,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.02,Negative,4169,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,35,,,11-Apr-21,11-Jun-21,06-Oct-21,61,117
+581,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.03,Negative,15266,Positive,,Adult,,,Post-3rd,19-Nov-21,baseline,,,44,,11-Apr-21,11-Jun-21,06-Oct-21,61,117
+582,,Female,CD,Adalimumab,none,none,Methotrexate,0.02,Negative,2,Negative,,Elderly,,,Pre-1st,08-Mar-21,baseline,,,,,29-Mar-21,10-Jun-21,13-Sep-21,73,95
+583,,Female,CD,Adalimumab,none,none,Methotrexate,0.01,Negative,290,Positive,,Elderly,,,Post-3rd,11-Nov-21,baseline,,,59,,29-Mar-21,10-Jun-21,13-Sep-21,73,95
+584,,Male,UC,Ustekinumab,none,none,none,0.02,Negative,4181,Positive,,Adult,,,Post-2nd,19-Jul-21,baseline,,38,,,06-Apr-21,11-Jun-21,17-Sep-21,66,98
+585,,Male,CD,Infliximab,none,none,none,0.03,Negative,743,Positive,,Elderly,,,Post-1st,17-May-21,baseline,56,,,,22-Mar-21,07-Jun-21,16-Dec-21,77,192
+586,,Male,CD,Infliximab,none,none,none,0.03,Negative,3671,Positive,,Elderly,,,Post-2nd,29-Jun-21,baseline,,22,,,22-Mar-21,07-Jun-21,16-Dec-21,77,192
+587,,Male,UC,Infliximab,none,none,none,0.02,Negative,3,Negative,,Adult,,,Pre-1st,04-Mar-21,baseline,,,,,15-May-21,08-Jul-21,,54,
+588,,Male,UC,Infliximab,none,none,none,0.01,Negative,10,Negative,,Adult,,,Post-2nd,09-Nov-21,baseline,,124,,,15-May-21,08-Jul-21,,54,
+589,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,5,Negative,,Adult,,,Post-1st,08-Jun-21,baseline,55,,,,14-Apr-21,10-Jun-21,19-Nov-21,57,162
+590,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,918,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,20,,,14-Apr-21,10-Jun-21,19-Nov-21,57,162
+591,,Female,CD,Ustekinumab,none,none,none,0.12,Negative,17,Negative,,Adult,,,Post-2nd,03-Sep-21,baseline,,123,,,07-Apr-21,03-May-21,03-Sep-21,26,123
+592,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,2168,Positive,,Adult,,,Post-3rd,17-Sep-21,baseline,,,14,,07-Apr-21,03-May-21,03-Sep-21,26,123
+593,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,5,Negative,,Elderly,,,Pre-1st,05-Mar-21,baseline,,,,,19-Mar-21,07-May-21,16-Sep-21,49,132
+594,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,87,Positive,,Elderly,,,Post-1st,29-Apr-21,baseline,41,,,,19-Mar-21,07-May-21,16-Sep-21,49,132
+595,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,1561,Positive,,Elderly,,,Post-2nd,23-Jun-21,baseline,,47,,,19-Mar-21,07-May-21,16-Sep-21,49,132
+596,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,754,Positive,,Elderly,,,Post-2nd,14-Sep-21,baseline,,130,,,19-Mar-21,07-May-21,16-Sep-21,49,132
+597,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,24881,Positive,,Elderly,,,Post-3rd,14-Oct-21,baseline,,,28,,19-Mar-21,07-May-21,16-Sep-21,49,132
+598,,Female,CD,Ustekinumab,none,none,Methotrexate,0.03,Negative,2,Negative,,Adult,,,Pre-1st,03-Mar-21,baseline,,,,,15-Apr-21,19-Jun-21,30-Sep-21,65,103
+599,,Female,CD,Ustekinumab,none,none,Methotrexate,,,2936,Positive,,Adult,,,Post-2nd,15-Jul-21,baseline,,26,,,15-Apr-21,19-Jun-21,30-Sep-21,65,103
+600,,Female,CD,Ustekinumab,none,none,Methotrexate,0.79,Negative,40000,Positive,,Adult,,,Post-3rd,12-Oct-21,baseline,,,12,,15-Apr-21,19-Jun-21,30-Sep-21,65,103
+601,,Male,UC,Remicade,none,yes ,Methotrexate,0.07,Negative,5,Negative,,Adult,,,Post-1st,04-May-21,baseline,26,,,,08-Apr-21,15-May-21,29-Sep-21,37,137
+602,,Male,UC,Remicade,none,yes ,Methotrexate,0.07,Negative,808,Positive,,Adult,,,Post-2nd,31-May-21,baseline,,16,,,08-Apr-21,15-May-21,29-Sep-21,37,137
+603,,Male,UC,Remicade,none,yes ,Methotrexate,0.12,Negative,1102,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,29,,08-Apr-21,15-May-21,29-Sep-21,37,137
+604,,Male,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,18-Jun-21,baseline,,40,,,12-Apr-21,09-May-21,02-Sep-21,27,116
+605,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,6596,Positive,,Adult,,,Post-3rd,07-Oct-21,baseline,,,35,,12-Apr-21,09-May-21,02-Sep-21,27,116
+606,,Male,CD,Ustekinumab,none,none,none,,,10291,Positive,,Adult,,,Post-2nd,13-Jul-21,baseline,,27,,,15-Apr-21,16-Jun-21,12-Oct-21,62,118
+607,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,4330,Positive,,Adult,,,Post-3rd,02-Nov-21,baseline,,,21,,15-Apr-21,16-Jun-21,12-Oct-21,62,118
+608,,Male,CD,Infliximab,none,none,none,,,38,Negative,,Elderly,,,Post-2nd,28-Jul-21,baseline,,70,,,21-Apr-21,19-May-21,22-Oct-21,28,156
+609,,Male,CD,Infliximab,none,none,none,0.05,Negative,13,Negative,,Elderly,,,Post-2nd,22-Sep-21,baseline,,126,,,21-Apr-21,19-May-21,22-Oct-21,28,156
+610,,Male,CD,Ustekinumab,none,none,none,,,1012,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,43,,,14-Apr-21,15-Jun-21,,62,
+611,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,3,Negative,,Adult,,,Pre-1st,09-Mar-21,baseline,,,,,13-Apr-21,27-May-21,12-Nov-21,44,169
+612,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,3698,Positive,,Adult,,,Post-1st,18-May-21,baseline,35,,,,13-Apr-21,27-May-21,12-Nov-21,44,169
+613,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,8636,Positive,,Adult,,,Post-2nd,15-Jun-21,baseline,,19,,01-Sep-21,26-Apr-21,27-May-21,25-Jun-21,31,29
+614,,Male,CD,Ustekinumab,none,none,none,,,28017,Positive,,Adult,,,Post-3rd,13-Jul-21,baseline,,,18,01-Sep-21,26-Apr-21,27-May-21,25-Jun-21,31,29
+615,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,17054,Positive,,Adult,,,Post-4th,06-Oct-21,baseline,,,,01-Sep-21,26-Apr-21,27-May-21,25-Jun-21,31,29
+616,,Male,IBD-U,Inflectra,none,none,Azathioprine/Immuran,0.31,Negative,101,Positive,,Adult,,,Post-1st,20-Apr-21,baseline,35,,,,16-Mar-21,17-Jun-21,,93,
+617,,Male,IBD-U,Inflectra,none,none,Azathioprine/Immuran,,,2449,Positive,,Adult,,,Post-2nd,15-Jul-21,baseline,,28,,,16-Mar-21,17-Jun-21,,93,
+618,,Female,UC,Ustekinumab,none,none,Methotrexate,0.04,Negative,1,Negative,,Adult,,,Pre-1st,01-Mar-21,baseline,,,,,02-Apr-21,15-May-21,05-Oct-21,43,143
+619,,Female,UC,Ustekinumab,none,none,Methotrexate,,,3066,Positive,,Adult,,,Post-2nd,27-Jul-21,baseline,,73,,,02-Apr-21,15-May-21,05-Oct-21,43,143
+620,,Female,UC,Ustekinumab,none,none,Methotrexate,0.56,Negative,14665,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,29,,02-Apr-21,15-May-21,05-Oct-21,43,143
+621,,Female,CD,Ustekinumab,none,none,none,,,797,Positive,,Elderly,,,Post-2nd,12-Jul-21,baseline,,101,,,10-Mar-21,02-Apr-21,01-Sep-21,23,152
+622,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,20142,Positive,,Elderly,,,Post-3rd,29-Sep-21,baseline,,,28,,10-Mar-21,02-Apr-21,01-Sep-21,23,152
+623,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.01,Negative,26,Negative,,Adult,,,Post-1st,20-May-21,baseline,28,,,,22-Apr-21,01-Jun-21,24-Sep-21,40,115
+624,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.01,Negative,540,Positive,,Adult,,,Post-2nd,18-Jun-21,baseline,,17,,,22-Apr-21,01-Jun-21,24-Sep-21,40,115
+625,,Female,CD,Infliximab,none,none,Azathioprine/Immuran,0.01,Negative,2518,Positive,,Adult,,,Post-3rd,01-Nov-21,baseline,,,38,,22-Apr-21,01-Jun-21,24-Sep-21,40,115
+626,,Male,CD,Vedolizumab,none,none,none,0.23,Negative,47,Negative,,Adult,263,,Pre-1st,08-Jan-21,covid,,,,,10-Jun-21,15-Jul-21,,35,
+627,,Male,CD,Vedolizumab,none,none,none,0.12,Negative,21450,Positive,,Adult,490,,Post-2nd,23-Aug-21,covid,,39,,,10-Jun-21,15-Jul-21,,35,
+628,,Female,CD,Ustekinumab,none,none,none,0.04,Negative,2,Negative,,Adult,,,Pre-1st,02-Mar-21,baseline,,,,,30-Mar-21,09-Jun-21,27-Dec-21,71,201
+629,,Female,CD,Ustekinumab,none,none,none,,,8620,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,42,,,30-Mar-21,09-Jun-21,27-Dec-21,71,201
+630,,Female,UC,Infliximab,none,none,none,0.01,Negative,745,Positive,,Adult,,,Post-2nd,08-Oct-21,baseline,,142,,,21-Apr-21,19-May-21,,28,
+631,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,1648,Positive,,Adult,,,Post-1st,21-May-21,baseline,37,,,,14-Apr-21,01-Jun-21,,48,
+632,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,19233,Positive,,Adult,,,Post-2nd,17-Jun-21,baseline,,16,,,14-Apr-21,01-Jun-21,,48,
+633,,Male,CD,Infliximab,none,none,none,0.03,Negative,2,Negative,,Adult,,,,01-Mar-21,baseline,,,,,,,,,
+634,,Male,CD,Infliximab,none,none,none,0.03,Negative,3,Negative,,Adult,,,,08-Apr-21,baseline,,,,,,,,,
+635,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,3752,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,39,,,16-Apr-21,12-Jun-21,22-Sep-21,57,102
+636,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,5870,Positive,,Adult,,,Post-3rd,19-Oct-21,baseline,,,27,,16-Apr-21,12-Jun-21,22-Sep-21,57,102
+637,,Male,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-2nd,31-Jul-21,baseline,,51,,,30-Mar-21,10-Jun-21,,72,
+638,,Female,CD,Ustekinumab,none,none,none,0.1,Negative,2,Negative,,Adult,,,Pre-1st,01-Mar-21,baseline,,,,,03-May-21,30-May-21,02-Oct-21,27,125
+639,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,2923,Positive,,Adult,,,Post-2nd,23-Sep-21,baseline,,116,,,03-May-21,30-May-21,02-Oct-21,27,125
+640,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,18419,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,26,,03-May-21,30-May-21,02-Oct-21,27,125
+641,,Male,UC,Infliximab,Oral Prednisone,none,none,0.03,Negative,4,Negative,,Adult,,,Post-2nd,17-Aug-21,baseline,,32,,,17-May-21,16-Jul-21,05-Oct-21,60,81
+642,,Male,UC,Infliximab,Oral Prednisone,none,none,0.06,Negative,8,Negative,,Adult,,,Post-3rd,16-Nov-21,baseline,,,42,,17-May-21,16-Jul-21,05-Oct-21,60,81
+643,,Female,CD,Infliximab,none,none,none,0.13,Negative,26073,Positive,,Adult,,,Post-2nd,25-Jun-21,baseline,,13,,,22-Apr-21,12-Jun-21,12-Nov-21,51,153
+644,,Female,CD,Ustekinumab,none,none,none,4.09,Positive,406,Positive,,Adult,23,,Pre-1st,15-Apr-21,Baseline to COVID,,,,,18-Apr-21,01-Jun-21,07-Sep-21,44,98
+645,,Female,CD,Ustekinumab,none,none,none,2.18,Positive,5941,Positive,,Adult,58,,Post-1st,20-May-21,Baseline to COVID,32,,,,18-Apr-21,01-Jun-21,07-Sep-21,44,98
+646,,Female,CD,Ustekinumab,none,none,none,1.27,Negative,10390,Positive,,Adult,90,,Post-2nd,21-Jun-21,Baseline to COVID,,20,,,18-Apr-21,01-Jun-21,07-Sep-21,44,98
+647,,Female,CD,Ustekinumab,none,none,none,0.43,Negative,17803,Positive,,Adult,189,,Post-3rd,28-Sep-21,Baseline to COVID,,,21,,18-Apr-21,01-Jun-21,07-Sep-21,44,98
+648,,Female,CD,Infliximab,none,none,Methotrexate,0.02,Negative,1,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,09-Apr-21,02-May-21,22-Sep-21,23,143
+649,,Female,CD,Infliximab,none,none,Methotrexate,0.03,Negative,5891,Positive,,Adult,,,Post-2nd,11-May-21,baseline,,9,,,09-Apr-21,02-May-21,22-Sep-21,23,143
+650,,Female,CD,Infliximab,none,none,none,0.02,Negative,6,Negative,,Adult,,,Pre-1st,30-Mar-21,baseline,,,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+651,,Female,CD,Infliximab,none,none,none,0.02,Negative,18,Negative,,Adult,,,Post-1st,11-May-21,baseline,33,,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+652,,Female,CD,Infliximab,none,none,none,,,139,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,47,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+653,,Female,CD,Infliximab,none,none,none,0.02,Negative,108,Positive,,Adult,,,Post-2nd,18-Aug-21,baseline,,68,,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+654,,Female,CD,Infliximab,none,none,none,0.02,Negative,1379,Positive,,Adult,,,Post-3rd,29-Sep-21,baseline,,,12,,08-Apr-21,11-Jun-21,17-Sep-21,64,98
+655,,Female,CD,Ustekinumab,none,none,none,,,1233,Positive,,Adult,,,Post-2nd,17-Jul-21,baseline,,34,,,16-Mar-21,13-Jun-21,21-Sep-21,89,100
+656,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,27250,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,37,,16-Mar-21,13-Jun-21,21-Sep-21,89,100
+657,,Female,CD,Infliximab,none,none,none,0.04,Negative,2,Negative,,Adult,,,Pre-1st,05-Mar-21,baseline,,,,,22-Apr-21,14-May-21,05-Oct-21,22,144
+658,,Female,CD,Infliximab,none,none,none,0.05,Negative,9853,Positive,,Adult,,,Post-2nd,25-May-21,baseline,,11,,,22-Apr-21,14-May-21,05-Oct-21,22,144
+659,,Female,CD,Infliximab,none,none,none,0.05,Negative,322,Positive,,Adult,,,Post-2nd,24-Sep-21,baseline,,133,,,22-Apr-21,14-May-21,05-Oct-21,22,144
+660,,Female,CD,Infliximab,none,none,none,0.19,Negative,10914,Positive,,Adult,,,Post-3rd,05-Nov-21,baseline,,,31,,22-Apr-21,14-May-21,05-Oct-21,22,144
+661,,Female,CD,Infliximab,none,none,none,0.01,Negative,62,Positive,,Adult,,,Post-1st,28-Apr-21,baseline,37,,,,22-Mar-21,27-May-21,14-Sep-21,66,110
+662,,Female,CD,Infliximab,none,none,none,0.02,Negative,2545,Positive,,Adult,,,Post-3rd,13-Oct-21,baseline,,,29,,22-Mar-21,27-May-21,14-Sep-21,66,110
+663,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Pre-1st,16-Aug-21,baseline,,,,,12-Oct-21,,,,
+664,,Female,CD,Infliximab,none,none,Methotrexate,1.51,Positive,1163,Positive,,Adult,110,,Pre-1st,15-Jan-21,covid,,,,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+665,,Female,CD,Infliximab,none,none,Methotrexate,1.23,Negative,900,Positive,,Adult,159,,Pre-1st,05-Mar-21,covid,,,,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+666,,Female,CD,Infliximab,none,none,Methotrexate,0.52,Negative,12636,Positive,,Adult,236,,Post-1st,21-May-21,covid,32,,,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+667,,Female,CD,Infliximab,none,none,Methotrexate,0.51,Negative,61528,Positive,,Adult,271,,Post-2nd,25-Jun-21,covid,,12,,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+668,,Female,CD,Infliximab,none,none,Methotrexate,0.27,Negative,16271,Positive,,Adult,351,,Post-2nd,13-Sep-21,covid,,92,,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+669,,Female,CD,Infliximab,none,none,Methotrexate,0.29,Negative,40000,Positive,,Adult,393,,Post-3rd,25-Oct-21,covid,,,17,,19-Apr-21,13-Jun-21,08-Oct-21,55,117
+670,,Female,IBD-U,Vedolizumab,none,none,Methotrexate,0.01,Negative,9329,Positive,,Adult,,,Post-2nd,06-Aug-21,baseline,,53,,,08-Apr-21,14-Jun-21,,67,
+671,,Female,CD,Ustekinumab,none,none,none,1.56,Positive,1,Negative,,Adult,,,Pre-1st,09-Jan-21,baseline,,,,,01-Sep-21,29-Sep-21,,28,
+672,,Female,CD,Ustekinumab,none,none,none,,,0,Negative,,Adult,,,Pre-1st,09-Jul-21,baseline,,,,,01-Sep-21,29-Sep-21,,28,
+673,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,15,Negative,,Adult,,,Post-1st,12-Jun-21,baseline,38,,,,05-May-21,17-Jun-21,22-Sep-21,43,97
+674,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,4194,Positive,,Adult,,,Post-2nd,05-Aug-21,baseline,,49,,,05-May-21,17-Jun-21,22-Sep-21,43,97
+675,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,2196,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,36,,05-May-21,17-Jun-21,22-Sep-21,43,97
+676,,Female,CD,Infliximab,none,none,none,,,957,Positive,,Adult,,,Post-2nd,28-Jul-21,baseline,,70,,,21-Apr-21,19-May-21,,28,
+677,,Female,CD,Infliximab,none,none,none,0.03,Negative,425,Positive,,Adult,,,Post-2nd,08-Sep-21,baseline,,112,,,21-Apr-21,19-May-21,,28,
+678,,Female,CD,Inflectra,none,none,Methotrexate,0.03,Negative,2,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,22-Apr-21,16-Jun-21,09-Sep-21,55,85
+679,,Female,CD,Inflectra,none,none,Methotrexate,0.03,Negative,1,Negative,,Adult,,,Post-1st,12-Jun-21,baseline,51,,,,22-Apr-21,16-Jun-21,09-Sep-21,55,85
+680,,Female,CD,Inflectra,none,none,Methotrexate,,,377,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,23,,,22-Apr-21,16-Jun-21,09-Sep-21,55,85
+681,,Female,CD,Inflectra,none,none,Methotrexate,0.04,Negative,3990,Positive,,Adult,,,Post-3rd,29-Sep-21,baseline,,,20,,22-Apr-21,16-Jun-21,09-Sep-21,55,85
+682,,Male,IBD-U,Ustekinumab,none,none,none,0.04,Negative,12,Negative,,Elderly,,,Post-1st,23-Apr-21,baseline,35,,,,19-Mar-21,30-Apr-21,,42,
+683,,Female,CD,Infliximab,none,none,none,0.02,Negative,14,Negative,,Adult,,,Post-1st,11-Feb-21,baseline,35,,,,07-Jan-21,15-Feb-21,15-Nov-21,39,273
+684,,Female,CD,Infliximab,none,none,none,0.02,Negative,235,Positive,,Adult,,,Post-2nd,15-Mar-21,baseline,,28,,,07-Jan-21,15-Feb-21,15-Nov-21,39,273
+685,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,3,Negative,,Adult,,,Pre-1st,01-Apr-21,baseline,,,,,25-Apr-21,17-May-21,,22,
+686,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,846,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,92,,,25-Apr-21,17-May-21,,22,
+687,,Male,CD,Ustekinumab,none,none,none,2.77,Positive,4,Negative,,Adult,,,Pre-1st,23-Mar-21,baseline,,,,,09-Apr-21,10-May-21,03-Sep-21,31,116
+688,,Male,CD,Ustekinumab,none,none,none,1.76,Negative,25663,Positive,,Adult,,,Post-3rd,27-Sep-21,baseline,,,24,,09-Apr-21,10-May-21,03-Sep-21,31,116
+689,,Male,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-3rd,23-Nov-21,baseline,,,81,,09-Apr-21,10-May-21,03-Sep-21,31,116
+690,,Male,CD,Ustekinumab,none,none,none,0.76,Negative,107,Positive,,Elderly,,,Post-1st,06-May-21,baseline,43,,,,24-Mar-21,01-Jun-21,,69,
+691,,Male,CD,Ustekinumab,none,none,none,,,1423,Positive,,Elderly,,,Post-2nd,27-Jul-21,baseline,,56,,,24-Mar-21,01-Jun-21,,69,
+692,,Male,UC,Infliximab,none,none,none,0.03,Negative,1,Negative,,Elderly,,,Pre-1st,12-Mar-21,baseline,,,,,28-Mar-21,24-Apr-21,,27,
+693,,Female,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.06,Negative,1408,Positive,,Adult,,,Post-1st,14-May-21,baseline,29,,,,15-Apr-21,18-Jun-21,02-Sep-21,64,76
+694,,Female,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.08,Negative,2881,Positive,,Adult,,,Post-2nd,24-Aug-21,baseline,,67,,,15-Apr-21,18-Jun-21,02-Sep-21,64,76
+695,,Female,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.11,Negative,4703,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,62,,15-Apr-21,18-Jun-21,02-Sep-21,64,76
+696,,Male,CD,Infliximab,none,none,none,0.02,Negative,111,Positive,,Adult,,,Post-1st,11-May-21,baseline,38,,,,03-Apr-21,19-May-21,04-Oct-21,46,138
+697,,Male,CD,Infliximab,none,none,none,,,1163,Positive,,Adult,,,Post-2nd,26-Jul-21,baseline,,68,,,03-Apr-21,19-May-21,04-Oct-21,46,138
+698,,Male,CD,Infliximab,none,none,none,0.08,Negative,40000,Positive,,Adult,,,Post-3rd,26-Oct-21,baseline,,,22,,03-Apr-21,19-May-21,04-Oct-21,46,138
+699,,Male,UC,Infliximab,none,none,Azathioprine/Immuran,0.02,Negative,452,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,74,,,12-Apr-21,10-May-21,06-Aug-21,28,88
+700,,Female,UC,none,none,Oral 5ASA,none,0.19,Negative,20473,Positive,,Adult,393,,Post-2nd,13-Apr-21,covid,,61,,,04-Jan-21,11-Feb-21,,38,
+701,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,459,Positive,,Elderly,,,Post-1st,13-Apr-21,baseline,28,,,,16-Mar-21,09-Apr-21,,24,
+702,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,2133,Positive,,Elderly,,,Post-2nd,04-May-21,baseline,,25,,,16-Mar-21,09-Apr-21,,24,
+703,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,1122,Positive,,Elderly,,,Post-2nd,20-Jul-21,baseline,,102,,,16-Mar-21,09-Apr-21,,24,
+704,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,24982,Positive,,Elderly,,,Post-2nd,16-Nov-21,baseline,,221,,,16-Mar-21,09-Apr-21,,24,
+705,,Female,CD,Remicade,none,none,none,0.02,Negative,949,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,64,,,28-Apr-21,19-May-21,29-Dec-21,21,224
+706,,Female,CD,Remicade,none,none,none,0.02,Negative,653,Positive,,Adult,,,Post-2nd,17-Sep-21,baseline,,121,,,28-Apr-21,19-May-21,29-Dec-21,21,224
+707,,Female,CD,Remicade,none,none,Azathioprine/Immuran,0.01,Negative,1,Negative,,Adult,,,Pre-1st,17-Apr-21,baseline,,,,,06-May-21,04-Jul-21,,59,
+708,,Female,CD,Remicade,none,none,Azathioprine/Immuran,0.02,Negative,5,Negative,,Adult,,,Post-1st,10-Jun-21,baseline,35,,,,06-May-21,04-Jul-21,,59,
+709,,Female,CD,Remicade,none,none,Azathioprine/Immuran,0.01,Negative,491,Positive,,Adult,,,Post-2nd,21-Aug-21,baseline,,48,,,06-May-21,04-Jul-21,,59,
+710,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,3147,Positive,,Adult,,,Post-1st,04-May-21,baseline,21,,,,13-Apr-21,15-Jul-21,,93,
+711,,Male,CD,Ustekinumab,none,none,none,0.06,Negative,19905,Positive,,Adult,,,Post-2nd,19-Aug-21,baseline,,35,,,13-Apr-21,15-Jul-21,,93,
+712,,Female,CD,Adalimumab,none,none,Methotrexate,0.61,Negative,12,Negative,,Adult,43,,Pre-1st,05-Feb-21,covid,,,,,30-Apr-21,16-Jun-21,27-Sep-21,47,103
+713,,Female,CD,Adalimumab,none,none,Methotrexate,0.04,Negative,250,Positive,,Adult,159,,Post-1st,01-Jun-21,covid,32,,,,30-Apr-21,16-Jun-21,27-Sep-21,47,103
+714,,Female,CD,Adalimumab,none,none,Methotrexate,,,886,Positive,,Adult,197,,Post-2nd,09-Jul-21,covid,,23,,,30-Apr-21,16-Jun-21,27-Sep-21,47,103
+715,,Female,CD,Adalimumab,none,none,Methotrexate,0.03,Negative,2458,Positive,,Adult,302,,Post-3rd,22-Oct-21,covid,,,25,,30-Apr-21,16-Jun-21,27-Sep-21,47,103
+716,,Female,CD,Inflectra,none,none,none,0.03,Negative,3771,Positive,,Adult,,,Post-2nd,27-Aug-21,baseline,,74,,,09-Apr-21,14-Jun-21,,66,
+717,,Male,UC,Remicade,none,none,none,0.04,Negative,3,Negative,,Adult,,,Pre-1st,01-Apr-21,baseline,,,,,26-Apr-21,01-Jun-21,28-Sep-21,36,119
+718,,Male,UC,Remicade,none,none,none,0.05,Negative,742,Positive,,Adult,,,Post-1st,26-May-21,baseline,30,,,,26-Apr-21,01-Jun-21,28-Sep-21,36,119
+719,,Male,UC,Remicade,none,none,none,,,2180,Positive,,Adult,,,Post-2nd,15-Jul-21,baseline,,44,,,26-Apr-21,01-Jun-21,28-Sep-21,36,119
+720,,Male,UC,Remicade,none,none,none,0.04,Negative,24192,Positive,,Adult,,,Post-3rd,29-Oct-21,baseline,,,31,,26-Apr-21,01-Jun-21,28-Sep-21,36,119
+721,,Female,CD,Adalimumab,none,none,none,0.78,Negative,339,Positive,,Adult,,,,11-Feb-21,Suspected COVID-19/Symptomatic,,,,,,,,,
+722,,Female,CD,Adalimumab,none,none,none,0.1,Negative,88,Positive,,Adult,,,,26-Aug-21,Suspected COVID-19/Symptomatic,,,,,,,,,
+723,,Female,CD,Adalimumab,none,none,Methotrexate,0.02,Negative,3,Negative,,Adult,,,Pre-1st,07-Apr-21,baseline,,,,,09-Apr-21,17-Jun-21,,69,
+724,,Female,CD,Remicade,none,none,Azathioprine/Immuran,0.04,Negative,2,Negative,,Adult,,,Pre-1st,22-Apr-21,baseline,,,,,27-Apr-21,21-Jun-21,,55,
+725,,Male,CD,Vedolizumab,none,none,none,0.1,Negative,4,Negative,,Adult,,,Pre-1st,08-Mar-21,baseline,,,,,30-Mar-21,11-Jun-21,,73,
+726,,Male,CD,Vedolizumab,none,none,none,0.09,Negative,1571,Positive,,Adult,,,Post-1st,07-May-21,baseline,38,,,,30-Mar-21,11-Jun-21,,73,
+727,,Female,UC,Infliximab,none,none,none,0.03,Negative,14,Negative,,Adult,,,Pre-1st,08-Mar-21,baseline,,,,,03-Apr-21,06-May-21,02-Sep-21,33,119
+728,,Female,UC,Infliximab,none,none,none,0.03,Negative,26979,Positive,,Adult,,,Post-2nd,07-Jun-21,baseline,,32,,,03-Apr-21,06-May-21,02-Sep-21,33,119
+729,,Female,UC,Infliximab,none,none,none,0.06,Negative,24142,Positive,,Adult,,,Post-3rd,23-Sep-21,baseline,,,21,,03-Apr-21,06-May-21,02-Sep-21,33,119
+730,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,1,Negative,,Adult,,,Pre-1st,03-Mar-21,baseline,,,,,01-Apr-21,21-Jun-21,,81,
+731,,Male,CD,Ustekinumab,none,none,none,,,9237,Positive,,Adult,,,Post-2nd,27-Jul-21,baseline,,36,,,01-Apr-21,21-Jun-21,,81,
+732,,Male,UC,Infliximab,none,Oral 5ASA,Methotrexate,0.03,Negative,2,Negative,,Adult,,,Pre-1st,05-Mar-21,baseline,,,,,12-May-21,07-Jul-21,,56,
+733,,Male,UC,Infliximab,none,Oral 5ASA,Methotrexate,0.03,Negative,1144,Positive,,Adult,,,Post-2nd,18-Aug-21,baseline,,42,,,12-May-21,07-Jul-21,,56,
+734,,Male,CD,Infliximab,none,none,none,0.06,Negative,0,Negative,,Adult,,,Pre-1st,05-Mar-21,baseline,,,,,15-Apr-21,23-Jun-21,14-Sep-21,69,83
+735,,Male,CD,Adalimumab,none,none,none,0.8,Negative,2,Negative,,Adult,,,Pre-1st,29-Mar-21,baseline,,,,,13-Apr-21,16-Jun-21,29-Sep-21,64,105
+736,,Male,CD,Adalimumab,none,none,none,0.7,Negative,1297,Positive,,Adult,,,Post-1st,12-May-21,baseline,29,,,,13-Apr-21,16-Jun-21,29-Sep-21,64,105
+737,,Male,CD,Adalimumab,none,none,none,0.78,Negative,546,Positive,,Adult,,,Post-2nd,16-Aug-21,baseline,,61,,,13-Apr-21,16-Jun-21,29-Sep-21,64,105
+738,,Male,CD,Adalimumab,none,none,none,0.66,Negative,151,Positive,,Adult,,,Post-2nd,01-Oct-21,baseline,,107,,,13-Apr-21,16-Jun-21,29-Sep-21,64,105
+739,,Male,UC,Vedolizumab,none,none,none,0.14,Negative,30,Negative,,Elderly,,,Post-1st,19-May-21,baseline,44,,,,05-Apr-21,23-Jun-21,,79,
+740,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.47,Negative,56,Positive,,Adult,93,,Pre-1st,06-Apr-21,covid,,,,,18-May-21,02-Jul-21,,45,
+741,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,,,9720,Positive,,Adult,206,,Post-2nd,28-Jul-21,covid,,26,,,18-May-21,02-Jul-21,,45,
+742,,Male,UC,Infliximab,none,none,Azathioprine/Immuran,0.03,Negative,2117,Positive,,Adult,,,Post-2nd,25-Aug-21,Suspected COVID-19/Symptomatic,,69,,,23-Apr-21,17-Jun-21,,55,
+743,,Female,UC,Inflectra,none,none,none,0.03,Negative,7,Negative,,Adult,,,Pre-1st,09-Mar-21,baseline,,,,,09-Apr-21,03-May-21,28-Sep-21,24,148
+744,,Female,UC,Inflectra,none,none,none,0.09,Negative,10109,Positive,,Adult,,,Post-3rd,18-Oct-21,baseline,,,20,,09-Apr-21,03-May-21,28-Sep-21,24,148
+745,,Female,CD,Infliximab,none,none,none,0.05,Negative,136,Positive,,Adult,-232,,Post-1st,22-Feb-21,baseline,40,,,,13-Jan-21,23-Feb-21,09-Oct-21,41,228
+746,,Male,UC,Adalimumab,none,none,none,0.03,Negative,658,Positive,,Adult,,,Post-1st,22-May-21,baseline,30,,,,22-Apr-21,18-Jun-21,,57,
+747,,Male,CD,Remicade,none,none,none,0.05,Negative,,,,Adult,,,,14-Sep-21,baseline,,,,,,,,,
+748,,Male,UC,Remicade,none,none,none,0.81,Negative,90,Positive,,Adult,164,,Pre-1st,28-Jan-21,covid,,,,,06-May-21,02-Jul-21,,57,
+749,,Female,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-2nd,12-Aug-21,baseline,,57,,,11-Apr-21,16-Jun-21,11-Oct-21,66,117
+750,,Female,CD,Adalimumab,none,none,none,0.01,Negative,11661,Positive,,Adult,,,Post-3rd,18-Nov-21,baseline,,,38,,11-Apr-21,16-Jun-21,11-Oct-21,66,117
+751,,Female,CD,Adalimumab,none,none,none,0.03,Negative,185,Positive,,Adult,,,Post-2nd,26-May-21,baseline,,96,,,13-Jan-21,19-Feb-21,,37,
+752,,Female,CD,Adalimumab,none,none,none,0.03,Negative,59,Positive,,Adult,,,Post-2nd,10-Sep-21,baseline,,203,,,13-Jan-21,19-Feb-21,,37,
+753,,Male,CD,Vedolizumab,none,none,none,0.05,Negative,7,Negative,,Adult,,,Pre-1st,03-Mar-21,baseline,,,,,10-Apr-21,19-Jun-21,,70,
+754,,Male,CD,Vedolizumab,none,none,none,0.07,Negative,25287,Positive,,Adult,,,Post-2nd,18-Aug-21,baseline,,60,,,10-Apr-21,19-Jun-21,,70,
+755,,Male,CD,Vedolizumab,none,none,none,,,5191,Positive,,Adult,,,Post-2nd,06-Jul-21,baseline,,55,,,07-Apr-21,12-May-21,23-Sep-21,35,134
+756,,Male,CD,Vedolizumab,none,none,none,0.01,Negative,1949,Positive,,Adult,,,Post-2nd,23-Sep-21,baseline,,134,,,07-Apr-21,12-May-21,23-Sep-21,35,134
+757,,Female,CD,Vedolizumab,none,none,none,0.16,Negative,4,Negative,,Adult,,,Pre-1st,24-Mar-21,baseline,,,,,06-Oct-21,,,,
+758,,Female,CD,Vedolizumab,none,none,none,0.17,Negative,4,Negative,,Adult,,,Pre-1st,14-Jul-21,baseline,,,,,06-Oct-21,,,,
+759,,Male,CD,Adalimumab,none,none,none,0.03,Negative,45,Negative,,Elderly,,,Post-1st,31-Mar-21,baseline,31,,,,28-Feb-21,13-Apr-21,07-Oct-21,44,177
+760,,Male,CD,Adalimumab,none,none,none,,,618,Positive,,Elderly,,,Post-2nd,12-May-21,baseline,,29,,,28-Feb-21,13-Apr-21,07-Oct-21,44,177
+761,,Male,CD,Adalimumab,none,none,none,0.03,Negative,37,Negative,,Elderly,,,Post-2nd,27-Aug-21,baseline,,136,,,28-Feb-21,13-Apr-21,07-Oct-21,44,177
+762,,Female,CD,Ustekinumab,none,none,none,6.71,Positive,1494,Positive,,Adult,52,,Pre-1st,14-May-21,Baseline to COVID,,,,,07-Jul-21,,,,
+763,,Female,CD,Vedolizumab,none,none,none,1.34,Negative,38883,Positive,,Elderly,,,Post-2nd,25-Feb-21,covid,,18,,,31-Dec-20,07-Feb-21,,38,
+764,,Female,CD,Vedolizumab,none,none,none,0.33,Negative,5177,Positive,,Elderly,,,Post-2nd,21-Sep-21,covid,,226,,,31-Dec-20,07-Feb-21,,38,
+765,,Male,CD,Adalimumab,none,none,none,0.04,Negative,13,Negative,,Adult,,,,18-Aug-21,baseline,,,,,,,,,
+766,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,6,Negative,,Adult,,,Pre-1st,13-Apr-21,baseline,,,,,15-Apr-21,18-May-21,,33,
+767,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,4140,Positive,,Adult,,,Post-2nd,18-Jun-21,baseline,,31,,,15-Apr-21,18-May-21,,33,
+768,,Male,CD,Ustekinumab,none,none,none,0.04,Negative,2094,Positive,,Adult,,,Post-2nd,22-Sep-21,baseline,,127,,,15-Apr-21,18-May-21,,33,
+769,,Female,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-2nd,03-Aug-21,baseline,,18,,,09-Apr-21,16-Jul-21,20-Sep-21,98,66
+770,,Female,CD,Infliximab,none,none,none,0.45,Negative,231,Positive,,Adult,,,Post-1st,22-May-21,baseline,42,,,,10-Apr-21,14-Jun-21,07-Sep-21,65,85
+771,,Female,CD,Infliximab,none,none,none,0.35,Negative,1431,Positive,,Adult,,,Post-2nd,24-Jun-21,baseline,,10,,,10-Apr-21,14-Jun-21,07-Sep-21,65,85
+772,,Male,UC,Inflectra,none,none,none,0.01,Negative,1,Negative,,Adult,,,Pre-1st,26-Mar-21,baseline,,,,,29-Apr-21,09-Jun-21,26-Sep-21,41,109
+773,,Male,UC,Inflectra,none,none,none,0.01,Negative,10805,Positive,,Adult,,,Post-2nd,20-Jul-21,baseline,,41,,,29-Apr-21,09-Jun-21,26-Sep-21,41,109
+774,,Female,CD,Infliximab,none,none,none,0.03,Negative,1311,Positive,,Adult,,,Post-2nd,20-Sep-21,baseline,,50,,,02-Jul-21,01-Aug-21,,30,
+775,,Female,CD,Adalimumab,none,none,none,0.02,Negative,18,Negative,,Adult,,,Post-1st,13-May-21,baseline,19,,,,24-Apr-21,01-Jul-21,,68,
+776,,Female,CD,Adalimumab,none,none,none,0.02,Negative,893,Positive,,Adult,,,Post-2nd,28-Sep-21,baseline,,89,,,24-Apr-21,01-Jul-21,,68,
+777,,Female,CD,Vedolizumab,none,none,none,0.42,Negative,1,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,03-Apr-21,24-Jun-21,29-Sep-21,82,97
+778,,Female,CD,Vedolizumab,none,none,none,0.45,Negative,433,Positive,,Adult,,,Post-1st,28-May-21,baseline,55,,,,03-Apr-21,24-Jun-21,29-Sep-21,82,97
+779,,Female,CD,Vedolizumab,none,none,none,0.26,Negative,11011,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,54,,,03-Apr-21,24-Jun-21,29-Sep-21,82,97
+780,,Male,CD,Inflectra,none,none,none,0.03,Negative,1,Negative,,Adult,,,Pre-1st,03-May-21,baseline,,,,,03-May-21,28-Jun-21,,56,
+781,,Male,CD,Inflectra,none,none,none,0.02,Negative,121,Positive,,Adult,,,Post-1st,14-Jun-21,baseline,42,,,,03-May-21,28-Jun-21,,56,
+782,,Male,CD,Inflectra,none,none,none,,,7011,Positive,,Adult,,,Post-2nd,12-Jul-21,baseline,,14,,,03-May-21,28-Jun-21,,56,
+783,,Female,CD,Vedolizumab,none,none,none,6.22,Positive,5467,Positive,,Adult,39,,Post-1st,21-May-21,Baseline to COVID,16,,,,05-May-21,20-Jul-21,,76,
+784,,Female,CD,Vedolizumab,none,none,none,,,,,,Adult,120,,Post-2nd,10-Aug-21,Baseline to COVID,,21,,,05-May-21,20-Jul-21,,76,
+785,,Male,CD,Infliximab,none,none,none,0.08,Negative,1,Negative,,Adult,,,Post-1st,01-May-21,baseline,23,,,,08-Apr-21,02-Jul-21,20-Sep-21,85,80
+786,,Male,CD,Infliximab,none,none,none,0.1,Negative,797,Positive,,Adult,,,Post-2nd,24-Jul-21,baseline,,22,,,08-Apr-21,02-Jul-21,20-Sep-21,85,80
+787,,Male,CD,Infliximab,none,none,none,0.11,Negative,5941,Positive,,Adult,,,Post-3rd,15-Oct-21,baseline,,,25,,08-Apr-21,02-Jul-21,20-Sep-21,85,80
+788,,Female,CD,Vedolizumab,none,none,none,0.05,Negative,46530,Positive,,Adult,,,Post-2nd,22-Mar-21,baseline,,30,,,13-Jan-21,20-Feb-21,,38,
+789,,Male,CD,Vedolizumab,none,none,Methotrexate,0.25,Negative,1306,Positive,,Adult,98,,Post-1st,18-May-21,covid,41,,,,07-Apr-21,28-May-21,,51,
+790,,Male,CD,Vedolizumab,none,none,Methotrexate,0.09,Negative,5810,Positive,,Adult,213,,Post-2nd,10-Sep-21,covid,,105,,,07-Apr-21,28-May-21,,51,
+791,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,7079,Positive,,Adult,,,Post-2nd,25-May-21,baseline,,19,,,14-Apr-21,06-May-21,,22,
+792,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,0,Negative,,Adult,,,Pre-1st,13-Apr-21,baseline,,,,,10-May-21,02-Jul-21,,53,
+793,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,80,Positive,,Adult,,,Post-1st,09-Jun-21,baseline,30,,,,10-May-21,02-Jul-21,,53,
+794,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,2,Negative,,Adult,,,Pre-1st,16-Apr-21,baseline,,,,,12-Apr-21,22-May-21,,40,
+795,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,604,Positive,,Adult,,,Post-1st,10-May-21,baseline,29,,,,11-Apr-21,26-Jul-21,,106,
+796,,Female,CD,Ustekinumab,none,none,none,,,16150,Positive,,Adult,,,Post-1st,30-Jul-21,baseline,110,,,,11-Apr-21,26-Jul-21,,106,
+797,,Female,UC,Infliximab,none,none,none,,,,,,Adult,,,,10-Sep-21,baseline,,,,,,,,,
+798,,Male,CD,Ustekinumab,none,none,Methotrexate,0.04,Negative,30269,Positive,,Adult,,,Post-2nd,25-Oct-21,baseline,,145,,,07-Apr-21,02-Jun-21,,56,
+799,,Female,UC,Infliximab,none,none,Methotrexate,0.02,Negative,2,Negative,,Adult,,,Pre-1st,01-Mar-21,baseline,,,,,10-Apr-21,09-Jun-21,04-Oct-21,60,117
+800,,Female,UC,Infliximab,none,none,Methotrexate,0.02,Negative,2297,Positive,,Adult,,,Post-1st,20-May-21,baseline,40,,,,10-Apr-21,09-Jun-21,04-Oct-21,60,117
+801,,Female,UC,Infliximab,none,none,Methotrexate,0.08,Negative,28060,Positive,,Adult,,,Post-2nd,25-Jun-21,baseline,,16,,,10-Apr-21,09-Jun-21,04-Oct-21,60,117
+802,,Female,UC,Infliximab,none,none,Methotrexate,0.1,Negative,40000,Positive,,Adult,,,Post-3rd,28-Oct-21,baseline,,,24,,10-Apr-21,09-Jun-21,04-Oct-21,60,117
+803,,Female,CD,Inflectra,none,none,Methotrexate,0.02,Negative,1077,Positive,,Elderly,,,Post-2nd,30-Apr-21,baseline,,8,,,11-Mar-21,22-Apr-21,08-Oct-21,42,169
+804,,Female,CD,Inflectra,none,none,Methotrexate,0.02,Negative,517,Positive,,Elderly,,,Post-2nd,17-Sep-21,baseline,,148,,,11-Mar-21,22-Apr-21,08-Oct-21,42,169
+805,,Female,CD,Inflectra,none,none,Methotrexate,0.28,Negative,19665,Positive,,Elderly,,,Post-3rd,26-Oct-21,baseline,,,18,,11-Mar-21,22-Apr-21,08-Oct-21,42,169
+806,,Female,CD,Vedolizumab,none,none,none,0.1,Negative,6076,Positive,,Elderly,,,Post-2nd,16-Apr-21,baseline,,13,,,11-Mar-21,03-Apr-21,06-Oct-21,23,186
+807,,Female,CD,Vedolizumab,none,none,none,0.09,Negative,883,Positive,,Elderly,,,Post-2nd,11-May-21,baseline,,38,,,11-Mar-21,03-Apr-21,06-Oct-21,23,186
+808,,Female,CD,Vedolizumab,none,none,none,0.08,Negative,422,Positive,,Elderly,,,Post-2nd,31-Aug-21,baseline,,150,,,11-Mar-21,03-Apr-21,06-Oct-21,23,186
+809,,Female,CD,Vedolizumab,none,none,none,0.08,Negative,2601,Positive,,Elderly,,,Post-3rd,30-Oct-21,baseline,,,24,,11-Mar-21,03-Apr-21,06-Oct-21,23,186
+810,,Female,CD,Adalimumab,none,none,none,0.02,Negative,361,Positive,,Adult,,,Post-2nd,25-Aug-21,baseline,,75,,,12-Apr-21,11-Jun-21,,60,
+811,,Male,CD,Infliximab,none,none,none,4.12,Positive,182,Positive,,Adult,12,,Pre-1st,18-Jan-21,covid,,,,,22-Apr-21,26-Jul-21,,95,
+812,,Male,CD,Infliximab,none,none,none,1.35,Negative,342,Positive,,Adult,68,,Pre-1st,15-Mar-21,covid,,,,,22-Apr-21,26-Jul-21,,95,
+813,,Male,CD,Adalimumab,none,none,none,0.04,Negative,997,Positive,,Adult,,,Post-1st,31-May-21,baseline,48,,,,13-Apr-21,07-Jun-21,,55,
+814,,Female,UC,Vedolizumab,none,none,none,0.03,Negative,11,Negative,,Adult,,,Pre-1st,08-Mar-21,baseline,,,,,10-Apr-21,15-Jun-21,,66,
+815,,Female,UC,Vedolizumab,none,none,none,0.03,Negative,1168,Positive,,Adult,,,Post-1st,03-May-21,baseline,23,,,,10-Apr-21,15-Jun-21,,66,
+816,,Female,UC,Vedolizumab,none,none,none,0.04,Negative,8755,Positive,,Adult,,,Post-2nd,18-Aug-21,baseline,,64,,,10-Apr-21,15-Jun-21,,66,
+817,,Female,CD,Adalimumab,none,none,none,0.48,Negative,109,Positive,,Adult,103,,Pre-1st,12-Mar-21,covid,,,,,21-Apr-21,25-Jun-21,,65,
+818,,Female,UC,none,none,none,none,3.75,Positive,20944,Positive,,Adult,87,,Post-1st,10-Feb-21,covid,27,,,,14-Jan-21,22-Feb-21,,39,
+819,,Female,UC,none,none,none,none,0.37,Negative,1791,Positive,,Adult,341,,Post-2nd,22-Oct-21,covid,,242,,,14-Jan-21,22-Feb-21,,39,
+820,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,1,Negative,,Adult,,,Pre-1st,06-Apr-21,baseline,,,,,02-Apr-21,28-May-21,,56,
+821,,Female,CD,Ustekinumab,none,none,none,0.06,Negative,1501,Positive,,Adult,,,Post-2nd,24-Aug-21,baseline,,88,,,02-Apr-21,28-May-21,,56,
+822,,Female,CD,Remicade,none,none,none,0.03,Negative,0,Negative,,Adult,,,Pre-1st,17-Mar-21,baseline,,,,,24-Apr-21,12-Jun-21,,49,
+823,,Female,UC,Ustekinumab,none,yes ,none,0.03,Negative,313,Positive,,Adult,,,Post-1st,12-Jun-21,baseline,45,,,,28-Apr-21,18-Jun-21,10-Nov-21,51,145
+824,,Female,UC,Ustekinumab,none,yes ,none,,,32029,Positive,,Adult,,,Post-2nd,11-Jul-21,baseline,,23,,,28-Apr-21,18-Jun-21,10-Nov-21,51,145
+825,,Female,UC,Ustekinumab,none,yes ,none,0.24,Negative,25492,Positive,,Adult,,,Post-3rd,07-Dec-21,baseline,,,27,,28-Apr-21,18-Jun-21,10-Nov-21,51,145
+826,,Male,CD,Ustekinumab,none,none,none,0.04,Negative,0,Negative,,Adult,,,Pre-1st,25-Mar-21,baseline,,,,,10-Apr-21,11-Jun-21,,62,
+827,,Male,CD,Ustekinumab,none,none,none,0.04,Negative,212,Positive,,Adult,,,Post-1st,17-May-21,baseline,37,,,,10-Apr-21,11-Jun-21,,62,
+828,,Male,UC,Vedolizumab,none,none,none,0.35,Negative,344,Positive,,Adult,215,,Pre-1st,22-Feb-21,covid,,,,,28-Jul-21,28-Aug-21,,31,
+829,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.03,Negative,0,Negative,,Adult,,,Pre-1st,03-Apr-21,baseline,,,,,12-May-21,08-Jul-21,,57,
+830,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.03,Negative,3,Negative,,Adult,,,Post-1st,17-Jun-21,baseline,36,,,,12-May-21,08-Jul-21,,57,
+831,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.03,Negative,41,Negative,,Adult,,,Post-2nd,22-Jul-21,baseline,,14,,,12-May-21,08-Jul-21,,57,
+832,,Female,UC,Ustekinumab,none,none,none,,,437,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,40,,,09-Apr-21,30-May-21,03-Sep-21,51,96
+833,,Male,CD,Infliximab,none,none,none,0.03,Negative,0,Negative,,Adult,-28,,Pre-1st,14-Mar-21,Baseline to COVID,,,,,19-May-21,01-Aug-21,,74,
+834,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,0,Negative,,Adult,,,Pre-1st,12-Mar-21,baseline,,,,,09-Apr-21,12-May-21,23-Sep-21,33,134
+835,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,514,Positive,,Adult,,,Post-1st,07-May-21,baseline,28,,,,09-Apr-21,12-May-21,23-Sep-21,33,134
+836,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,3692,Positive,,Adult,,,Post-2nd,16-Aug-21,baseline,,96,,,09-Apr-21,12-May-21,23-Sep-21,33,134
+837,,Male,CD,Infliximab,none,none,none,0.05,Negative,3,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,20-Apr-21,25-Jun-21,,66,
+838,,Male,CD,Infliximab,none,none,none,0.05,Negative,44,Negative,,Adult,,,Post-1st,28-May-21,baseline,38,,,,20-Apr-21,25-Jun-21,,66,
+839,,Female,CD,Remicade,none,none,none,0.06,Negative,182,Positive,,Adult,,,Post-1st,30-Mar-21,baseline,38,,,,20-Feb-21,30-Mar-21,02-Sep-21,38,156
+840,,Female,CD,Remicade,none,none,none,0.05,Negative,447,Positive,,Adult,,,Post-2nd,02-Jun-21,baseline,,64,,,20-Feb-21,30-Mar-21,02-Sep-21,38,156
+841,,Female,CD,Remicade,none,none,none,0.07,Negative,152,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,156,,,20-Feb-21,30-Mar-21,02-Sep-21,38,156
+842,,Male,CD,Adalimumab,none,none,none,6.3,Positive,9005,Positive,,Adult,51,,Pre-1st,10-Feb-21,covid,,,,,11-Apr-21,17-Jun-21,,67,
+843,,Male,CD,Adalimumab,none,none,none,1.3,Negative,38645,Positive,,Adult,147,,Post-1st,17-May-21,covid,36,,,,11-Apr-21,17-Jun-21,,67,
+844,,Male,CD,Adalimumab,none,none,none,,,,,,Adult,234,,Post-2nd,12-Aug-21,covid,,56,,,11-Apr-21,17-Jun-21,,67,
+845,,Male,UC,Tofacitinib,Oral budesonide/Cortiment/Entocort,none,none,3.77,Positive,816,Positive,,Adult,75,,Pre-1st,16-Feb-21,covid,,,,,22-Apr-21,15-Jun-21,,54,
+846,,Male,UC,Tofacitinib,Oral budesonide/Cortiment/Entocort,none,none,1.04,Negative,24684,Positive,,Adult,174,,Post-1st,26-May-21,covid,34,,,,22-Apr-21,15-Jun-21,,54,
+847,,Male,UC,Tofacitinib,Oral budesonide/Cortiment/Entocort,none,none,0.47,Negative,14568,Positive,,Adult,270,,Post-2nd,30-Aug-21,covid,,76,,,22-Apr-21,15-Jun-21,,54,
+848,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,26,Negative,,Adult,,,Post-1st,20-Apr-21,baseline,13,,,,07-Apr-21,15-Jun-21,,69,
+849,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,04-Aug-21,baseline,,50,,,07-Apr-21,15-Jun-21,,69,
+850,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,0,Negative,,Elderly,,,Pre-1st,24-Mar-21,baseline,,,,,05-Apr-21,15-Jun-21,,71,
+851,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,14204,Positive,,Elderly,,,Post-2nd,19-Aug-21,baseline,,65,,,05-Apr-21,15-Jun-21,,71,
+852,,Female,CD,Adalimumab,Oral budesonide/Cortiment/Entocort,none,none,0.05,Negative,176,Positive,,Adult,,,Post-1st,11-Feb-21,baseline,30,,,,12-Jan-21,12-Feb-21,15-Oct-21,31,245
+853,,Female,CD,Adalimumab,Oral budesonide/Cortiment/Entocort,none,none,,,,,,Adult,,,Post-2nd,19-Mar-21,baseline,,35,,,12-Jan-21,12-Feb-21,15-Oct-21,31,245
+854,,Female,CD,Adalimumab,Oral budesonide/Cortiment/Entocort,none,none,0.27,Negative,1171,Positive,,Adult,,,Post-2nd,26-Aug-21,baseline,,195,,,12-Jan-21,12-Feb-21,15-Oct-21,31,245
+855,,Male,CD,Inflectra,none,none,Azathioprine/Immuran,0.04,Negative,4,Negative,,Adult,,,Pre-1st,19-Mar-21,baseline,,,,,04-Jun-21,04-Jul-21,,30,
+856,,Male,CD,Remicade,none,none,Methotrexate,0.03,Negative,226,Positive,,Adult,,,Post-1st,21-May-21,baseline,51,,,,31-Mar-21,02-Jun-21,,63,
+857,,Male,CD,Remicade,none,none,Methotrexate,,,1165,Positive,,Adult,,,Post-2nd,08-Jul-21,baseline,,36,,,31-Mar-21,02-Jun-21,,63,
+858,,Female,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.03,Negative,2491,Positive,,Adult,,,Post-2nd,10-Aug-21,baseline,,54,,,07-May-21,17-Jun-21,,41,
+859,,Female,CD,Infliximab,none,none,none,0.03,Negative,121,Positive,,Adult,,,Post-1st,02-Jun-21,baseline,34,,,,29-Apr-21,16-Jun-21,,48,
+860,,Female,CD,Infliximab,none,none,none,,,3792,Positive,,Adult,,,Post-2nd,26-Jul-21,baseline,,40,,,29-Apr-21,16-Jun-21,,48,
+861,,Female,UC,Vedolizumab,none,Oral 5ASA,none,5.88,Positive,564,Positive,,Adult,19,,Pre-1st,13-Feb-21,covid,,,,,07-Sep-21,,,,
+862,,Male,CD,Adalimumab,none,none,none,0.32,Negative,8,Negative,,Adult,121,,Pre-1st,15-Mar-21,covid,,,,,20-Apr-21,16-Jun-21,,57,
+863,,Male,CD,Adalimumab,none,none,none,0.13,Negative,483,Positive,,Adult,213,,Post-1st,15-Jun-21,covid,56,,,,20-Apr-21,16-Jun-21,,57,
+864,,Female,CD,Adalimumab,none,none,none,0.13,Negative,0,Negative,,Adult,,,Pre-1st,15-Apr-21,baseline,,,,,18-Apr-21,28-May-21,22-Sep-21,40,117
+865,,Female,CD,Adalimumab,none,none,none,,,1848,Positive,,Adult,,,Post-2nd,30-Jun-21,baseline,,33,,,18-Apr-21,28-May-21,22-Sep-21,40,117
+866,,Female,CD,Adalimumab,none,none,none,,,1860,Positive,,Adult,,,Post-2nd,02-Jul-21,baseline,,35,,,18-Apr-21,28-May-21,22-Sep-21,40,117
+867,,Female,CD,Adalimumab,none,none,none,0.11,Negative,12703,Positive,,Adult,,,Post-3rd,05-Oct-21,baseline,,,13,,18-Apr-21,28-May-21,22-Sep-21,40,117
+868,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,411,Positive,,Adult,,,Post-1st,10-Feb-21,baseline,41,,,,31-Dec-20,09-Feb-21,01-Sep-21,40,204
+869,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,5755,Positive,,Adult,,,Post-2nd,12-Apr-21,baseline,,62,,,31-Dec-20,09-Feb-21,01-Sep-21,40,204
+870,,Female,CD,Ustekinumab,none,none,none,0.17,Negative,9708,Positive,,Adult,,,Post-3rd,25-Oct-21,baseline,,,54,,31-Dec-20,09-Feb-21,01-Sep-21,40,204
+871,,Male,CD,Ustekinumab,none,none,none,0.06,Negative,13170,Positive,,Adult,,,Post-2nd,25-Aug-21,baseline,,53,,,05-May-21,03-Jul-21,,59,
+872,,Female,UC,Remicade,none,none,none,0.07,Negative,2,Negative,,Adult,,,Pre-1st,02-Mar-21,Post Vaccine covid,,,,,30-Apr-21,29-Sep-21,,152,
+873,,Female,CD,Adalimumab,none,none,none,0.05,Negative,5644,Positive,,Adult,,,Post-2nd,23-Feb-21,baseline,,47,,,17-Dec-20,07-Jan-21,09-Sep-21,21,245
+874,,Female,CD,Adalimumab,none,none,none,0.05,Negative,1401,Positive,,Adult,,,Post-2nd,16-May-21,baseline,,129,,,17-Dec-20,07-Jan-21,09-Sep-21,21,245
+875,,Female,CD,Adalimumab,none,none,none,0.07,Negative,15530,Positive,,Adult,,,Post-3rd,14-Oct-21,baseline,,,35,,17-Dec-20,07-Jan-21,09-Sep-21,21,245
+876,,Female,CD,Vedolizumab,none,none,Azathioprine/Immuran,2.07,Positive,1271,Positive,,Adult,100,,Pre-1st,30-Apr-21,covid,,,,,26-May-21,29-Jun-21,,34,
+877,,Female,UC,none,none,none,Azathioprine/Immuran,0.03,Negative,4,Negative,,Adult,,,Pre-1st,01-Mar-21,baseline,,,,,03-Mar-21,21-Apr-21,22-Sep-21,49,154
+878,,Female,UC,none,none,none,Azathioprine/Immuran,,,,,,Adult,,,Post-1st,19-Apr-21,baseline,47,,,,03-Mar-21,21-Apr-21,22-Sep-21,49,154
+879,,Female,UC,none,none,none,Azathioprine/Immuran,0.03,Negative,468,Positive,,Adult,,,Post-2nd,17-Jun-21,baseline,,57,,,03-Mar-21,21-Apr-21,22-Sep-21,49,154
+880,,Female,UC,none,none,none,Azathioprine/Immuran,0.03,Negative,515,Positive,,Adult,,,Post-2nd,20-Aug-21,baseline,,121,,,03-Mar-21,21-Apr-21,22-Sep-21,49,154
+881,,Female,UC,none,none,none,Azathioprine/Immuran,0.02,Negative,9428,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,42,,03-Mar-21,21-Apr-21,22-Sep-21,49,154
+882,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.02,Negative,52,Positive,,Adult,,,Post-1st,23-Feb-21,baseline,37,,,,17-Jan-21,24-Feb-21,,38,
+883,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.02,Negative,2664,Positive,,Adult,,,Post-2nd,24-Mar-21,baseline,,28,,,17-Jan-21,24-Feb-21,,38,
+884,,Female,CD,Adalimumab,none,none,Azathioprine/Immuran,0.02,Negative,46,Negative,,Adult,,,Post-2nd,16-Sep-21,baseline,,204,,,17-Jan-21,24-Feb-21,,38,
+885,,Male,UC,other,none,Oral 5ASA,none,0.09,Negative,322,Positive,,Adult,209,,Pre-1st,10-Feb-21,covid,,,,,18-Feb-21,30-Mar-21,03-Dec-21,40,248
+886,,Male,UC,other,none,Oral 5ASA,none,0.04,Negative,5996,Positive,,Adult,282,,Post-2nd,24-Apr-21,covid,,25,,,18-Feb-21,30-Mar-21,03-Dec-21,40,248
+887,,Male,UC,other,none,Oral 5ASA,none,,,,,,Adult,393,,Post-2nd,13-Aug-21,covid,,136,,,18-Feb-21,30-Mar-21,03-Dec-21,40,248
+888,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,1014,Positive,,Adult,,,Post-1st,24-Mar-21,baseline,33,,,,19-Feb-21,29-Mar-21,03-Sep-21,38,158
+889,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,9554,Positive,,Adult,,,Post-2nd,19-May-21,baseline,,51,,,19-Feb-21,29-Mar-21,03-Sep-21,38,158
+890,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,2620,Positive,,Adult,,,Post-2nd,25-Aug-21,baseline,,149,,,19-Feb-21,29-Mar-21,03-Sep-21,38,158
+891,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,6700,Positive,,Adult,,,Post-3rd,18-Nov-21,baseline,,,76,,19-Feb-21,29-Mar-21,03-Sep-21,38,158
+892,,Male,UC,Renflexis/IFX,none,none,none,,,13174,Positive,,Adult,,,Post-2nd,26-Jul-21,baseline,,35,,,25-Apr-21,21-Jun-21,,57,
+893,,Female,CD,Vedolizumab,none,none,none,5.85,Positive,14821,Positive,,Elderly,22,,,18-Feb-21,covid,,,,,,,,,
+894,,Female,CD,Vedolizumab,none,none,none,,,,,,Elderly,190,,,05-Aug-21,covid,,,,,,,,,
+895,,Female,CD,Adalimumab,none,none,none,0.02,Negative,2,Negative,,Adult,,,Pre-1st,02-Mar-21,baseline,,,,,29-Mar-21,26-Apr-21,14-Sep-21,28,141
+896,,Female,CD,Adalimumab,none,none,none,0.02,Negative,1566,Positive,,Adult,,,Post-2nd,13-May-21,baseline,,17,,,29-Mar-21,26-Apr-21,14-Sep-21,28,141
+897,,Female,CD,Adalimumab,none,none,none,0.07,Negative,56,Positive,,Adult,,,Post-2nd,26-Aug-21,baseline,,122,,,29-Mar-21,26-Apr-21,14-Sep-21,28,141
+898,,Female,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-3rd,30-Nov-21,baseline,,,77,,29-Mar-21,26-Apr-21,14-Sep-21,28,141
+899,,Female,UC,none,none,Oral 5ASA,none,0.93,Negative,1333,Positive,,Adult,93,,Pre-1st,08-Mar-21,covid,,,,,29-Aug-21,01-Oct-21,,33,
+900,,Female,UC,none,none,Oral 5ASA,none,0.39,Negative,31543,Positive,,Adult,333,,Post-2nd,03-Nov-21,covid,,33,,,29-Aug-21,01-Oct-21,,33,
+901,,Female,CD,Adalimumab,none,none,none,0.03,Negative,5564,Positive,,Adult,,,Post-2nd,12-Mar-21,baseline,,28,,,05-Jan-21,12-Feb-21,08-Oct-21,38,238
+902,,Female,CD,Adalimumab,none,none,none,0.04,Negative,137,Positive,,Adult,,,Post-2nd,13-Sep-21,baseline,,213,,,05-Jan-21,12-Feb-21,08-Oct-21,38,238
+903,,Female,CD,Adalimumab,none,none,none,0.07,Negative,29594,Positive,,Adult,,,Post-3rd,03-Nov-21,baseline,,,26,,05-Jan-21,12-Feb-21,08-Oct-21,38,238
+904,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,3,Negative,,Elderly,,,Pre-1st,14-Mar-21,baseline,,,,,25-Mar-21,04-Jun-21,10-Sep-21,71,98
+905,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,221,Positive,,Elderly,,,Post-1st,27-Apr-21,baseline,33,,,,25-Mar-21,04-Jun-21,10-Sep-21,71,98
+906,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,4674,Positive,,Elderly,,,Post-2nd,30-Jun-21,baseline,,26,,,25-Mar-21,04-Jun-21,10-Sep-21,71,98
+907,,Female,CD,Ustekinumab,none,none,none,0.14,Negative,18765,Positive,,Elderly,,,Post-3rd,27-Sep-21,baseline,,,17,,25-Mar-21,04-Jun-21,10-Sep-21,71,98
+908,,Male,CD,Remicade,none,none,none,0.41,Negative,112,Positive,,Adult,100,,Pre-1st,13-Mar-21,covid,,,,,10-Jun-21,04-Jul-21,,24,
+909,,Male,UC,Infliximab,none,Rectal 5ASA,none,0.02,Negative,4,Negative,,Adult,,,Pre-1st,12-Apr-21,baseline,,,,,22-Apr-21,21-May-21,12-Oct-21,29,144
+910,,Male,UC,Infliximab,none,Rectal 5ASA,none,0.04,Negative,6333,Positive,,Adult,,,Post-2nd,31-May-21,baseline,,10,,,22-Apr-21,21-May-21,12-Oct-21,29,144
+911,,Male,UC,Infliximab,none,Rectal 5ASA,none,0.1,Negative,11555,Positive,,Adult,,,Post-3rd,15-Nov-21,baseline,,,34,,22-Apr-21,21-May-21,12-Oct-21,29,144
+912,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,5,Negative,,Adult,,,Pre-1st,25-Mar-21,baseline,,,,,06-Apr-21,10-Jun-21,,65,
+913,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,133,Positive,,Adult,,,Post-1st,19-May-21,baseline,43,,,,06-Apr-21,10-Jun-21,,65,
+914,,Male,CD,Ustekinumab,none,none,none,7.39,Positive,671,Positive,,Elderly,22,,Pre-1st,18-Feb-21,covid,,,,,23-Mar-21,08-Jun-21,15-Oct-21,77,129
+915,,Male,CD,Ustekinumab,none,none,none,6.73,Positive,14619,Positive,,Elderly,83,,Post-1st,20-Apr-21,covid,28,,,,23-Mar-21,08-Jun-21,15-Oct-21,77,129
+916,,Male,CD,Ustekinumab,none,none,none,3.29,Positive,20380,Positive,,Elderly,174,,Post-2nd,20-Jul-21,covid,,42,,,23-Mar-21,08-Jun-21,15-Oct-21,77,129
+917,,Male,CD,Ustekinumab,none,none,none,2.64,Negative,32231,Positive,,Elderly,282,,Post-3rd,05-Nov-21,covid,,,21,,23-Mar-21,08-Jun-21,15-Oct-21,77,129
+918,,Male,UC,none,none,none,Azathioprine/Immuran,6.44,Positive,714,Positive,,Adult,49,,Pre-1st,01-Apr-21,covid,,,,,01-May-21,10-Jul-21,,70,
+919,,Female,CD,Adalimumab,none,none,none,0.02,Negative,2,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,11-Apr-21,08-Jun-21,,58,
+920,,Female,CD,Adalimumab,none,none,none,0.03,Negative,228,Positive,,Adult,,,Post-1st,01-Jun-21,baseline,51,,,,11-Apr-21,08-Jun-21,,58,
+921,,Female,CD,Adalimumab,none,none,none,0.03,Negative,5238,Positive,,Adult,,,Post-2nd,29-Jun-21,baseline,,21,,,11-Apr-21,08-Jun-21,,58,
+922,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,2,Negative,,Adult,,,Pre-1st,10-Mar-21,baseline,,,,,26-Apr-21,17-Jun-21,04-Oct-21,52,109
+923,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,82,Positive,,Adult,,,Post-1st,31-May-21,baseline,35,,,,26-Apr-21,17-Jun-21,04-Oct-21,52,109
+924,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,2231,Positive,,Adult,,,Post-2nd,16-Sep-21,baseline,,91,,,26-Apr-21,17-Jun-21,04-Oct-21,52,109
+925,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,10645,Positive,,Adult,,,Post-3rd,18-Oct-21,baseline,,,14,,26-Apr-21,17-Jun-21,04-Oct-21,52,109
+926,,Male,CD,Vedolizumab,none,none,none,0.05,Negative,6428,Positive,,Adult,,,Post-2nd,05-Mar-21,baseline,,13,,,13-Jan-21,20-Feb-21,22-Sep-21,38,214
+927,,Male,CD,Vedolizumab,none,none,none,0.04,Negative,666,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,201,,,13-Jan-21,20-Feb-21,22-Sep-21,38,214
+928,,Female,CD,Adalimumab,none,none,none,0.02,Negative,476,Positive,,Adult,,,Post-1st,05-Apr-21,baseline,34,,,,02-Mar-21,13-Apr-21,,42,
+929,,Female,CD,Adalimumab,none,none,none,0.02,Negative,927,Positive,,Adult,,,Post-2nd,07-Jun-21,baseline,,55,,,02-Mar-21,13-Apr-21,,42,
+930,,Female,CD,Adalimumab,none,none,none,0.02,Negative,419,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,126,,,02-Mar-21,13-Apr-21,,42,
+931,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,1295,Positive,,Adult,,,Post-2nd,18-Mar-21,baseline,,39,,,31-Dec-20,07-Feb-21,,38,
+932,,Female,CD,Ustekinumab,none,none,none,0.06,Negative,191,Positive,,Adult,,,Post-2nd,02-Sep-21,baseline,,207,,,31-Dec-20,07-Feb-21,,38,
+933,,Female,CD,Remicade,none,none,none,0.06,Negative,98,Positive,,Adult,-127,,Post-1st,13-May-21,baseline,35,,,,08-Apr-21,17-Jul-21,21-Oct-21,100,96
+934,,Male,UC,Adalimumab,none,Rectal 5ASA,none,0.06,Negative,6783,Positive,,Adult,,,Post-2nd,06-Oct-21,baseline,,148,,,07-Apr-21,11-May-21,,34,
+935,,Male,CD,Infliximab,none,none,none,0.02,Negative,0,Negative,,Adult,,,Pre-1st,26-Mar-21,baseline,,,,,14-Apr-21,30-Jun-21,16-Nov-21,77,139
+936,,Male,CD,Infliximab,none,none,none,0.02,Negative,43,Negative,,Adult,,,Post-1st,06-May-21,baseline,22,,,,14-Apr-21,30-Jun-21,16-Nov-21,77,139
+937,,Male,CD,Infliximab,none,none,none,,,9573,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,30,,,14-Apr-21,30-Jun-21,16-Nov-21,77,139
+938,,Female,CD,Ustekinumab,none,none,none,0.23,Negative,6049,Positive,,Elderly,,,Post-1st,18-May-21,baseline,31,,,,17-Apr-21,29-Jun-21,19-Oct-21,73,112
+939,,Female,CD,Ustekinumab,none,none,none,0.32,Negative,27416,Positive,,Elderly,,,Post-2nd,15-Sep-21,baseline,,78,,,17-Apr-21,29-Jun-21,19-Oct-21,73,112
+940,,Female,CD,Ustekinumab,none,none,none,0.54,Negative,67229,Positive,,Elderly,,,Post-3rd,16-Nov-21,baseline,,,28,,17-Apr-21,29-Jun-21,19-Oct-21,73,112
+941,,Female,CD,Infliximab,none,none,Methotrexate,0.03,Negative,1,Negative,,Adult,,,Pre-1st,16-Mar-21,baseline,,,,,03-Apr-21,21-Jun-21,22-Sep-21,79,93
+942,,Female,CD,Infliximab,none,none,Methotrexate,0.03,Negative,186,Positive,,Adult,,,Post-1st,06-May-21,baseline,33,,,,03-Apr-21,21-Jun-21,22-Sep-21,79,93
+943,,Female,CD,Infliximab,none,none,Methotrexate,,,1012,Positive,,Adult,,,Post-2nd,27-Jul-21,baseline,,36,,,03-Apr-21,21-Jun-21,22-Sep-21,79,93
+944,,Female,CD,Infliximab,none,none,Methotrexate,0.11,Negative,13551,Positive,,Adult,,,Post-3rd,14-Oct-21,baseline,,,22,,03-Apr-21,21-Jun-21,22-Sep-21,79,93
+945,,Male,CD,Vedolizumab,none,none,none,0.01,Negative,10,Negative,,Adult,,,Pre-1st,12-Mar-21,baseline,,,,,22-Apr-21,22-Jun-21,,61,
+946,,Female,UC,Ustekinumab,none,Both oral/Rectal,none,0.01,Negative,8472,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,64,,,14-Apr-21,14-Jun-21,,61,
+947,,Male,CD,Infliximab,none,none,none,0.06,Negative,1,Negative,,Elderly,,,Pre-1st,16-Mar-21,baseline,,,,,23-Mar-21,06-May-21,,44,
+948,,Male,UC,Ustekinumab,none,none,none,0.02,Negative,3,Negative,,Adult,,,Pre-1st,13-Mar-21,baseline,,,,,08-Apr-21,20-Jun-21,,73,
+949,,Male,UC,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,01-Aug-21,baseline,,42,,,08-Apr-21,20-Jun-21,,73,
+950,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,2,Negative,,Adult,,,Pre-1st,08-Mar-21,baseline,,,,,22-Apr-21,15-Jun-21,29-Oct-21,54,136
+951,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,140,Positive,,Adult,,,Post-1st,20-May-21,baseline,28,,,,22-Apr-21,15-Jun-21,29-Oct-21,54,136
+952,,Male,CD,Ustekinumab,none,none,none,,,2220,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,24,,,22-Apr-21,15-Jun-21,29-Oct-21,54,136
+953,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,8842,Positive,,Adult,,,Post-3rd,10-Dec-21,baseline,,,42,,22-Apr-21,15-Jun-21,29-Oct-21,54,136
+954,,Female,CD,Ustekinumab,none,none,none,0.17,Negative,2,Negative,,Elderly,,,Pre-1st,25-Mar-21,baseline,,,,,27-Mar-21,10-Jun-21,08-Dec-21,75,181
+955,,Female,CD,Ustekinumab,none,none,none,0.06,Negative,178,Positive,,Elderly,,,Post-1st,08-May-21,baseline,42,,,,27-Mar-21,10-Jun-21,08-Dec-21,75,181
+956,,Female,CD,Ustekinumab,none,none,none,,,15515,Positive,,Elderly,,,Post-2nd,06-Jul-21,baseline,,26,,,27-Mar-21,10-Jun-21,08-Dec-21,75,181
+957,,Female,CD,Ustekinumab,none,none,none,0.24,Negative,1077,Positive,,Elderly,,,Post-2nd,03-Dec-21,baseline,,176,,,27-Mar-21,10-Jun-21,08-Dec-21,75,181
+958,,Male,UC,Infliximab,none,none,none,0.02,Negative,2,Negative,,Adult,,,Pre-1st,02-Mar-21,baseline,,,,,10-Apr-21,10-Jun-21,22-Sep-21,61,104
+959,,Male,UC,Infliximab,none,none,none,,,6595,Positive,,Adult,,,Post-2nd,06-Jul-21,baseline,,26,,,10-Apr-21,10-Jun-21,22-Sep-21,61,104
+960,,Female,UC,Ustekinumab,none,none,none,0.03,Negative,4626,Positive,,Adult,,,Post-2nd,19-Apr-21,baseline,,88,,,29-Dec-20,21-Jan-21,,23,
+961,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,934,Positive,,Adult,,,Post-1st,14-May-21,baseline,23,,,,21-Apr-21,08-Jun-21,,48,
+962,,Male,CD,Infliximab,none,none,none,0.02,Negative,1490,Positive,,Adult,,,Post-2nd,20-Aug-21,baseline,,66,,,04-May-21,15-Jun-21,,42,
+963,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.03,Negative,1,Negative,,Adult,,,Pre-1st,25-Mar-21,baseline,,,,,06-Apr-21,13-Jun-21,31-Oct-21,68,140
+964,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.03,Negative,111,Positive,,Adult,,,Post-1st,18-May-21,baseline,42,,,,06-Apr-21,13-Jun-21,31-Oct-21,68,140
+965,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.03,Negative,6624,Positive,,Adult,,,Post-2nd,12-Aug-21,baseline,,60,,,06-Apr-21,13-Jun-21,31-Oct-21,68,140
+966,,Female,CD,Ustekinumab,none,none,none,0.18,Negative,20064,Positive,,Elderly,243,,Post-2nd,18-Aug-21,covid,,42,,,29-May-21,07-Jul-21,,39,
+967,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,4.21,Positive,965,Positive,,Adult,113,,Pre-1st,26-Feb-21,covid,,,,,16-Jul-21,12-Aug-21,,27,
+968,,Male,UC,Infliximab,none,none,none,,,,,,Adult,,,Post-2nd,03-Aug-21,baseline,,10,,,14-May-21,24-Jul-21,,71,
+969,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.07,Negative,2,Negative,,Adult,,,Pre-1st,23-Mar-21,Suspected COVID-19/Symptomatic,,,,,10-Apr-21,03-Jun-21,27-Sep-21,54,116
+970,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,,,,,,Adult,,,Post-2nd,09-Aug-21,Suspected COVID-19/Symptomatic,,67,,,10-Apr-21,03-Jun-21,27-Sep-21,54,116
+971,,Male,CD,Ustekinumab,none,none,Azathioprine/Immuran,0.06,Negative,12401,Positive,,Adult,,,Post-3rd,20-Oct-21,Suspected COVID-19/Symptomatic,,,23,,10-Apr-21,03-Jun-21,27-Sep-21,54,116
+972,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,1,Negative,,Adult,,,Pre-1st,19-Apr-21,baseline,,,,,22-Apr-21,21-Jun-21,,60,
+973,,Male,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,09-Aug-21,baseline,,49,,,22-Apr-21,21-Jun-21,,60,
+974,,Male,CD,none,none,none,Azathioprine/Immuran,0.01,Negative,69,Positive,,Elderly,,,Post-1st,12-Apr-21,baseline,38,,,,05-Mar-21,12-Apr-21,18-Oct-21,38,189
+975,,Male,CD,none,none,none,Azathioprine/Immuran,,,,,,Elderly,,,Post-2nd,04-May-21,baseline,,22,,,05-Mar-21,12-Apr-21,18-Oct-21,38,189
+976,,Male,CD,none,none,none,Azathioprine/Immuran,,,,,,Elderly,,,Post-2nd,13-Aug-21,baseline,,123,,,05-Mar-21,12-Apr-21,18-Oct-21,38,189
+977,,Male,CD,none,none,none,Azathioprine/Immuran,0.01,Negative,18000,Positive,,Elderly,,,Post-3rd,01-Nov-21,baseline,,,14,,05-Mar-21,12-Apr-21,18-Oct-21,38,189
+978,,Male,CD,Inflectra,none,none,none,0.05,Negative,499,Positive,,Elderly,,,Post-1st,19-Apr-21,baseline,29,,,,21-Mar-21,29-Apr-21,,39,
+979,,Male,CD,Inflectra,none,none,none,0.04,Negative,1736,Positive,,Elderly,,,Post-2nd,20-May-21,baseline,,21,,,21-Mar-21,29-Apr-21,,39,
+980,,Male,UC,none,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.01,Negative,82,Positive,,Elderly,,,Post-1st,05-Apr-21,baseline,37,,,,27-Feb-21,08-Apr-21,23-Sep-21,40,168
+981,,Male,UC,none,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.02,Negative,946,Positive,,Elderly,,,Post-2nd,25-May-21,baseline,,47,,,27-Feb-21,08-Apr-21,23-Sep-21,40,168
+982,,Male,UC,none,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.01,Negative,171,Positive,,Elderly,,,Post-2nd,30-Aug-21,baseline,,144,,,27-Feb-21,08-Apr-21,23-Sep-21,40,168
+983,,Male,UC,none,Oral budesonide/Cortiment/Entocort,Oral 5ASA,none,0.04,Negative,7896,Positive,,Elderly,,,Post-3rd,03-Nov-21,baseline,,,41,,27-Feb-21,08-Apr-21,23-Sep-21,40,168
+984,,Male,UC,none,none,Oral 5ASA,none,0.12,Negative,117,Positive,,Adult,,,Post-1st,18-Jun-21,Suspected COVID-19/Symptomatic,56,,,,23-Apr-21,02-Jul-21,,70,
+985,,Male,UC,none,none,Oral 5ASA,none,0.14,Negative,7931,Positive,,Adult,,,Post-2nd,05-Aug-21,Suspected COVID-19/Symptomatic,,34,,,23-Apr-21,02-Jul-21,,70,
+986,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,57,Positive,,Elderly,,,Post-1st,13-Apr-21,baseline,43,,,,01-Mar-21,10-Apr-21,25-Oct-21,40,198
+987,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,3011,Positive,,Elderly,,,Post-2nd,08-Jun-21,baseline,,59,,,01-Mar-21,10-Apr-21,25-Oct-21,40,198
+988,,Female,UC,Infliximab,none,Rectal 5ASA,none,0.09,Negative,2901,Positive,,Adult,,,Post-2nd,09-Apr-21,baseline,,44,,,15-Jan-21,24-Feb-21,03-Oct-21,40,221
+989,,Female,UC,Infliximab,none,Rectal 5ASA,none,0.13,Negative,8632,Positive,,Adult,,,Post-3rd,26-Oct-21,baseline,,,23,,15-Jan-21,24-Feb-21,03-Oct-21,40,221
+990,,Male,UC,Ustekinumab,none,none,none,,,1995,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,85,,,23-Mar-21,29-Apr-21,,37,
+991,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,366,Positive,,Adult,,,Post-1st,30-Mar-21,baseline,36,,,,22-Feb-21,01-Apr-21,,38,
+992,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.06,Negative,609,Positive,,Elderly,,,Post-1st,09-Apr-21,baseline,28,,,,12-Mar-21,16-Apr-21,03-Sep-21,35,140
+993,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.06,Negative,1769,Positive,,Elderly,,,Post-2nd,12-May-21,baseline,,26,,,12-Mar-21,16-Apr-21,03-Sep-21,35,140
+994,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.07,Negative,684,Positive,,Elderly,,,Post-2nd,03-Sep-21,baseline,,140,,,12-Mar-21,16-Apr-21,03-Sep-21,35,140
+995,,Male,CD,Vedolizumab,none,Oral 5ASA,none,0.06,Negative,3592,Positive,,Elderly,,,Post-3rd,29-Oct-21,baseline,,,56,,12-Mar-21,16-Apr-21,03-Sep-21,35,140
+996,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,2,Negative,,Adult,,,Pre-1st,09-Mar-21,baseline,,,,,08-Jul-21,12-Aug-21,07-Oct-21,35,56
+997,,Male,CD,Ustekinumab,none,none,none,0.31,Negative,59,Positive,,Adult,,,Post-1st,06-Aug-21,baseline,29,,,,08-Jul-21,12-Aug-21,07-Oct-21,35,56
+998,,Male,CD,Ustekinumab,none,none,none,0.1,Negative,11541,Positive,,Adult,,,Post-3rd,10-Nov-21,baseline,,,34,,08-Jul-21,12-Aug-21,07-Oct-21,35,56
+999,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.09,Negative,5,Negative,,Adult,,,Pre-1st,07-Apr-21,baseline,,,,,13-Apr-21,07-May-21,13-Sep-21,24,129
+1000,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.08,Negative,41,Negative,,Adult,,,Post-1st,06-May-21,baseline,23,,,,13-Apr-21,07-May-21,13-Sep-21,24,129
+1001,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.07,Negative,1607,Positive,,Adult,,,Post-2nd,23-Jun-21,baseline,,47,,,13-Apr-21,07-May-21,13-Sep-21,24,129
+1002,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.06,Negative,1834,Positive,,Adult,,,Post-2nd,09-Sep-21,baseline,,125,,,13-Apr-21,07-May-21,13-Sep-21,24,129
+1003,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.06,Negative,12398,Positive,,Adult,,,Post-3rd,15-Oct-21,baseline,,,32,,13-Apr-21,07-May-21,13-Sep-21,24,129
+1004,,Female,UC,Infliximab,none,none,none,0.04,Negative,959,Positive,,Elderly,,,Post-2nd,21-Jun-21,baseline,,34,,,24-Mar-21,18-May-21,02-Sep-21,55,107
+1005,,Female,UC,Infliximab,none,none,none,0.04,Negative,1497,Positive,,Elderly,,,Post-2nd,24-Aug-21,baseline,,98,,,24-Mar-21,18-May-21,02-Sep-21,55,107
+1006,,Female,UC,Infliximab,none,none,none,0.04,Negative,8046,Positive,,Elderly,,,Post-3rd,22-Sep-21,baseline,,,20,,24-Mar-21,18-May-21,02-Sep-21,55,107
+1007,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,9369,Positive,,Elderly,,,Post-1st,30-Apr-21,baseline,29,,,,01-Apr-21,24-Apr-21,,23,
+1008,,Female,CD,Ustekinumab,none,none,none,0.38,Negative,720,Positive,,Elderly,,,Post-2nd,23-Oct-21,baseline,,182,,,01-Apr-21,24-Apr-21,,23,
+1009,,Male,CD,Infliximab,none,none,none,0.02,Negative,232,Positive,,Adult,,,Post-1st,08-Apr-21,baseline,40,,,,27-Feb-21,09-Apr-21,,41,
+1010,,Male,CD,Infliximab,none,none,none,0.03,Negative,412,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,103,,,27-Feb-21,09-Apr-21,,41,
+1011,,Male,CD,Infliximab,none,none,none,0.03,Negative,139,Positive,,Adult,,,Post-2nd,21-Oct-21,baseline,,195,,,27-Feb-21,09-Apr-21,,41,
+1012,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,1,Negative,,Adult,,,Pre-1st,29-Mar-21,baseline,,,,,20-Apr-21,23-Jul-21,,94,
+1013,,Female,CD,Vedolizumab,none,none,none,0.06,Negative,1207,Positive,,Adult,,,Post-1st,13-May-21,baseline,23,,,,20-Apr-21,23-Jul-21,,94,
+1014,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,36676,Positive,,Adult,,,Post-2nd,06-Aug-21,baseline,,14,,,20-Apr-21,23-Jul-21,,94,
+1015,,Female,CD,Vedolizumab,none,none,none,0.03,Negative,550,Positive,,Adult,,,Post-1st,10-Jun-21,baseline,47,,,,24-Apr-21,28-Jun-21,,65,
+1016,,Female,CD,Vedolizumab,none,none,none,,,,,,Adult,,,Post-2nd,06-Aug-21,baseline,,39,,,24-Apr-21,28-Jun-21,,65,
+1017,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,490,Positive,,Adult,,,Post-2nd,30-Nov-21,baseline,,155,,,24-Apr-21,28-Jun-21,,65,
+1018,,Male,CD,none,none,none,none,0.03,Negative,128,Positive,,Elderly,,,Post-1st,12-Apr-21,baseline,36,,,,07-Mar-21,14-Apr-21,,38,
+1019,,Male,CD,none,none,none,none,0.02,Negative,5756,Positive,,Elderly,,,Post-2nd,06-May-21,baseline,,22,,,07-Mar-21,14-Apr-21,,38,
+1020,,Male,CD,none,none,none,none,0.05,Negative,995,Positive,,Elderly,,,Post-2nd,03-Sep-21,baseline,,142,,,07-Mar-21,14-Apr-21,,38,
+1021,,Female,CD,Golimumab,none,none,none,0.04,Negative,3,Negative,,Adult,,,Pre-1st,07-Mar-21,baseline,,,,,12-Apr-21,05-May-21,24-Sep-21,23,142
+1022,,Female,CD,Golimumab,none,none,none,,,,,,Adult,,,Post-2nd,14-Aug-21,baseline,,101,,,12-Apr-21,05-May-21,24-Sep-21,23,142
+1023,,Female,CD,Golimumab,none,none,none,0.05,Negative,8781,Positive,,Adult,,,Post-3rd,26-Oct-21,baseline,,,32,,12-Apr-21,05-May-21,24-Sep-21,23,142
+1024,,Male,CD,Remicade,none,none,none,0.03,Negative,3,Negative,,Adult,,,Pre-1st,31-Mar-21,baseline,,,,,14-Apr-21,13-Jun-21,,60,
+1025,,Male,CD,Remicade,none,none,none,0.03,Negative,97,Positive,,Adult,,,Post-1st,26-May-21,baseline,42,,,,14-Apr-21,13-Jun-21,,60,
+1026,,Male,CD,Remicade,none,none,none,0.03,Negative,1842,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,38,,,14-Apr-21,13-Jun-21,,60,
+1027,,Male,CD,Remicade,none,none,none,0.2,Negative,127,Positive,,Adult,,,Post-2nd,10-Nov-21,baseline,,150,,,14-Apr-21,13-Jun-21,,60,
+1028,,Male,CD,none,none,yes ,none,0.03,Negative,592,Positive,,Adult,,,Post-1st,04-Jun-21,baseline,37,,,,28-Apr-21,19-Jun-21,14-Dec-21,52,178
+1029,,Male,CD,none,none,yes ,none,,,10271,Positive,,Adult,,,Post-2nd,06-Jul-21,baseline,,17,,,28-Apr-21,19-Jun-21,14-Dec-21,52,178
+1030,,Male,CD,none,none,yes ,none,0.31,Negative,2628,Positive,,Adult,,,Post-2nd,10-Dec-21,baseline,,174,,,28-Apr-21,19-Jun-21,14-Dec-21,52,178
+1031,,Male,UC,none,none,Oral 5ASA,none,0.03,Negative,22,Negative,,Elderly,,,Post-1st,24-Apr-21,baseline,29,,,,26-Mar-21,05-Jun-21,05-Dec-21,71,183
+1032,,Male,UC,none,none,Oral 5ASA,none,0.03,Negative,3246,Positive,,Elderly,,,Post-2nd,21-Jun-21,baseline,,16,,,26-Mar-21,05-Jun-21,05-Dec-21,71,183
+1033,,Male,UC,none,none,Oral 5ASA,none,0.02,Negative,789,Positive,,Elderly,,,Post-2nd,01-Oct-21,baseline,,118,,,26-Mar-21,05-Jun-21,05-Dec-21,71,183
+1034,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,3,Negative,,Adult,,,Pre-1st,30-Mar-21,baseline,,,,,13-Apr-21,22-Jun-21,02-Sep-21,70,72
+1035,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,1626,Positive,,Adult,,,Post-1st,25-May-21,baseline,42,,,,13-Apr-21,22-Jun-21,02-Sep-21,70,72
+1036,,Female,CD,Ustekinumab,none,none,none,0.07,Negative,26157,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,30,,,13-Apr-21,22-Jun-21,02-Sep-21,70,72
+1037,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,5778,Positive,,Adult,,,Post-3rd,09-Nov-21,baseline,,,68,,13-Apr-21,22-Jun-21,02-Sep-21,70,72
+1038,,Female,UC,Vedolizumab,none,Oral 5ASA,none,0.05,Negative,8212,Positive,,Adult,,,Post-2nd,15-Mar-21,baseline,,36,,,03-Jan-21,07-Feb-21,,35,
+1039,,Female,UC,Vedolizumab,none,Oral 5ASA,none,0.23,Negative,1990,Positive,,Adult,,,Post-2nd,09-Nov-21,baseline,,275,,,03-Jan-21,07-Feb-21,,35,
+1040,,Male,CD,Ustekinumab,none,none,none,0.08,Negative,2,Negative,,Adult,,,Pre-1st,09-Apr-21,baseline,,,,,09-May-21,08-Jul-21,22-Oct-21,60,106
+1041,,Male,CD,Ustekinumab,none,none,none,0.1,Negative,244,Positive,,Adult,,,Post-1st,04-Jun-21,baseline,26,,,,09-May-21,08-Jul-21,22-Oct-21,60,106
+1042,,Male,CD,Ustekinumab,none,none,none,0.1,Negative,12709,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,22,,,09-May-21,08-Jul-21,22-Oct-21,60,106
+1043,,Male,CD,Ustekinumab,none,none,none,0.24,Negative,16349,Positive,,Adult,,,Post-3rd,12-Nov-21,baseline,,,21,,09-May-21,08-Jul-21,22-Oct-21,60,106
+1044,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,5,Negative,,Adult,,,Pre-1st,10-Mar-21,baseline,,,,,06-Apr-21,16-May-21,08-Oct-21,40,145
+1045,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,127,Positive,,Adult,,,Post-1st,06-May-21,baseline,30,,,,06-Apr-21,16-May-21,08-Oct-21,40,145
+1046,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,662,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,93,,,06-Apr-21,16-May-21,08-Oct-21,40,145
+1047,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,6859,Positive,,Adult,,,Post-3rd,05-Nov-21,baseline,,,28,,06-Apr-21,16-May-21,08-Oct-21,40,145
+1048,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.02,Negative,40,Negative,,Adult,,,Post-1st,04-May-21,baseline,27,,,,07-Apr-21,11-Jun-21,,65,
+1049,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,,,61,Positive,,Adult,,,Post-2nd,30-Jul-21,baseline,,49,,,07-Apr-21,11-Jun-21,,65,
+1050,,Male,UC,Vedolizumab,none,none,none,,,976,Positive,,Adult,,,Post-1st,07-Jul-21,baseline,47,,,,21-May-21,10-Jul-21,,50,
+1051,,Male,UC,Vedolizumab,none,none,none,0.01,Negative,32337,Positive,,Adult,,,Post-2nd,24-Jul-21,baseline,,14,,,21-May-21,10-Jul-21,,50,
+1052,,Male,UC,Vedolizumab,none,none,none,0.04,Negative,73,Positive,,Adult,,,Post-1st,13-May-21,baseline,21,,,,22-Apr-21,20-May-21,09-Sep-21,28,112
+1053,,Male,UC,Vedolizumab,none,none,none,0.03,Negative,157,Positive,,Adult,,,Post-2nd,10-Jun-21,baseline,,21,,,22-Apr-21,20-May-21,09-Sep-21,28,112
+1054,,Male,UC,Vedolizumab,none,none,none,0.13,Negative,8216,Positive,,Adult,,,Post-3rd,05-Oct-21,baseline,,,26,,22-Apr-21,20-May-21,09-Sep-21,28,112
+1055,,Male,CD,Ustekinumab,none,none,none,0.01,Negative,105,Positive,,Adult,,,Post-1st,25-May-21,New biologic/Tofacitinib start,21,,,,04-May-21,19-Jun-21,,46,
+1056,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,2716,Positive,,Adult,,,Post-2nd,16-Sep-21,New biologic/Tofacitinib start,,89,,,04-May-21,19-Jun-21,,46,
+1057,,Male,CD,Adalimumab,none,none,none,0.01,Negative,78,Positive,,Elderly,,,Post-1st,17-May-21,baseline,44,,,,03-Apr-21,25-Jun-21,08-Sep-21,83,75
+1058,,Male,CD,Adalimumab,none,none,none,0.02,Negative,4172,Positive,,Elderly,,,Post-2nd,06-Aug-21,baseline,,42,,,03-Apr-21,25-Jun-21,08-Sep-21,83,75
+1059,,Male,CD,Adalimumab,none,none,none,0.02,Negative,3631,Positive,,Elderly,,,Post-3rd,03-Nov-21,baseline,,,56,,03-Apr-21,25-Jun-21,08-Sep-21,83,75
+1060,,Male,UC,Remicade,none,yes ,Azathioprine/Immuran,0.02,Negative,1,Negative,,Adult,,,Pre-1st,15-Mar-21,baseline,,,,,28-May-21,19-Jul-21,,52,
+1061,,Male,UC,Remicade,none,yes ,Azathioprine/Immuran,0.02,Negative,3465,Positive,,Adult,,,Post-2nd,16-Aug-21,baseline,,28,,,28-May-21,19-Jul-21,,52,
+1062,,Male,UC,Vedolizumab,none,yes ,none,,,2795,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,34,,,17-Mar-21,05-Jun-21,10-Sep-21,80,97
+1063,,Male,UC,Adalimumab,none,none,none,,,,,,Elderly,,,Post-2nd,04-Aug-21,baseline,,36,,,06-Apr-21,29-Jun-21,,84,
+1064,,Male,UC,Vedolizumab,none,none,none,0.02,Negative,5155,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,76,,,07-Apr-21,01-May-21,10-Sep-21,24,132
+1065,,Male,UC,Infliximab,none,none,none,0.03,Negative,63,Positive,,Elderly,,,Post-1st,06-May-21,baseline,42,,,,25-Mar-21,10-Jun-21,,77,
+1066,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,20,Negative,,Adult,,,Post-1st,05-Apr-21,baseline,24,,,,12-Mar-21,19-Jun-21,,99,
+1067,,Male,CD,Ustekinumab,none,none,none,0.05,Negative,142,Positive,,Adult,,,Post-2nd,28-Jun-21,baseline,,9,,,12-Mar-21,19-Jun-21,,99,
+1068,,Male,CD,Ustekinumab,none,none,none,0.22,Negative,356,Positive,,Elderly,,,Post-2nd,09-Dec-21,baseline,,173,,,12-Mar-21,19-Jun-21,,99,
+1069,,Female,UC,Infliximab,none,none,none,0.38,Negative,324,Positive,,Adult,124,,Pre-1st,25-Mar-21,covid,,,,,22-Sep-21,,,,
+1070,,Female,CD,Ustekinumab,none,none,none,0.02,Negative,607,Positive,,Adult,,,Post-1st,26-May-21,baseline,42,,,,14-Apr-21,11-Jun-21,14-Nov-21,58,156
+1071,,Female,CD,Ustekinumab,none,none,none,,,3205,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,42,,,14-Apr-21,11-Jun-21,14-Nov-21,58,156
+1072,,Female,CD,Ustekinumab,none,none,none,0.01,Negative,1023,Positive,,Adult,,,Post-2nd,06-Nov-21,baseline,,148,,,14-Apr-21,11-Jun-21,14-Nov-21,58,156
+1073,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,27081,Positive,,Adult,,,Post-3rd,30-Nov-21,baseline,,,16,,14-Apr-21,11-Jun-21,14-Nov-21,58,156
+1074,,Male,UC,none,Oral Prednisone,yes ,none,0.06,Negative,5,Negative,,Elderly,,,Post-2nd,15-Mar-21,baseline,,16,,,18-Jan-21,27-Feb-21,02-Sep-21,40,187
+1075,,Male,UC,none,Oral Prednisone,yes ,none,,,7,Negative,,Elderly,,,Post-2nd,12-Jul-21,baseline,,135,,,18-Jan-21,27-Feb-21,02-Sep-21,40,187
+1076,,Male,UC,none,Oral Prednisone,yes ,none,0.16,Negative,667,Positive,,Elderly,,,Post-3rd,15-Nov-21,baseline,,,74,,18-Jan-21,27-Feb-21,02-Sep-21,40,187
+1077,,Female,CD,Adalimumab,none,none,none,0.06,Negative,4398,Positive,,Elderly,,,Post-2nd,31-May-21,baseline,,22,,,16-Apr-21,09-May-21,30-Nov-21,23,205
+1078,,Female,CD,Adalimumab,none,none,none,0.05,Negative,434,Positive,,Elderly,,,Post-2nd,09-Sep-21,baseline,,123,,,16-Apr-21,09-May-21,30-Nov-21,23,205
+1079,,Female,CD,Tofacitinib,none,none,none,0.02,Negative,7,Negative,,Elderly,,,Post-1st,10-May-21,baseline,55,,,,16-Mar-21,14-Jun-21,17-Nov-21,90,156
+1080,,Female,CD,Tofacitinib,none,none,none,,,273,Positive,,Elderly,,,Post-2nd,05-Jul-21,baseline,,21,,,16-Mar-21,14-Jun-21,17-Nov-21,90,156
+1081,,Female,CD,Tofacitinib,none,none,none,0.02,Negative,813,Positive,,Elderly,,,Post-3rd,24-Nov-21,baseline,,,7,,16-Mar-21,14-Jun-21,17-Nov-21,90,156
+1082,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,43,Negative,,Elderly,,,Post-1st,07-May-21,baseline,45,,,,23-Mar-21,17-May-21,12-Sep-21,55,118
+1083,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,2917,Positive,,Elderly,,,Post-2nd,08-Jun-21,baseline,,22,,,23-Mar-21,17-May-21,12-Sep-21,55,118
+1084,,Male,CD,Vedolizumab,none,none,none,0.02,Negative,3010,Positive,,Elderly,,,Post-3rd,25-Oct-21,baseline,,,43,,23-Mar-21,17-May-21,12-Sep-21,55,118
+1085,,Female,CD,Adalimumab,none,none,none,,,,,,Adult,,,Post-1st,10-May-21,baseline,28,,,,12-Apr-21,03-Jun-21,,52,
+1086,,Female,CD,Adalimumab,none,none,none,0.03,Negative,4141,Positive,,Adult,,,Post-2nd,21-Jun-21,baseline,,18,,,12-Apr-21,03-Jun-21,,52,
+1087,,Female,CD,Adalimumab,none,none,none,0.02,Negative,426,Positive,,Adult,,,Post-2nd,01-Oct-21,baseline,,120,,,12-Apr-21,03-Jun-21,,52,
+1088,,Female,UC,Ustekinumab,none,Oral 5ASA,none,0.06,Negative,351,Positive,,Adult,,,Post-1st,28-May-21,baseline,54,,,,04-Apr-21,11-Jun-21,17-Oct-21,68,128
+1089,,Female,UC,Ustekinumab,none,Oral 5ASA,none,,,12090,Positive,,Adult,,,Post-2nd,05-Jul-21,baseline,,24,,,04-Apr-21,11-Jun-21,17-Oct-21,68,128
+1090,,Female,UC,Ustekinumab,none,Oral 5ASA,none,0.57,Negative,14068,Positive,,Elderly,,,Post-3rd,24-Nov-21,baseline,,,38,,04-Apr-21,11-Jun-21,17-Oct-21,68,128
+1091,,Female,CD,Vedolizumab,Oral Prednisone,none,none,0.02,Negative,675,Positive,,Elderly,,,Post-1st,19-Apr-21,New biologic/Tofacitinib start,32,,,,18-Mar-21,22-Apr-21,05-Oct-21,35,166
+1092,,Female,CD,Vedolizumab,Oral Prednisone,none,none,0.02,Negative,1511,Positive,,Elderly,,,Post-2nd,22-Jul-21,New biologic/Tofacitinib start,,91,,,18-Mar-21,22-Apr-21,05-Oct-21,35,166
+1093,,Female,CD,Vedolizumab,Oral Prednisone,none,none,0.02,Negative,19256,Positive,,Elderly,,,Post-3rd,02-Nov-21,New biologic/Tofacitinib start,,,28,,18-Mar-21,22-Apr-21,05-Oct-21,35,166
+1094,,Male,CD,Adalimumab,none,none,none,0.08,Negative,2111,Positive,,Adult,,,Post-2nd,17-Aug-21,baseline,,101,,,11-Apr-21,08-May-21,,27,
+1095,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,105,Positive,,Elderly,,,Post-1st,09-Jun-21,baseline,72,,,,29-Mar-21,17-Jun-21,,80,
+1096,,Female,CD,Vedolizumab,none,none,none,,,25814,Positive,,Elderly,,,Post-2nd,30-Jun-21,baseline,,13,,,29-Mar-21,17-Jun-21,,80,
+1097,,Female,CD,Vedolizumab,none,none,none,0.02,Negative,1660,Positive,,Elderly,,,Post-2nd,12-Nov-21,baseline,,148,,,29-Mar-21,17-Jun-21,,80,
+1098,,Female,CD,Adalimumab,none,none,none,0.02,Negative,27,Negative,,Elderly,,,Post-1st,12-May-21,baseline,50,,,,23-Mar-21,10-Jun-21,06-Oct-21,79,118
+1099,,Female,CD,Adalimumab,none,none,none,,,,,,Elderly,,,Post-2nd,13-Aug-21,baseline,,64,,,23-Mar-21,10-Jun-21,06-Oct-21,79,118
+1100,,Female,CD,Adalimumab,none,none,none,0.07,Negative,4818,Positive,,Elderly,,,Post-3rd,04-Nov-21,baseline,,,29,,23-Mar-21,10-Jun-21,06-Oct-21,79,118
+1101,,Male,IBD-U,Vedolizumab,none,none,none,0.09,Negative,511,Positive,,Adult,,,Post-1st,13-May-21,baseline,36,,,,07-Apr-21,22-Jun-21,,76,
+1102,,Male,IBD-U,Vedolizumab,none,none,none,0.08,Negative,11244,Positive,,Adult,,,Post-2nd,22-Jul-21,baseline,,30,,,07-Apr-21,22-Jun-21,,76,
+1103,,Male,IBD-U,Vedolizumab,none,none,none,0.08,Negative,1991,Positive,,Elderly,,,Post-2nd,09-Nov-21,baseline,,140,,,07-Apr-21,22-Jun-21,,76,
+1104,,Male,CD,Vedolizumab,none,none,none,0.07,Negative,2402,Positive,,Adult,,,Post-1st,30-Apr-21,baseline,29,,,,01-Apr-21,28-May-21,07-Oct-21,57,132
+1105,,Male,CD,Vedolizumab,none,none,none,0.04,Negative,35266,Positive,,Adult,,,Post-2nd,25-Jun-21,baseline,,28,,,01-Apr-21,28-May-21,07-Oct-21,57,132
+1106,,Male,CD,Vedolizumab,none,none,none,0.08,Negative,40000,Positive,,Adult,,,Post-3rd,15-Oct-21,baseline,,,8,,01-Apr-21,28-May-21,07-Oct-21,57,132
+1107,,Female,CD,Inflectra,none,Rectal 5ASA,none,0.06,Negative,367,Positive,,Adult,,,Post-1st,11-Jun-21,baseline,47,,,,25-Apr-21,16-Jun-21,08-Sep-21,52,84
+1108,,Female,CD,Inflectra,none,Rectal 5ASA,none,,,7113,Positive,,Adult,,,Post-2nd,09-Jul-21,baseline,,23,,,25-Apr-21,16-Jun-21,08-Sep-21,52,84
+1109,,Female,CD,none,none,none,none,0.02,Negative,219,Positive,,Elderly,,,Post-1st,21-Apr-21,baseline,28,,,,24-Mar-21,11-Jun-21,,79,
+1110,,Female,CD,none,none,none,none,,,3515,Positive,,Elderly,,,Post-2nd,07-Jul-21,baseline,,26,,,24-Mar-21,11-Jun-21,,79,
+1111,,Male,UC,none,none,yes ,Azathioprine/Immuran,0.01,Negative,692,Positive,,Adult,,,Post-1st,21-May-21,baseline,42,,,,09-Apr-21,11-Jun-21,,63,
+1112,,Male,UC,none,none,yes ,Azathioprine/Immuran,0.01,Negative,11614,Positive,,Adult,,,Post-2nd,04-Aug-21,baseline,,54,,,09-Apr-21,11-Jun-21,,63,
+1113,,Male,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.02,Negative,180,Positive,,Adult,,,Pre-1st,23-Mar-21,baseline,,,,,09-Apr-21,06-May-21,08-Sep-21,27,125
+1114,,Male,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.02,Negative,77,Positive,,Adult,,,Post-1st,05-May-21,baseline,26,,,,09-Apr-21,06-May-21,08-Sep-21,27,125
+1115,,Male,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.02,Negative,376,Positive,,Adult,,,Post-2nd,23-Jun-21,baseline,,48,,,09-Apr-21,06-May-21,08-Sep-21,27,125
+1116,,Male,CD,Ustekinumab,Oral Prednisone,none,Methotrexate,0.02,Negative,18020,Positive,,Adult,,,Post-3rd,30-Sep-21,baseline,,,22,,09-Apr-21,06-May-21,08-Sep-21,27,125
+1117,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,5.05,Positive,53,Positive,,Adult,,,Pre-1st,06-May-21,covid,,,,,26-May-21,08-Jul-21,,43,
+1118,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,1.5,Positive,4699,Positive,,Adult,,,Post-1st,19-Jun-21,covid,24,,,,26-May-21,08-Jul-21,,43,
+1119,,Female,UC,Tofacitinib,none,yes ,none,0.01,Negative,427,Positive,,Adult,,,Post-1st,26-May-21,baseline,33,,,,23-Apr-21,29-Jun-21,,67,
+1120,,Female,UC,Tofacitinib,none,yes ,none,0.02,Negative,7375,Positive,,Adult,,,Post-2nd,21-Jul-21,baseline,,22,,,23-Apr-21,29-Jun-21,,67,
+1121,,Male,UC,Infliximab,none,Oral 5ASA,none,0.05,Negative,18195,Positive,,Elderly,,,Post-2nd,26-May-21,baseline,,12,,,16-Mar-21,14-May-21,01-Oct-21,59,140
+1122,,Male,UC,Infliximab,none,Oral 5ASA,none,0.04,Negative,2020,Positive,,Elderly,,,Post-2nd,15-Sep-21,baseline,,124,,,16-Mar-21,14-May-21,01-Oct-21,59,140
+1123,,Female,CD,Vedolizumab,none,none,none,0.04,Negative,907,Positive,,Adult,,,Post-1st,15-Jun-21,baseline,44,,,,02-May-21,19-Jul-21,19-Oct-21,78,92
+1124,,Female,CD,Vedolizumab,none,none,none,0.05,Negative,20206,Positive,,Adult,,,Post-3rd,29-Nov-21,baseline,,,41,,02-May-21,19-Jul-21,19-Oct-21,78,92
+1125,,Female,UC,Infliximab,none,none,none,,,,,,Elderly,,,Post-1st,26-Apr-21,baseline,45,,,,12-Mar-21,07-Jun-21,,87,
+1126,,Female,UC,Infliximab,none,none,none,0.11,Negative,15339,Positive,,Elderly,,,Post-2nd,28-Jun-21,baseline,,21,,,12-Mar-21,07-Jun-21,,87,
+1127,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,791,Positive,,Elderly,,,Post-1st,21-Jul-21,baseline,74,,,,08-May-21,01-Oct-21,,146,
+1128,,Female,UC,none,none,Oral 5ASA,Azathioprine/Immuran,0.02,Negative,449,Positive,,Adult,,,Post-1st,31-May-21,baseline,22,,,,09-May-21,07-Jul-21,,59,
+1129,,Female,UC,none,none,Oral 5ASA,Azathioprine/Immuran,0.02,Negative,13978,Positive,,Adult,,,Post-2nd,19-Jul-21,baseline,,12,,,09-May-21,07-Jul-21,,59,
+1130,,Female,UC,none,none,Oral 5ASA,Azathioprine/Immuran,0.02,Negative,3192,Positive,,Adult,,,Post-2nd,12-Nov-21,baseline,,128,,,09-May-21,07-Jul-21,,59,
+1131,,Female,CD,Remicade,none,none,Methotrexate,0.03,Negative,0,Negative,,Adult,,,Post-1st,03-May-21,baseline,33,,,,31-Mar-21,17-Jun-21,,78,
+1132,,Female,CD,Remicade,none,none,Methotrexate,,,74,Positive,,Adult,,,Post-2nd,26-Jul-21,baseline,,39,,,31-Mar-21,17-Jun-21,,78,
+1133,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,22319,Positive,,Adult,,,Post-2nd,06-May-21,baseline,,10,,,04-Apr-21,26-Apr-21,,22,
+1134,,Female,CD,Ustekinumab,none,none,none,0.05,Negative,4330,Positive,,Adult,,,Post-2nd,01-Sep-21,baseline,,128,,,04-Apr-21,26-Apr-21,,22,
+1135,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,0.02,Negative,44,Negative,,Adult,-119,,Post-1st,27-May-21,baseline,28,,,,29-Apr-21,14-Jun-21,,46,
+1136,,Male,CD,Infliximab,none,none,Azathioprine/Immuran,,,2299,Positive,,Adult,-79,,Post-2nd,06-Jul-21,baseline,,22,,,29-Apr-21,14-Jun-21,,46,
+1137,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.12,Negative,683,Positive,,Adult,,,Post-2nd,26-Jun-21,baseline,,49,,,15-Apr-21,08-May-21,30-Sep-21,23,145
+1138,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.14,Negative,439,Positive,,Adult,,,Post-2nd,18-Sep-21,baseline,,133,,,15-Apr-21,08-May-21,30-Sep-21,23,145
+1139,,Female,CD,Vedolizumab,none,none,Methotrexate,0.03,Negative,12,Negative,,Adult,,,Post-1st,10-Jun-21,baseline,28,,,,13-May-21,12-Jul-21,,60,
+1140,,Female,CD,Vedolizumab,none,none,Methotrexate,,,,,,Adult,,,Post-2nd,05-Aug-21,baseline,,24,,,13-May-21,12-Jul-21,,60,
+1141,,Female,CD,Adalimumab,none,none,none,0.01,Negative,95,Positive,,Elderly,,,Post-2nd,26-Apr-21,baseline,,73,,,15-Jan-21,12-Feb-21,27-Sep-21,28,227
+1142,,Male,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.13,Negative,3316,Positive,,Elderly,,,Post-2nd,21-Apr-21,baseline,,9,,,03-Mar-21,12-Apr-21,13-Oct-21,40,184
+1143,,Male,CD,Vedolizumab,Oral budesonide/Cortiment/Entocort,none,none,0.13,Negative,99,Positive,,Elderly,,,Post-2nd,07-Oct-21,baseline,,178,,,03-Mar-21,12-Apr-21,13-Oct-21,40,184
+1144,,Female,UC,none,none,Oral 5ASA,none,0.04,Negative,65,Positive,,Adult,,,Post-1st,11-May-21,baseline,33,,,,08-Apr-21,08-Jun-21,,61,
+1145,,Female,UC,none,none,Oral 5ASA,none,,,2472,Positive,,Adult,,,Post-2nd,16-Jul-21,baseline,,38,,,08-Apr-21,08-Jun-21,,61,
+1146,,Female,CD,Adalimumab,none,none,none,0.08,Negative,3335,Positive,,Adult,,,Post-2nd,29-Jun-21,baseline,,15,,,15-Apr-21,14-Jun-21,10-Sep-21,60,88
+1147,,Female,CD,Adalimumab,none,none,none,0.16,Negative,9061,Positive,,Adult,,,Post-3rd,04-Oct-21,baseline,,,24,,15-Apr-21,14-Jun-21,10-Sep-21,60,88
+1148,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,183,Positive,,Adult,,,Post-1st,21-May-21,baseline,66,,,,16-Mar-21,19-Jun-21,,95,
+1149,,Male,CD,Ustekinumab,none,none,none,,,2181,Positive,,Adult,,,Post-2nd,27-Jul-21,baseline,,38,,,16-Mar-21,19-Jun-21,,95,
+1150,,Male,CD,Ustekinumab,none,none,none,0.2,Negative,1345,Positive,,Adult,,,Post-2nd,16-Nov-21,baseline,,150,,,16-Mar-21,19-Jun-21,,95,
+1151,,Male,CD,Inflectra,Oral Prednisone,none,none,0.01,Negative,3,Negative,,Adult,,,Post-1st,10-May-21,baseline,26,,,,14-Apr-21,12-May-21,02-Sep-21,28,113
+1152,,Male,CD,Inflectra,Oral Prednisone,none,none,0.01,Negative,3289,Positive,,Adult,,,Post-2nd,31-May-21,baseline,,19,,,14-Apr-21,12-May-21,02-Sep-21,28,113
+1153,,Male,CD,Inflectra,Oral Prednisone,none,none,0.01,Negative,3392,Positive,,Adult,,,Post-3rd,29-Sep-21,baseline,,,27,,14-Apr-21,12-May-21,02-Sep-21,28,113
+1154,,Female,CD,Ustekinumab,none,none,none,0.21,Negative,452,Positive,,Adult,,,Post-1st,19-May-21,baseline,36,,,,13-Apr-21,26-May-21,,43,
+1155,,Female,CD,Ustekinumab,none,none,none,,,,,,Adult,,,Post-2nd,21-Jul-21,baseline,,56,,,13-Apr-21,26-May-21,,43,
+1156,,Female,CD,Ustekinumab,none,none,none,0.21,Negative,1927,Positive,,Adult,,,Post-2nd,20-Oct-21,baseline,,147,,,13-Apr-21,26-May-21,,43,
+1157,,Female,CD,Adalimumab,none,none,none,0.03,Negative,228,Positive,,Adult,,,Post-1st,25-May-21,baseline,34,,,,21-Apr-21,19-Jun-21,,59,
+1158,,Female,CD,Adalimumab,none,none,none,,,3140,Positive,,Adult,,,Post-2nd,14-Jul-21,baseline,,25,,,21-Apr-21,19-Jun-21,,59,
+1159,,Female,CD,Remicade,none,none,none,0.01,Negative,85,Positive,,Adult,,,Post-1st,17-May-21,baseline,19,,,,28-Apr-21,12-Jun-21,,45,
+1160,,Female,CD,Remicade,none,none,none,0.01,Negative,3913,Positive,,Adult,,,Post-2nd,10-Aug-21,baseline,,59,,,28-Apr-21,12-Jun-21,,45,
+1161,,Male,CD,Ustekinumab,none,none,none,0.02,Negative,30850,Positive,,Adult,,,Post-2nd,21-Jun-21,baseline,,7,,,19-Apr-21,14-Jun-21,,56,
+1162,,Female,UC,Vedolizumab,none,none,none,0.01,Negative,4176,Positive,,Adult,,,Post-2nd,18-May-21,baseline,,8,,,18-Apr-21,10-May-21,,22,
+1163,,Female,UC,Vedolizumab,none,none,none,0.02,Negative,2128,Positive,,Adult,,,Post-2nd,15-Sep-21,baseline,,128,,,18-Apr-21,10-May-21,,22,
+1164,,Male,UC,Vedolizumab,none,Rectal 5ASA,none,0.02,Negative,19199,Positive,,Adult,,,Post-2nd,20-May-21,baseline,,12,,,06-Apr-21,08-May-21,,32,
+1165,,Male,UC,Vedolizumab,none,Rectal 5ASA,none,0.1,Negative,3650,Positive,,Adult,,,Post-2nd,04-Oct-21,baseline,,149,,,06-Apr-21,08-May-21,,32,
+1166,,Female,CD,Vedolizumab,none,none,Azathioprine/Immuran,0.78,Negative,982,Positive,,Adult,,,Post-1st,12-May-21,baseline,40,,,,02-Apr-21,03-Jun-21,,62,
+1167,,Female,CD,Vedolizumab,none,none,Azathioprine/Immuran,0.77,Negative,6100,Positive,,Adult,,,Post-2nd,05-Aug-21,baseline,,63,,,02-Apr-21,03-Jun-21,,62,
+1168,,Male,CD,Ustekinumab,none,none,none,0.01,Negative,,,,Adult,,,Post-1st,11-Jun-21,baseline,50,,,,22-Apr-21,18-Jun-21,,57,
+1169,,Male,CD,Ustekinumab,none,none,none,0.01,Negative,2985,Positive,,Adult,,,Post-2nd,14-Sep-21,baseline,,88,,,22-Apr-21,18-Jun-21,,57,
+1170,,Female,CD,Adalimumab,none,none,none,0.05,Negative,53759,Positive,,Adult,,,Post-2nd,18-May-21,baseline,,14,,,23-Mar-21,04-May-21,,42,
+1171,,Female,CD,Adalimumab,none,none,none,0.04,Negative,2184,Positive,,Adult,,,Post-2nd,21-Sep-21,baseline,,140,,,23-Mar-21,04-May-21,,42,
+1172,,Female,CD,Renflexis/IFX,none,none,none,,,2387,Positive,,Adult,,,Post-2nd,23-Jul-21,baseline,,23,,,12-Apr-21,30-Jun-21,,79,
+1173,,Female,CD,Renflexis/IFX,none,none,none,0.13,Negative,74,Positive,,Adult,,,Post-2nd,29-Oct-21,baseline,,121,,,12-Apr-21,30-Jun-21,,79,
+1174,,Female,CD,Adalimumab,none,none,none,0.04,Negative,17299,Positive,,Adult,,,Post-2nd,28-May-21,baseline,,18,,,06-Apr-21,10-May-21,02-Sep-21,34,115
+1175,,Female,CD,Adalimumab,none,none,none,0.05,Negative,27869,Positive,,Adult,,,Post-3rd,08-Oct-21,baseline,,,36,,06-Apr-21,10-May-21,02-Sep-21,34,115
+1176,,Female,CD,Inflectra,none,none,none,0.07,Negative,99,Positive,,Adult,,,Post-1st,07-May-21,baseline,33,,,,04-Apr-21,29-May-21,27-Sep-21,55,121
+1177,,Female,CD,Inflectra,none,none,none,0.08,Negative,1010,Positive,,Adult,,,Post-2nd,22-Jun-21,baseline,,24,,,04-Apr-21,29-May-21,27-Sep-21,55,121
+1178,,Male,CD,Remicade,none,none,none,0.07,Negative,0,Negative,,Adult,,,,19-May-21,baseline,,,,,,,,,
+1179,,Male,CD,Remicade,none,none,none,0.08,Negative,3,Negative,,Adult,,,,13-Sep-21,baseline,,,,,,,,,
+1180,,Male,CD,Ustekinumab,none,none,none,0.03,Negative,780,Positive,,Adult,,,Post-1st,20-May-21,baseline,38,,,,12-Apr-21,13-Jun-21,14-Dec-21,62,184
+1181,,Male,CD,Ustekinumab,none,none,none,,,3302,Positive,,Adult,,,Post-2nd,29-Jul-21,baseline,,46,,,12-Apr-21,13-Jun-21,14-Dec-21,62,184
+1182,,Female,CD,Adalimumab,none,none,none,1.82,Positive,139,Positive,,Adult,31,,Pre-1st,19-Apr-21,covid,,,,,28-Apr-21,19-May-21,,21,
+1183,,Female,CD,Adalimumab,none,none,none,0.99,Negative,7161,Positive,,Adult,60,,Post-1st,18-May-21,covid,20,,,,28-Apr-21,19-May-21,,21,
+1184,,Female,CD,Adalimumab,none,none,none,0.17,Negative,1913,Positive,,Adult,157,,Post-2nd,23-Aug-21,covid,,96,,,28-Apr-21,19-May-21,,21,
+1185,,Female,CD,Adalimumab,none,none,none,0.08,Negative,513,Positive,,Adult,236,,Post-2nd,10-Nov-21,covid,,175,,,28-Apr-21,19-May-21,,21,
+1186,,Male,CD,Infliximab,none,none,none,0.05,Negative,33,Negative,,Adult,,,Post-1st,10-Jun-21,baseline,55,,,,16-Apr-21,13-Jun-21,25-Oct-21,58,134
+1187,,Male,CD,Infliximab,none,none,none,0.05,Negative,4678,Positive,,Adult,,,Post-2nd,20-Jul-21,baseline,,37,,,16-Apr-21,13-Jun-21,25-Oct-21,58,134
+1188,,Male,CD,Infliximab,none,none,none,0.07,Negative,14962,Positive,,Adult,,,Post-3rd,26-Nov-21,baseline,,,32,,16-Apr-21,13-Jun-21,25-Oct-21,58,134
+1189,,Female,CD,Inflectra,none,none,Azathioprine/Immuran,5.78,Positive,93,Positive,,Adult,55,,Pre-1st,30-Mar-21,covid,,,,,09-Apr-21,04-May-21,,25,
+1190,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.02,Negative,197,Positive,,Elderly,,,Post-1st,21-Apr-21,baseline,35,,,,17-Mar-21,27-May-21,03-Sep-21,71,99
+1191,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.02,Negative,165,Positive,,Elderly,,,Post-1st,26-May-21,baseline,70,,,,17-Mar-21,27-May-21,03-Sep-21,71,99
+1192,,Male,CD,Remicade,none,none,Azathioprine/Immuran,,,1775,Positive,,Elderly,,,Post-2nd,23-Jul-21,baseline,,57,,,17-Mar-21,27-May-21,03-Sep-21,71,99
+1193,,Male,CD,Remicade,none,none,Azathioprine/Immuran,0.05,Negative,11062,Positive,,Elderly,,,Post-3rd,23-Sep-21,baseline,,,20,,17-Mar-21,27-May-21,03-Sep-21,71,99
+1194,,Female,CD,Ustekinumab,none,none,none,0.03,Negative,71,Positive,,Adult,,,Post-1st,07-Jun-21,baseline,41,,,,27-Apr-21,23-Jun-21,,57,
+1195,,Female,CD,Ustekinumab,none,none,none,,,6603,Positive,,Adult,,,Post-2nd,12-Jul-21,baseline,,19,,,27-Apr-21,23-Jun-21,,57,
+1196,,Female,CD,Infliximab,none,none,none,0.02,Negative,4381,Positive,,Elderly,,,Post-2nd,27-Aug-21,baseline,,51,,,10-Jun-21,07-Jul-21,,27,
+1197,,Male,UC,Vedolizumab,none,none,none,0.02,Negative,5423,Positive,,Elderly,,,Post-2nd,21-May-21,baseline,,23,,,03-Apr-21,28-Apr-21,06-Sep-21,25,131
+1198,,Male,UC,Vedolizumab,none,none,none,0.02,Negative,214,Positive,,Elderly,,,Post-2nd,09-Sep-21,baseline,,134,,,03-Apr-21,28-Apr-21,06-Sep-21,25,131
+1199,,Male,UC,Vedolizumab,none,none,none,0.01,Negative,1210,Positive,,Elderly,,,Post-3rd,04-Nov-21,baseline,,,59,,03-Apr-21,28-Apr-21,06-Sep-21,25,131
+1200,,Male,CD,Inflectra,none,none,Azathioprine/Immuran,0.13,Negative,2177,Positive,,Adult,101,,Post-1st,25-Jun-21,covid,53,,,,03-May-21,01-Jul-21,,59,
+1201,,Male,CD,Inflectra,none,none,Azathioprine/Immuran,0.06,Negative,5525,Positive,,Adult,155,,Post-2nd,18-Aug-21,covid,,48,,,03-May-21,01-Jul-21,,59,
+1202,,Male,CD,Inflectra,none,none,Azathioprine/Immuran,0.11,Negative,2864,Positive,,Adult,211,,Post-2nd,13-Oct-21,covid,,104,,,03-May-21,01-Jul-21,,59,
+1203,,Female,CD,Adalimumab,none,none,none,3.32,Positive,22465,Positive,,Adult,110,,Post-1st,17-May-21,covid,35,,,,12-Apr-21,13-Jun-21,06-Oct-21,62,115
+1204,,Female,CD,Adalimumab,none,none,none,,,10572,Positive,,Adult,161,,Post-2nd,07-Jul-21,covid,,24,,,12-Apr-21,13-Jun-21,06-Oct-21,62,115
+1205,,Female,CD,Adalimumab,none,none,none,0.45,Negative,13498,Positive,,Adult,273,,Post-3rd,27-Oct-21,covid,,,21,,12-Apr-21,13-Jun-21,06-Oct-21,62,115
+1206,,Female,CD,Adalimumab,none,none,none,0.03,Negative,821,Positive,,Adult,,,Post-1st,18-May-21,baseline,36,,,,12-Apr-21,26-May-21,,44,
+1207,,Female,CD,Adalimumab,none,none,none,,,2844,Positive,,Adult,,,Post-2nd,27-Jul-21,baseline,,62,,,12-Apr-21,26-May-21,,44,
+1208,,Female,CD,Adalimumab,none,none,none,0.02,Negative,1286,Positive,,Adult,,,Post-2nd,06-Oct-21,baseline,,133,,,12-Apr-21,26-May-21,,44,
+1209,,Female,UC,Vedolizumab,none,none,none,0.02,Negative,4583,Positive,,Adult,,,Post-2nd,05-Apr-21,baseline,,75,,,30-Dec-20,20-Jan-21,10-Sep-21,21,233
+1210,,Male,UC,Ustekinumab,Oral Prednisone,none,none,0.01,Negative,42,Negative,,Elderly,,,Post-1st,09-May-21,baseline,39,,,,31-Mar-21,13-Jun-21,15-Sep-21,74,94
+1211,,Male,UC,Ustekinumab,Oral Prednisone,none,none,0.01,Negative,1405,Positive,,Elderly,,,Post-2nd,19-Aug-21,baseline,,67,,,31-Mar-21,13-Jun-21,15-Sep-21,74,94
+1212,,Male,UC,Ustekinumab,Oral Prednisone,none,none,0.23,Negative,3824,Positive,,Elderly,,,Post-3rd,06-Nov-21,baseline,,,52,,31-Mar-21,13-Jun-21,15-Sep-21,74,94
+1213,,Female,UC,Vedolizumab,none,none,none,0.03,Negative,1165,Positive,,Elderly,,,Post-2nd,20-Aug-21,baseline,,126,,,05-Mar-21,16-Apr-21,23-Sep-21,42,160
